@@ -13,6 +13,7 @@ const scanning = true;
 const scanningCountry = true;
 const failures = [];
 const stats = [];
+const missingCidrs = new Set();
 // country 目录
 const nameASN = [];
 const ruleput = [];
@@ -215,7 +216,7 @@ async function saveLatestASN(name, directory = "country") {
               addIpCidrs(cidrList, files.cidrJson);
               //logger.info(`已写入 ${cidrList.length} 个 CIDR (${asnNumber})`);
             } else {
-              logger.info(`没有 CIDR 可写入 (${asnNumber})`);
+              missingCidrs.add(asnNumber);
             }
           }
       }
@@ -263,7 +264,7 @@ async function saveLatestASN(name, directory = "country") {
               addIpCidrs(cidrList, files.cidrJson);
               //logger.info(`已写入 ${cidrList.length} 个 CIDR (${asnNumber})`);
             } else {
-              logger.info(`没有 CIDR 可写入 (${asnNumber})`);
+              missingCidrs.add(asnNumber);
             }
           }
       }
@@ -347,6 +348,12 @@ try {
   logger.info(
     `全部完成: ${stats.length} 个规则集，${stats.reduce((sum, item) => sum + item.asns, 0)} 个 ASN 条目`,
   );
+  if (missingCidrs.size > 0) {
+    const sample = [...missingCidrs].slice(0, 20).join(", ");
+    logger.warn(
+      `${missingCidrs.size} 个 ASN 在 meta-rules-dat 中没有 CIDR，已跳过。示例: ${sample}`,
+    );
+  }
 } catch (error) {
   logger.error(error instanceof Error ? error.message : String(error));
   process.exitCode = 1;

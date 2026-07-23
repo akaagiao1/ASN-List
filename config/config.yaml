@@ -244,7 +244,6 @@ country:
   - AP # 
   - YT # Mayotte
   - WF # Wallis and Futuna
-  - UK # United Kingdom
   - PM # Saint Pierre and Miquelon
   - NU # Niue
   - MS # Montserrat
@@ -253,5 +252,4 @@ country:
   - GL # Greenland
   - ER # Eritrea
   - AX # Åland Islands
-  - AN # Netherlands Antilles
 cdn: jsd.onmicrosoft.cn

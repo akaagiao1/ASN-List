@@ -4,12 +4,6 @@ import path from "path";
 import * as cheerio from "cheerio";
 import winston from "winston";
 import yaml from "js-yaml";
-import readline from "readline";
-
-const csvFiles = [
-  "./GeoLite2-ASN-Blocks-IPv4.csv",
-  "./GeoLite2-ASN-Blocks-IPv6.csv",
-];
 
 const config = yaml.load(fs.readFileSync("./config/config.yaml", "utf8"));
 const namelistData = config.namelist;
@@ -17,7 +11,8 @@ const countryList = config.country;
 const cdn = config.cdn;
 const scanning = true;
 const scanningCountry = true;
-const asnMap = new Map();
+const failures = [];
+const stats = [];
 // country 目录
 const nameASN = [];
 const ruleput = [];
@@ -51,40 +46,6 @@ const logger = winston.createLogger({
     }),
   ],
 });
-
-// 加载 ASN → CIDR 映射
-//const asnToCIDR = await ASNCIDRMAP(csvFiles);
-async function parseCSV(filePath) {
-  const fileStream = fs.createReadStream(filePath);
-  const rl = readline.createInterface({
-    input: fileStream,
-    crlfDelay: Infinity,
-  });
-
-  let isFirstLine = true;
-  for await (const line of rl) {
-    if (isFirstLine) {
-      isFirstLine = false;
-      continue; // 跳过表头
-    }
-    const [network, asnRaw] = line.split(",");
-    const asn = parseInt(asnRaw);
-    if (!isNaN(asn)) {
-      const cidr = network.replace(/"/g, "");
-      if (!asnMap.has(asn)) {
-        asnMap.set(asn, []);
-      }
-      asnMap.get(asn).push(cidr);
-    }
-  }
-}
-
-async function ASNCIDRMAP(csvFiles) {
-  for (const file of csvFiles) {
-    await parseCSV(file);
-  }
-  return Object.fromEntries(asnMap);
-}
 
 function getChinaTime() {
   const options = {
@@ -193,10 +154,22 @@ async function saveLatestASN(name, directory = "country") {
 
     const asnEntries = Array.from(asns).filter((asn) => {
       const asnText = $(asn).find("td:nth-child(1) a").text().trim();
-      return /^AS\d+/.test(asnText);
+      const type = $(asn).find("td:nth-child(2)").text().trim();
+      return /^AS\d+$/.test(asnText) && (directory !== "data" || type === "ASN");
     });
-    //logger.info(`共找到 ${asnEntries.length} 个 ASN 条目，开始写入文件...`);
-    asnInfo(name, asnEntries.length, directory);
+    const asnNumbers = [
+      ...new Set(
+        asnEntries.map((asn) =>
+          $(asn).find("td:nth-child(1) a").text().replace("AS", "").trim(),
+        ),
+      ),
+    ].sort((a, b) => Number(a) - Number(b));
+
+    if (asnNumbers.length === 0) {
+      throw new Error(`来源返回了空 ASN 列表: ${url}`);
+    }
+
+    asnInfo(name, asnNumbers.length, directory);
     const files = getFilePaths(name, directory);
     if (directory === "data") {
       rulesetdata.push(`  - RULE-SET,ASN${name},Proxy\n`);
@@ -210,14 +183,7 @@ async function saveLatestASN(name, directory = "country") {
         `\n  ${name}cidr:\n    <<: *ipcidr\n    url: \"https://${cdn}/gh/Kwisma/ASN-List@main/${directory}/${name}/${name}_IP.yaml\"\n    path: ./ruleset/${name}_IP.yaml\n`,
       );
       nameASNdata.push(name);
-      for (let asn of asns) {
-        const asnNumber = $(asn)
-          .find("td:nth-child(1) a")
-          .text()
-          .replace("AS", "")
-          .trim();
-        const asnName = $(asn).find("td:nth-child(2)").text().trim();
-        if (asnName === "ASN") {
+      for (const asnNumber of asnNumbers) {
           fs.appendFileSync(
             files.asnResolveList,
             `IP-ASN,${asnNumber},no-resolve\n`,
@@ -240,8 +206,6 @@ async function saveLatestASN(name, directory = "country") {
           );
           //logger.info(`已写入 ASN (${asnNumber})`);
           if (scanning) {
-            //const cidrList = asnToCIDR[asnNumber];
-            //const cidrList = await fetchPrefixes(asnNumber);
             const cidrList = await readFileContentAsync(asnNumber);
             if (cidrList && cidrList.length > 0) {
               cidrList.forEach((cidr) => {
@@ -254,7 +218,6 @@ async function saveLatestASN(name, directory = "country") {
               logger.info(`没有 CIDR 可写入 (${asnNumber})`);
             }
           }
-        }
       }
     } else {
       ruleset.push(`  - RULE-SET,ASN${name},Proxy\n`);
@@ -268,13 +231,7 @@ async function saveLatestASN(name, directory = "country") {
         `\n  ${name}cidr:\n    <<: *ipcidr\n    url: \"https://${cdn}/gh/Kwisma/ASN-List@main/${directory}/${name}/${name}_IP.yaml\"\n    path: ./ruleset/${name}_IP.yaml\n`,
       );
       nameASN.push(name + " " + getFullName(name));
-      for (let asn of asns) {
-        const asnNumber = $(asn)
-          .find("td:nth-child(1) a")
-          .text()
-          .replace("AS", "")
-          .trim();
-        if (asnNumber) {
+      for (const asnNumber of asnNumbers) {
           fs.appendFileSync(
             files.asnResolveList,
             `IP-ASN,${asnNumber},no-resolve\n`,
@@ -297,8 +254,6 @@ async function saveLatestASN(name, directory = "country") {
           );
 
           if (scanningCountry) {
-            //const cidrList = asnToCIDR[asnNumber];
-            //const cidrList = await fetchPrefixes(asnNumber);
             const cidrList = await readFileContentAsync(asnNumber);
             if (cidrList && cidrList.length > 0) {
               cidrList.forEach((cidr) => {
@@ -311,12 +266,14 @@ async function saveLatestASN(name, directory = "country") {
               logger.info(`没有 CIDR 可写入 (${asnNumber})`);
             }
           }
-        }
       }
     }
-    //logger.info(`ASN 数据写入完成 (${name} in ${directory})`);
+    stats.push({ directory, name, asns: asnNumbers.length });
+    logger.info(`完成 ${directory}/${name}: ${asnNumbers.length} 个 ASN`);
   } catch (error) {
-    logger.error(`处理失败 (${name} in ${directory}):`, error);
+    const message = error instanceof Error ? error.message : String(error);
+    failures.push(`${directory}/${name}: ${message}`);
+    logger.error(`处理失败 (${name} in ${directory}): ${message}`);
   }
 }
 async function fetchPrefixes(asnNumber) {
@@ -382,7 +339,18 @@ async function saveWithDelay() {
   fs.writeFileSync(`README-ry.md`, datamd, { encoding: "utf8" });
 }
 
-saveWithDelay();
+try {
+  await saveWithDelay();
+  if (failures.length > 0) {
+    throw new Error(`生成失败:\n- ${failures.join("\n- ")}`);
+  }
+  logger.info(
+    `全部完成: ${stats.length} 个规则集，${stats.reduce((sum, item) => sum + item.asns, 0)} 个 ASN 条目`,
+  );
+} catch (error) {
+  logger.error(error instanceof Error ? error.message : String(error));
+  process.exitCode = 1;
+}
 
 //通用的 payload 数据结构，按需扩展
 function payload() {

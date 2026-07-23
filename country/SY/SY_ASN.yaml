@@ -1,15 +1,15 @@
 # SY 的 ASN 信息
-# 最后更新： CST 2026-07-23 01:59:33
+# 最后更新： CST 2026-07-24 01:28:35
 # ASN: 9
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
-  - IP-ASN,214707
-  - IP-ASN,29386
   - IP-ASN,29256
-  - IP-ASN,216472
+  - IP-ASN,29386
   - IP-ASN,48065
-  - IP-ASN,201550
-  - IP-ASN,213812
-  - IP-ASN,210557
   - IP-ASN,197842
+  - IP-ASN,201550
+  - IP-ASN,210557
+  - IP-ASN,213812
+  - IP-ASN,214707
+  - IP-ASN,216472

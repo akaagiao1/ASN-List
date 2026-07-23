@@ -1,10 +1,10 @@
 # Twitter 的 ASN 信息
-# 最后更新： CST 2026-07-23 01:06:18
+# 最后更新： CST 2026-07-24 00:45:42
 # ASN: 4
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
-  - IP-ASN,63179,no-resolve
-  - IP-ASN,54888,no-resolve
-  - IP-ASN,35995,no-resolve
   - IP-ASN,13414,no-resolve
+  - IP-ASN,35995,no-resolve
+  - IP-ASN,54888,no-resolve
+  - IP-ASN,63179,no-resolve

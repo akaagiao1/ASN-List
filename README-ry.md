@@ -234,7 +234,6 @@ country 目录ASN如下：
 - ASN-AP 
 - ASN-YT Mayotte
 - ASN-WF Wallis and Futuna
-- ASN-UK United Kingdom
 - ASN-PM Saint Pierre and Miquelon
 - ASN-NU Niue
 - ASN-MS Montserrat
@@ -243,7 +242,6 @@ country 目录ASN如下：
 - ASN-GL Greenland
 - ASN-ER Eritrea
 - ASN-AX Åland Islands
-- ASN-AN Netherlands Antilles
 
 ## 特征
 
@@ -487,7 +485,6 @@ rules:
   - RULE-SET,ASNAP,Proxy
   - RULE-SET,ASNYT,Proxy
   - RULE-SET,ASNWF,Proxy
-  - RULE-SET,ASNUK,Proxy
   - RULE-SET,ASNPM,Proxy
   - RULE-SET,ASNNU,Proxy
   - RULE-SET,ASNMS,Proxy
@@ -496,7 +493,6 @@ rules:
   - RULE-SET,ASNGL,Proxy
   - RULE-SET,ASNER,Proxy
   - RULE-SET,ASNAX,Proxy
-  - RULE-SET,ASNAN,Proxy
 
 </code></pre>
 
@@ -2353,14 +2349,6 @@ rule-providers:
     interval: 86400
     format: yaml
 
-  UKasn:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/Kwisma/ASN-List/refs/heads/main/country/UK/UK_ASN.yaml"
-    path: ./ruleset/UK_ASN.yaml
-    interval: 86400
-    format: yaml
-
   PMasn:
     type: http
     behavior: classical
@@ -2422,14 +2410,6 @@ rule-providers:
     behavior: classical
     url: "https://raw.githubusercontent.com/Kwisma/ASN-List/refs/heads/main/country/AX/AX_ASN.yaml"
     path: ./ruleset/AX_ASN.yaml
-    interval: 86400
-    format: yaml
-
-  ANasn:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/Kwisma/ASN-List/refs/heads/main/country/AN/AN_ASN.yaml"
-    path: ./ruleset/AN_ASN.yaml
     interval: 86400
     format: yaml
 
@@ -3595,11 +3575,6 @@ rule-providers:
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/WF/WF_ASN.yaml"
     path: ./ruleset/WF_ASN.yaml
 
-  UKasn:
-    <<: *classical
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/UK/UK_ASN.yaml"
-    path: ./ruleset/UK_ASN.yaml
-
   PMasn:
     <<: *classical
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/PM/PM_ASN.yaml"
@@ -3639,11 +3614,6 @@ rule-providers:
     <<: *classical
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/AX/AX_ASN.yaml"
     path: ./ruleset/AX_ASN.yaml
-
-  ANasn:
-    <<: *classical
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/AN/AN_ASN.yaml"
-    path: ./ruleset/AN_ASN.yaml
 
 </code></pre>
 
@@ -4807,11 +4777,6 @@ rule-providers:
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/WF/WF_IP.yaml"
     path: ./ruleset/WF_IP.yaml
 
-  UKcidr:
-    <<: *ipcidr
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/UK/UK_IP.yaml"
-    path: ./ruleset/UK_IP.yaml
-
   PMcidr:
     <<: *ipcidr
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/PM/PM_IP.yaml"
@@ -4851,10 +4816,5 @@ rule-providers:
     <<: *ipcidr
     url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/AX/AX_IP.yaml"
     path: ./ruleset/AX_IP.yaml
-
-  ANcidr:
-    <<: *ipcidr
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/AN/AN_IP.yaml"
-    path: ./ruleset/AN_IP.yaml
 
 </code></pre>

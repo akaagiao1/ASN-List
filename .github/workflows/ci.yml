@@ -4,11 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 16 * * *"
+
+concurrency:
+  group: update-asn-list
+  cancel-in-progress: false
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install -P
+          npm ci --omit=dev
           rm -rf data country
 
       - name: Install mihomo
@@ -38,13 +45,11 @@ jobs:
           curl -sL "https://github.com/SagerNet/sing-box/releases/download/v${version}/sing-box-${version}-linux-amd64.tar.gz" | \
             tar -xz -C /usr/local/bin --strip-components=1 sing-box-${version}-linux-amd64/sing-box && chmod +x /usr/local/bin/sing-box
 
-      - name: Update GeoLite2 ASN Blocks
-        run: |
-          wget -O GeoLite2-ASN-Blocks-IPv4.csv 'https://raw.githubusercontent.com/seketiti/GeoLiet2/release/GeoLite2-ASN-Blocks-IPv4.csv'
-          wget -O GeoLite2-ASN-Blocks-IPv6.csv 'https://raw.githubusercontent.com/seketiti/GeoLiet2/release/GeoLite2-ASN-Blocks-IPv6.csv'
-          
       - name: Update ASN and IP List country
-        run: node scripts/ASN.js
+        run: npm run generate
+
+      - name: Validate generated data
+        run: npm test
 
       - name: Update data and mihomo IP List country
         run: node scripts/mihomo.js
@@ -56,8 +61,8 @@ jobs:
         env:
           base_dir: country
 
-      - name: Delete GeoLite2 ASN Blocks
-        run: rm -rf GeoLite2-ASN* meta-rules-dat
+      - name: Delete build dependencies
+        run: rm -rf meta-rules-dat
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:

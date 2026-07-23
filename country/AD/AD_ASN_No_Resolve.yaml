@@ -1,9 +1,9 @@
 # AD 的 ASN 信息
-# 最后更新： CST 2026-07-23 01:59:34
+# 最后更新： CST 2026-07-24 01:28:37
 # ASN: 3
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
-  - IP-ASN,216096,no-resolve
   - IP-ASN,6752,no-resolve
   - IP-ASN,209265,no-resolve
+  - IP-ASN,216096,no-resolve

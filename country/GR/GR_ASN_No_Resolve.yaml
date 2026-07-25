@@ -1,6 +1,6 @@
 # GR 的 ASN 信息
-# 最后更新： CST 2026-07-24 01:28:21
-# ASN: 230
+# 最后更新： CST 2026-07-25 14:13:49
+# ASN: 231
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -227,6 +227,7 @@ payload:
   - IP-ASN,215213,no-resolve
   - IP-ASN,215492,no-resolve
   - IP-ASN,215583,no-resolve
+  - IP-ASN,215684,no-resolve
   - IP-ASN,215734,no-resolve
   - IP-ASN,215795,no-resolve
   - IP-ASN,215804,no-resolve

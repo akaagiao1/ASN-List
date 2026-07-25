@@ -1,6 +1,6 @@
 # CL 的 ASN 信息
-# 最后更新： CST 2026-07-24 01:28:18
-# ASN: 327
+# 最后更新： CST 2026-07-25 14:13:47
+# ASN: 328
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -291,6 +291,7 @@ payload:
   - IP-ASN,272025,no-resolve
   - IP-ASN,272028,no-resolve
   - IP-ASN,272031,no-resolve
+  - IP-ASN,272105,no-resolve
   - IP-ASN,272858,no-resolve
   - IP-ASN,272891,no-resolve
   - IP-ASN,272897,no-resolve

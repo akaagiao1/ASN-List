@@ -1,6 +1,6 @@
 # AM 的 ASN 信息
-# 最后更新： CST 2026-07-24 01:28:25
-# ASN: 128
+# 最后更新： CST 2026-07-25 14:13:52
+# ASN: 129
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -25,6 +25,7 @@ payload:
   - IP-ASN,44778
   - IP-ASN,47623
   - IP-ASN,47642
+  - IP-ASN,47975
   - IP-ASN,48008
   - IP-ASN,48244
   - IP-ASN,48675

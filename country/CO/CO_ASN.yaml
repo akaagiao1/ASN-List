@@ -1,6 +1,6 @@
 # CO 的 ASN 信息
-# 最后更新： CST 2026-07-24 01:28:17
-# ASN: 421
+# 最后更新： CST 2026-07-25 14:13:45
+# ASN: 424
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -241,6 +241,7 @@ payload:
   - IP-ASN,272076
   - IP-ASN,272079
   - IP-ASN,272086
+  - IP-ASN,272093
   - IP-ASN,272115
   - IP-ASN,272125
   - IP-ASN,272129
@@ -408,6 +409,7 @@ payload:
   - IP-ASN,274284
   - IP-ASN,274310
   - IP-ASN,274311
+  - IP-ASN,274316
   - IP-ASN,274318
   - IP-ASN,274325
   - IP-ASN,274330
@@ -425,3 +427,4 @@ payload:
   - IP-ASN,274963
   - IP-ASN,274965
   - IP-ASN,274982
+  - IP-ASN,274983

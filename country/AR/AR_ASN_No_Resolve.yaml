@@ -1,6 +1,6 @@
 # AR 的 ASN 信息
-# 最后更新： CST 2026-07-24 01:28:01
-# ASN: 1094
+# 最后更新： CST 2026-07-26 01:22:15
+# ASN: 1095
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -49,7 +49,6 @@ payload:
   - IP-ASN,16732,no-resolve
   - IP-ASN,16814,no-resolve
   - IP-ASN,17069,no-resolve
-  - IP-ASN,19037,no-resolve
   - IP-ASN,19244,no-resolve
   - IP-ASN,19315,no-resolve
   - IP-ASN,19583,no-resolve
@@ -709,6 +708,7 @@ payload:
   - IP-ASN,266791,no-resolve
   - IP-ASN,266793,no-resolve
   - IP-ASN,266794,no-resolve
+  - IP-ASN,266796,no-resolve
   - IP-ASN,266800,no-resolve
   - IP-ASN,266806,no-resolve
   - IP-ASN,266807,no-resolve
@@ -1092,6 +1092,7 @@ payload:
   - IP-ASN,274329,no-resolve
   - IP-ASN,274850,no-resolve
   - IP-ASN,274851,no-resolve
+  - IP-ASN,274868,no-resolve
   - IP-ASN,274898,no-resolve
   - IP-ASN,274904,no-resolve
   - IP-ASN,274918,no-resolve

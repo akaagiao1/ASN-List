@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { exec } from 'child_process';
+import { execFile } from 'child_process';
 
 // 获取 base_dir 环境变量
 const baseDir = process.env.base_dir; // 读取环境变量
@@ -8,6 +8,8 @@ const baseDir = process.env.base_dir; // 读取环境变量
 const maxRetries = 3;
 // 设置重试间隔（单位：毫秒）
 const retryInterval = 5000;
+// 同时运行的转换任务数量，避免串行处理全部国家规则集
+const concurrency = Math.max(1, Number.parseInt(process.env.CONVERT_CONCURRENCY || '4', 10));
 
 // 如果没有设置 base_dir 环境变量，则终止程序并提示错误
 if (!baseDir) {
@@ -34,49 +36,99 @@ const findFiles = (dir) => {
   return results;
 };
 
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 // 执行命令的封装，支持重试机制
-const executeCommand = async (cmd, retries = 0) => {
-  return new Promise((resolve, reject) => {
-    exec(cmd, (error, stdout, stderr) => {
-      if (error) {
-        console.log(`命令失败，正在重试... (第 ${retries + 1} 次)`);
-        if (retries < maxRetries) {
-          setTimeout(() => resolve(executeCommand(cmd, retries + 1)), retryInterval);
-        } else {
-          reject(new Error(`命令执行失败: ${cmd}`));
-        }
-      } else {
-        resolve(stdout);
+const executeCommand = async (command, args) => {
+  let lastError;
+
+  for (let attempt = 1; attempt <= maxRetries + 1; attempt++) {
+    try {
+      await new Promise((resolve, reject) => {
+        execFile(command, args, (error) => {
+          if (error) reject(error);
+          else resolve();
+        });
+      });
+      return;
+    } catch (error) {
+      lastError = error;
+      if (attempt <= maxRetries) {
+        console.warn(`命令失败，${retryInterval / 1000} 秒后重试 (${attempt}/${maxRetries})`);
+        await delay(retryInterval);
       }
-    });
-  });
+    }
+  }
+
+  throw lastError;
+};
+
+const getCommand = (srcFile) => {
+  if (srcFile.endsWith('_IP.yaml')) {
+    const targetFile = srcFile.replace('.yaml', '.mrs');
+    return {
+      command: 'mihomo',
+      args: ['convert-ruleset', 'ipcidr', 'yaml', srcFile, targetFile],
+      targetFile,
+    };
+  }
+
+  const targetFile = srcFile.replace('.json', '.srs');
+  return {
+    command: 'sing-box',
+    args: ['rule-set', 'compile', '--output', targetFile, srcFile],
+    targetFile,
+  };
+};
+
+const runWithConcurrency = async (items, workerCount, worker) => {
+  let nextIndex = 0;
+
+  const runWorker = async () => {
+    while (nextIndex < items.length) {
+      const index = nextIndex++;
+      await worker(items[index], index);
+    }
+  };
+
+  await Promise.all(
+    Array.from({ length: Math.min(workerCount, items.length) }, () => runWorker()),
+  );
 };
 
 // 处理文件
 const processFiles = async () => {
-  const files = findFiles(baseDir);
+  const files = findFiles(baseDir).sort();
+  const failures = [];
+  let completed = 0;
 
-  for (const srcFile of files) {
-    let command, targetFile;
+  console.log(`开始转换 ${files.length} 个文件，并发数: ${concurrency}`);
 
-    if (srcFile.endsWith('_IP.yaml')) {
-      targetFile = srcFile.replace('.yaml', '.mrs');
-      command = `mihomo convert-ruleset ipcidr yaml "${srcFile}" "${targetFile}"`;
-    } else if (srcFile.endsWith('_IP.json')) {
-      targetFile = srcFile.replace('.json', '.srs');
-      command = `sing-box rule-set compile --output "${targetFile}" "${srcFile}"`;
-    } else {
-      continue; // 忽略不符合条件的文件
-    }
+  await runWithConcurrency(files, concurrency, async (srcFile) => {
+    const { command, args, targetFile } = getCommand(srcFile);
 
     try {
-      await executeCommand(command);
-      console.log(`转换成功: ${srcFile} -> ${targetFile}`);
+      await executeCommand(command, args);
     } catch (error) {
-      console.log(`转换失败: ${srcFile} -> ${targetFile}，已达到最大重试次数`);
+      failures.push(`${srcFile}: ${error.message}`);
+    } finally {
+      completed++;
+      if (completed % 25 === 0 || completed === files.length) {
+        console.log(`转换进度: ${completed}/${files.length}`);
+      }
     }
+  });
+
+  if (failures.length > 0) {
+    throw new Error(`转换失败:\n- ${failures.join('\n- ')}`);
   }
+
+  console.log(`转换完成: ${files.length} 个文件`);
 };
 
-// 执行文件处理
-processFiles();
+try {
+  await processFiles();
+} catch (error) {
+  console.error(error instanceof Error ? error.message : String(error));
+  process.exitCode = 1;
+}

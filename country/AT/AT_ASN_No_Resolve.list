@@ -1,6 +1,6 @@
 # AT 的 ASN 信息
-# 最后更新： CST 2026-07-26 01:22:22
-# ASN: 647
+# 最后更新： CST 2026-07-27 01:31:32
+# ASN: 648
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,679,no-resolve
@@ -459,6 +459,7 @@ IP-ASN,202616,no-resolve
 IP-ASN,202664,no-resolve
 IP-ASN,202703,no-resolve
 IP-ASN,202718,no-resolve
+IP-ASN,202742,no-resolve
 IP-ASN,202745,no-resolve
 IP-ASN,202809,no-resolve
 IP-ASN,202846,no-resolve

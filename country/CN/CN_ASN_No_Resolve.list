@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-26 01:21:17
-# ASN: 5241
+# 最后更新： CST 2026-07-27 01:29:52
+# ASN: 5243
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,4134,no-resolve
@@ -5101,6 +5101,7 @@ IP-ASN,198527,no-resolve
 IP-ASN,198588,no-resolve
 IP-ASN,198681,no-resolve
 IP-ASN,199310,no-resolve
+IP-ASN,199353,no-resolve
 IP-ASN,199392,no-resolve
 IP-ASN,199406,no-resolve
 IP-ASN,199932,no-resolve
@@ -5238,6 +5239,7 @@ IP-ASN,219210,no-resolve
 IP-ASN,219283,no-resolve
 IP-ASN,219289,no-resolve
 IP-ASN,219300,no-resolve
+IP-ASN,219324,no-resolve
 IP-ASN,219332,no-resolve
 IP-ASN,219378,no-resolve
 IP-ASN,219397,no-resolve

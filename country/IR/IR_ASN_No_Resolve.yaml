@@ -1,6 +1,6 @@
 # IR 的 ASN 信息
-# 最后更新： CST 2026-07-26 01:22:22
-# ASN: 601
+# 最后更新： CST 2026-07-27 01:31:30
+# ASN: 602
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -314,6 +314,7 @@ payload:
   - IP-ASN,62048,no-resolve
   - IP-ASN,62137,no-resolve
   - IP-ASN,62140,no-resolve
+  - IP-ASN,62157,no-resolve
   - IP-ASN,62173,no-resolve
   - IP-ASN,62196,no-resolve
   - IP-ASN,62198,no-resolve

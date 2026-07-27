@@ -1,6 +1,6 @@
 # CZ 的 ASN 信息
-# 最后更新： CST 2026-07-27 01:31:36
-# ASN: 604
+# 最后更新： CST 2026-07-28 02:19:48
+# ASN: 605
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -507,6 +507,7 @@ payload:
   - IP-ASN,207576,no-resolve
   - IP-ASN,207583,no-resolve
   - IP-ASN,207696,no-resolve
+  - IP-ASN,207700,no-resolve
   - IP-ASN,207850,no-resolve
   - IP-ASN,207886,no-resolve
   - IP-ASN,207945,no-resolve

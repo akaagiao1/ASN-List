@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-07-27 01:30:19
-# ASN: 3022
+# 最后更新： CST 2026-07-28 02:18:40
+# ASN: 3018
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -2138,8 +2138,6 @@ payload:
   - IP-ASN,146901
   - IP-ASN,146902
   - IP-ASN,146904
-  - IP-ASN,146906
-  - IP-ASN,146907
   - IP-ASN,146908
   - IP-ASN,146911
   - IP-ASN,146912
@@ -2199,7 +2197,6 @@ payload:
   - IP-ASN,147226
   - IP-ASN,147227
   - IP-ASN,147228
-  - IP-ASN,147229
   - IP-ASN,147231
   - IP-ASN,147233
   - IP-ASN,147234
@@ -2951,7 +2948,6 @@ payload:
   - IP-ASN,154466
   - IP-ASN,154467
   - IP-ASN,154468
-  - IP-ASN,154473
   - IP-ASN,154487
   - IP-ASN,154499
   - IP-ASN,154500

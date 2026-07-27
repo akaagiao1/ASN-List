@@ -1,5 +1,5 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-07-27 01:30:51
+# 最后更新： CST 2026-07-28 02:19:10
 # ASN: 2168
 # 由 Kwisma 制作，保留所有权利。
 
@@ -678,7 +678,6 @@ IP-ASN,48395,no-resolve
 IP-ASN,48424,no-resolve
 IP-ASN,48428,no-resolve
 IP-ASN,48435,no-resolve
-IP-ASN,48436,no-resolve
 IP-ASN,48464,no-resolve
 IP-ASN,48487,no-resolve
 IP-ASN,48505,no-resolve
@@ -1413,6 +1412,7 @@ IP-ASN,199296,no-resolve
 IP-ASN,199319,no-resolve
 IP-ASN,199338,no-resolve
 IP-ASN,199341,no-resolve
+IP-ASN,199344,no-resolve
 IP-ASN,199356,no-resolve
 IP-ASN,199369,no-resolve
 IP-ASN,199371,no-resolve

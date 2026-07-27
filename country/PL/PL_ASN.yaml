@@ -1,5 +1,5 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-07-27 01:30:51
+# 最后更新： CST 2026-07-28 02:19:10
 # ASN: 2168
 # 由 Kwisma 制作，保留所有权利。
 
@@ -679,7 +679,6 @@ payload:
   - IP-ASN,48424
   - IP-ASN,48428
   - IP-ASN,48435
-  - IP-ASN,48436
   - IP-ASN,48464
   - IP-ASN,48487
   - IP-ASN,48505
@@ -1414,6 +1413,7 @@ payload:
   - IP-ASN,199319
   - IP-ASN,199338
   - IP-ASN,199341
+  - IP-ASN,199344
   - IP-ASN,199356
   - IP-ASN,199369
   - IP-ASN,199371

@@ -1,6 +1,6 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-07-27 00:51:19
-# ASN: 19173
+# 最后更新： CST 2026-07-28 01:37:28
+# ASN: 19175
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -229,6 +229,7 @@ payload:
   - IP-ASN,545,no-resolve
   - IP-ASN,546,no-resolve
   - IP-ASN,547,no-resolve
+  - IP-ASN,556,no-resolve
   - IP-ASN,557,no-resolve
   - IP-ASN,558,no-resolve
   - IP-ASN,567,no-resolve
@@ -979,7 +980,6 @@ payload:
   - IP-ASN,4385,no-resolve
   - IP-ASN,4390,no-resolve
   - IP-ASN,4393,no-resolve
-  - IP-ASN,4436,no-resolve
   - IP-ASN,4445,no-resolve
   - IP-ASN,4451,no-resolve
   - IP-ASN,4452,no-resolve
@@ -7776,6 +7776,7 @@ payload:
   - IP-ASN,29782,no-resolve
   - IP-ASN,29783,no-resolve
   - IP-ASN,29784,no-resolve
+  - IP-ASN,29785,no-resolve
   - IP-ASN,29786,no-resolve
   - IP-ASN,29787,no-resolve
   - IP-ASN,29788,no-resolve
@@ -15499,6 +15500,7 @@ payload:
   - IP-ASN,396057,no-resolve
   - IP-ASN,396062,no-resolve
   - IP-ASN,396063,no-resolve
+  - IP-ASN,396064,no-resolve
   - IP-ASN,396065,no-resolve
   - IP-ASN,396066,no-resolve
   - IP-ASN,396067,no-resolve
@@ -15583,7 +15585,6 @@ payload:
   - IP-ASN,396192,no-resolve
   - IP-ASN,396193,no-resolve
   - IP-ASN,396194,no-resolve
-  - IP-ASN,396201,no-resolve
   - IP-ASN,396202,no-resolve
   - IP-ASN,396204,no-resolve
   - IP-ASN,396205,no-resolve
@@ -15829,7 +15830,6 @@ payload:
   - IP-ASN,396641,no-resolve
   - IP-ASN,396642,no-resolve
   - IP-ASN,396645,no-resolve
-  - IP-ASN,396646,no-resolve
   - IP-ASN,396648,no-resolve
   - IP-ASN,396653,no-resolve
   - IP-ASN,396654,no-resolve
@@ -19161,6 +19161,7 @@ payload:
   - IP-ASN,402667,no-resolve
   - IP-ASN,402668,no-resolve
   - IP-ASN,402673,no-resolve
+  - IP-ASN,402674,no-resolve
   - IP-ASN,402686,no-resolve
   - IP-ASN,402691,no-resolve
   - IP-ASN,402694,no-resolve
@@ -19175,5 +19176,6 @@ payload:
   - IP-ASN,402760,no-resolve
   - IP-ASN,402766,no-resolve
   - IP-ASN,402767,no-resolve
+  - IP-ASN,402790,no-resolve
   - IP-ASN,402797,no-resolve
   - IP-ASN,402807,no-resolve

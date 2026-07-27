@@ -1,6 +1,6 @@
 # ZA 的 ASN 信息
-# 最后更新： CST 2026-07-27 01:31:29
-# ASN: 661
+# 最后更新： CST 2026-07-28 02:19:44
+# ASN: 662
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -161,6 +161,7 @@ payload:
   - IP-ASN,37675,no-resolve
   - IP-ASN,37680,no-resolve
   - IP-ASN,37691,no-resolve
+  - IP-ASN,37701,no-resolve
   - IP-ASN,37720,no-resolve
   - IP-ASN,37724,no-resolve
   - IP-ASN,37731,no-resolve

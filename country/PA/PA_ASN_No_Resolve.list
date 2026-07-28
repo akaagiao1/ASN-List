@@ -1,10 +1,11 @@
 # PA 的 ASN 信息
-# 最后更新： CST 2026-07-28 02:19:57
-# ASN: 97
+# 最后更新： CST 2026-07-29 02:02:53
+# ASN: 98
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3551,no-resolve
 IP-ASN,6193,no-resolve
+IP-ASN,10391,no-resolve
 IP-ASN,10476,no-resolve
 IP-ASN,11556,no-resolve
 IP-ASN,14709,no-resolve

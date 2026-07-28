@@ -1,6 +1,6 @@
 # BG 的 ASN 信息
-# 最后更新： CST 2026-07-28 02:19:45
-# ASN: 674
+# 最后更新： CST 2026-07-29 02:02:43
+# ASN: 675
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2111,no-resolve
@@ -677,3 +677,4 @@ IP-ASN,216148,no-resolve
 IP-ASN,216272,no-resolve
 IP-ASN,216286,no-resolve
 IP-ASN,219197,no-resolve
+IP-ASN,219415,no-resolve

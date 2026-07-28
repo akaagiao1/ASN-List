@@ -1,6 +1,6 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-07-28 01:37:28
-# ASN: 19175
+# 最后更新： CST 2026-07-29 01:20:56
+# ASN: 19180
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1,no-resolve
@@ -112,6 +112,7 @@ IP-ASN,190,no-resolve
 IP-ASN,194,no-resolve
 IP-ASN,195,no-resolve
 IP-ASN,196,no-resolve
+IP-ASN,197,no-resolve
 IP-ASN,202,no-resolve
 IP-ASN,203,no-resolve
 IP-ASN,205,no-resolve
@@ -739,6 +740,7 @@ IP-ASN,3131,no-resolve
 IP-ASN,3134,no-resolve
 IP-ASN,3136,no-resolve
 IP-ASN,3140,no-resolve
+IP-ASN,3144,no-resolve
 IP-ASN,3145,no-resolve
 IP-ASN,3147,no-resolve
 IP-ASN,3152,no-resolve
@@ -13715,6 +13717,7 @@ IP-ASN,216321,no-resolve
 IP-ASN,216357,no-resolve
 IP-ASN,216435,no-resolve
 IP-ASN,216475,no-resolve
+IP-ASN,219160,no-resolve
 IP-ASN,219187,no-resolve
 IP-ASN,219330,no-resolve
 IP-ASN,219333,no-resolve
@@ -15815,6 +15818,7 @@ IP-ASN,396599,no-resolve
 IP-ASN,396600,no-resolve
 IP-ASN,396605,no-resolve
 IP-ASN,396611,no-resolve
+IP-ASN,396614,no-resolve
 IP-ASN,396615,no-resolve
 IP-ASN,396619,no-resolve
 IP-ASN,396620,no-resolve
@@ -15829,6 +15833,7 @@ IP-ASN,396635,no-resolve
 IP-ASN,396641,no-resolve
 IP-ASN,396642,no-resolve
 IP-ASN,396645,no-resolve
+IP-ASN,396646,no-resolve
 IP-ASN,396648,no-resolve
 IP-ASN,396653,no-resolve
 IP-ASN,396654,no-resolve
@@ -18546,7 +18551,6 @@ IP-ASN,401353,no-resolve
 IP-ASN,401357,no-resolve
 IP-ASN,401360,no-resolve
 IP-ASN,401361,no-resolve
-IP-ASN,401362,no-resolve
 IP-ASN,401363,no-resolve
 IP-ASN,401365,no-resolve
 IP-ASN,401366,no-resolve
@@ -19112,7 +19116,6 @@ IP-ASN,402506,no-resolve
 IP-ASN,402507,no-resolve
 IP-ASN,402509,no-resolve
 IP-ASN,402510,no-resolve
-IP-ASN,402511,no-resolve
 IP-ASN,402514,no-resolve
 IP-ASN,402515,no-resolve
 IP-ASN,402520,no-resolve
@@ -19153,6 +19156,7 @@ IP-ASN,402631,no-resolve
 IP-ASN,402632,no-resolve
 IP-ASN,402642,no-resolve
 IP-ASN,402643,no-resolve
+IP-ASN,402644,no-resolve
 IP-ASN,402653,no-resolve
 IP-ASN,402655,no-resolve
 IP-ASN,402663,no-resolve
@@ -19175,6 +19179,7 @@ IP-ASN,402744,no-resolve
 IP-ASN,402760,no-resolve
 IP-ASN,402766,no-resolve
 IP-ASN,402767,no-resolve
+IP-ASN,402778,no-resolve
 IP-ASN,402790,no-resolve
 IP-ASN,402797,no-resolve
 IP-ASN,402807,no-resolve

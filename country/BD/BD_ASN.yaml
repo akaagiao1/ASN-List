@@ -1,6 +1,6 @@
 # BD 的 ASN 信息
-# 最后更新： CST 2026-07-28 02:19:23
-# ASN: 1570
+# 最后更新： CST 2026-07-29 02:02:25
+# ASN: 1567
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -294,7 +294,6 @@ payload:
   - IP-ASN,134437
   - IP-ASN,134455
   - IP-ASN,134480
-  - IP-ASN,134494
   - IP-ASN,134502
   - IP-ASN,134505
   - IP-ASN,134506
@@ -499,7 +498,6 @@ payload:
   - IP-ASN,137391
   - IP-ASN,137396
   - IP-ASN,137403
-  - IP-ASN,137410
   - IP-ASN,137415
   - IP-ASN,137416
   - IP-ASN,137419
@@ -1423,7 +1421,6 @@ payload:
   - IP-ASN,152718
   - IP-ASN,152723
   - IP-ASN,152725
-  - IP-ASN,152726
   - IP-ASN,152729
   - IP-ASN,152732
   - IP-ASN,152733

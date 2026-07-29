@@ -1,6 +1,6 @@
 # ET 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:02:56
-# ASN: 6
+# 最后更新： CST 2026-07-30 01:49:44
+# ASN: 7
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,24757,no-resolve
@@ -9,3 +9,4 @@ IP-ASN,328988,no-resolve
 IP-ASN,329227,no-resolve
 IP-ASN,329265,no-resolve
 IP-ASN,329327,no-resolve
+IP-ASN,329625,no-resolve

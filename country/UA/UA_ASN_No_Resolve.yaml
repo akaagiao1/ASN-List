@@ -1,6 +1,6 @@
 # UA 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:02:20
-# ASN: 1594
+# 最后更新： CST 2026-07-30 01:49:08
+# ASN: 1595
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -496,6 +496,7 @@ payload:
   - IP-ASN,42350,no-resolve
   - IP-ASN,42352,no-resolve
   - IP-ASN,42396,no-resolve
+  - IP-ASN,42439,no-resolve
   - IP-ASN,42441,no-resolve
   - IP-ASN,42458,no-resolve
   - IP-ASN,42489,no-resolve

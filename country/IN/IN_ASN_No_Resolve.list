@@ -1,5 +1,5 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:01:46
+# 最后更新： CST 2026-07-30 01:48:33
 # ASN: 2994
 # 由 Kwisma 制作，保留所有权利。
 
@@ -1591,6 +1591,7 @@ IP-ASN,138711,no-resolve
 IP-ASN,138713,no-resolve
 IP-ASN,138715,no-resolve
 IP-ASN,138718,no-resolve
+IP-ASN,138719,no-resolve
 IP-ASN,138720,no-resolve
 IP-ASN,138726,no-resolve
 IP-ASN,138727,no-resolve
@@ -2110,7 +2111,6 @@ IP-ASN,146886,no-resolve
 IP-ASN,146887,no-resolve
 IP-ASN,146888,no-resolve
 IP-ASN,146890,no-resolve
-IP-ASN,146892,no-resolve
 IP-ASN,146894,no-resolve
 IP-ASN,146895,no-resolve
 IP-ASN,146898,no-resolve
@@ -2154,6 +2154,7 @@ IP-ASN,147193,no-resolve
 IP-ASN,147194,no-resolve
 IP-ASN,147195,no-resolve
 IP-ASN,147196,no-resolve
+IP-ASN,147197,no-resolve
 IP-ASN,147199,no-resolve
 IP-ASN,147200,no-resolve
 IP-ASN,147201,no-resolve
@@ -2538,7 +2539,6 @@ IP-ASN,151131,no-resolve
 IP-ASN,151132,no-resolve
 IP-ASN,151133,no-resolve
 IP-ASN,151136,no-resolve
-IP-ASN,151137,no-resolve
 IP-ASN,151140,no-resolve
 IP-ASN,151145,no-resolve
 IP-ASN,151148,no-resolve

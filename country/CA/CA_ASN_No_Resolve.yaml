@@ -1,6 +1,6 @@
 # CA 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:02:16
-# ASN: 1660
+# 最后更新： CST 2026-07-30 01:49:04
+# ASN: 1661
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1557,6 +1557,7 @@ payload:
   - IP-ASN,400198,no-resolve
   - IP-ASN,400200,no-resolve
   - IP-ASN,400202,no-resolve
+  - IP-ASN,400262,no-resolve
   - IP-ASN,400263,no-resolve
   - IP-ASN,400288,no-resolve
   - IP-ASN,400307,no-resolve

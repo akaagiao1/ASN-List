@@ -1,6 +1,6 @@
 # EC 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:02:51
-# ASN: 233
+# 最后更新： CST 2026-07-30 01:49:39
+# ASN: 234
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,7315,no-resolve
@@ -217,6 +217,7 @@ IP-ASN,274004,no-resolve
 IP-ASN,274055,no-resolve
 IP-ASN,274063,no-resolve
 IP-ASN,274106,no-resolve
+IP-ASN,274114,no-resolve
 IP-ASN,274144,no-resolve
 IP-ASN,274169,no-resolve
 IP-ASN,274176,no-resolve

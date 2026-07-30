@@ -1,6 +1,6 @@
 # NI 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:43
-# ASN: 24
+# 最后更新： CST 2026-07-31 01:59:45
+# ASN: 23
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -19,7 +19,6 @@ payload:
   - IP-ASN,61513,no-resolve
   - IP-ASN,214969,no-resolve
   - IP-ASN,262185,no-resolve
-  - IP-ASN,262243,no-resolve
   - IP-ASN,263201,no-resolve
   - IP-ASN,263751,no-resolve
   - IP-ASN,263760,no-resolve

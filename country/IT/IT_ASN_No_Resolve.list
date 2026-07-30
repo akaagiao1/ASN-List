@@ -1,6 +1,6 @@
 # IT 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:17
-# ASN: 1123
+# 最后更新： CST 2026-07-31 01:59:15
+# ASN: 1119
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,137,no-resolve
@@ -329,7 +329,6 @@ IP-ASN,44831,no-resolve
 IP-ASN,44908,no-resolve
 IP-ASN,44920,no-resolve
 IP-ASN,44936,no-resolve
-IP-ASN,44939,no-resolve
 IP-ASN,44942,no-resolve
 IP-ASN,44957,no-resolve
 IP-ASN,45015,no-resolve
@@ -457,7 +456,6 @@ IP-ASN,58082,no-resolve
 IP-ASN,58088,no-resolve
 IP-ASN,58150,no-resolve
 IP-ASN,58154,no-resolve
-IP-ASN,58177,no-resolve
 IP-ASN,58180,no-resolve
 IP-ASN,58253,no-resolve
 IP-ASN,58316,no-resolve
@@ -769,7 +767,6 @@ IP-ASN,204614,no-resolve
 IP-ASN,204622,no-resolve
 IP-ASN,204651,no-resolve
 IP-ASN,204664,no-resolve
-IP-ASN,204689,no-resolve
 IP-ASN,204694,no-resolve
 IP-ASN,204739,no-resolve
 IP-ASN,204760,no-resolve
@@ -806,7 +803,6 @@ IP-ASN,205704,no-resolve
 IP-ASN,205716,no-resolve
 IP-ASN,205727,no-resolve
 IP-ASN,205729,no-resolve
-IP-ASN,205732,no-resolve
 IP-ASN,205891,no-resolve
 IP-ASN,205925,no-resolve
 IP-ASN,205926,no-resolve
@@ -926,7 +922,6 @@ IP-ASN,208775,no-resolve
 IP-ASN,208779,no-resolve
 IP-ASN,208788,no-resolve
 IP-ASN,208808,no-resolve
-IP-ASN,208851,no-resolve
 IP-ASN,208862,no-resolve
 IP-ASN,208867,no-resolve
 IP-ASN,208873,no-resolve
@@ -1024,6 +1019,7 @@ IP-ASN,211740,no-resolve
 IP-ASN,211756,no-resolve
 IP-ASN,211785,no-resolve
 IP-ASN,211865,no-resolve
+IP-ASN,211886,no-resolve
 IP-ASN,211896,no-resolve
 IP-ASN,211918,no-resolve
 IP-ASN,211934,no-resolve

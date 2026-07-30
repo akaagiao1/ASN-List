@@ -1,6 +1,6 @@
 # TR 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:28
-# ASN: 878
+# 最后更新： CST 2026-07-31 01:59:27
+# ASN: 873
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1885,no-resolve
@@ -297,7 +297,6 @@ IP-ASN,57610,no-resolve
 IP-ASN,57834,no-resolve
 IP-ASN,57844,no-resolve
 IP-ASN,57886,no-resolve
-IP-ASN,57922,no-resolve
 IP-ASN,57935,no-resolve
 IP-ASN,58109,no-resolve
 IP-ASN,58127,no-resolve
@@ -505,7 +504,6 @@ IP-ASN,203494,no-resolve
 IP-ASN,203511,no-resolve
 IP-ASN,203543,no-resolve
 IP-ASN,203545,no-resolve
-IP-ASN,203576,no-resolve
 IP-ASN,203587,no-resolve
 IP-ASN,203606,no-resolve
 IP-ASN,203611,no-resolve
@@ -551,7 +549,6 @@ IP-ASN,205733,no-resolve
 IP-ASN,205757,no-resolve
 IP-ASN,205768,no-resolve
 IP-ASN,205782,no-resolve
-IP-ASN,205829,no-resolve
 IP-ASN,205852,no-resolve
 IP-ASN,205877,no-resolve
 IP-ASN,205888,no-resolve
@@ -832,7 +829,6 @@ IP-ASN,215555,no-resolve
 IP-ASN,215559,no-resolve
 IP-ASN,215567,no-resolve
 IP-ASN,215612,no-resolve
-IP-ASN,215618,no-resolve
 IP-ASN,215620,no-resolve
 IP-ASN,215625,no-resolve
 IP-ASN,215640,no-resolve
@@ -844,7 +840,6 @@ IP-ASN,215761,no-resolve
 IP-ASN,215790,no-resolve
 IP-ASN,215812,no-resolve
 IP-ASN,215822,no-resolve
-IP-ASN,215898,no-resolve
 IP-ASN,215906,no-resolve
 IP-ASN,215919,no-resolve
 IP-ASN,215961,no-resolve

@@ -1,6 +1,6 @@
 # FR 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:09
-# ASN: 1533
+# 最后更新： CST 2026-07-31 01:59:06
+# ASN: 1531
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,775,no-resolve
@@ -78,7 +78,6 @@ IP-ASN,8839,no-resolve
 IP-ASN,8891,no-resolve
 IP-ASN,8908,no-resolve
 IP-ASN,8921,no-resolve
-IP-ASN,8999,no-resolve
 IP-ASN,9036,no-resolve
 IP-ASN,9089,no-resolve
 IP-ASN,9149,no-resolve
@@ -1048,7 +1047,6 @@ IP-ASN,205181,no-resolve
 IP-ASN,205225,no-resolve
 IP-ASN,205259,no-resolve
 IP-ASN,205263,no-resolve
-IP-ASN,205304,no-resolve
 IP-ASN,205305,no-resolve
 IP-ASN,205306,no-resolve
 IP-ASN,205319,no-resolve

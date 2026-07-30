@@ -1,6 +1,6 @@
 # RO 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:19
-# ASN: 935
+# 最后更新： CST 2026-07-31 01:59:18
+# ASN: 934
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -804,7 +804,6 @@ payload:
   - IP-ASN,202779
   - IP-ASN,203053
   - IP-ASN,203305
-  - IP-ASN,203574
   - IP-ASN,203721
   - IP-ASN,203809
   - IP-ASN,203929
@@ -829,7 +828,6 @@ payload:
   - IP-ASN,205095
   - IP-ASN,205275
   - IP-ASN,205414
-  - IP-ASN,205539
   - IP-ASN,205861
   - IP-ASN,205941
   - IP-ASN,206007
@@ -938,4 +936,5 @@ payload:
   - IP-ASN,216249
   - IP-ASN,216378
   - IP-ASN,216462
+  - IP-ASN,219211
   - IP-ASN,219372

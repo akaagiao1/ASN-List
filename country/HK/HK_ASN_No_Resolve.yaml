@@ -1,6 +1,6 @@
 # HK 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:18
-# ASN: 802
+# 最后更新： CST 2026-07-31 01:59:16
+# ASN: 800
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -762,7 +762,6 @@ payload:
   - IP-ASN,209178,no-resolve
   - IP-ASN,209642,no-resolve
   - IP-ASN,210110,no-resolve
-  - IP-ASN,210488,no-resolve
   - IP-ASN,210532,no-resolve
   - IP-ASN,210597,no-resolve
   - IP-ASN,211001,no-resolve
@@ -803,6 +802,5 @@ payload:
   - IP-ASN,219376,no-resolve
   - IP-ASN,219393,no-resolve
   - IP-ASN,219394,no-resolve
-  - IP-ASN,219409,no-resolve
   - IP-ASN,219476,no-resolve
   - IP-ASN,219499,no-resolve

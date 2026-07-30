@@ -1,6 +1,6 @@
 # IT 的 ASN 信息
-# 最后更新： CST 2026-07-30 01:49:17
-# ASN: 1123
+# 最后更新： CST 2026-07-31 01:59:15
+# ASN: 1119
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -330,7 +330,6 @@ payload:
   - IP-ASN,44908
   - IP-ASN,44920
   - IP-ASN,44936
-  - IP-ASN,44939
   - IP-ASN,44942
   - IP-ASN,44957
   - IP-ASN,45015
@@ -458,7 +457,6 @@ payload:
   - IP-ASN,58088
   - IP-ASN,58150
   - IP-ASN,58154
-  - IP-ASN,58177
   - IP-ASN,58180
   - IP-ASN,58253
   - IP-ASN,58316
@@ -770,7 +768,6 @@ payload:
   - IP-ASN,204622
   - IP-ASN,204651
   - IP-ASN,204664
-  - IP-ASN,204689
   - IP-ASN,204694
   - IP-ASN,204739
   - IP-ASN,204760
@@ -807,7 +804,6 @@ payload:
   - IP-ASN,205716
   - IP-ASN,205727
   - IP-ASN,205729
-  - IP-ASN,205732
   - IP-ASN,205891
   - IP-ASN,205925
   - IP-ASN,205926
@@ -927,7 +923,6 @@ payload:
   - IP-ASN,208779
   - IP-ASN,208788
   - IP-ASN,208808
-  - IP-ASN,208851
   - IP-ASN,208862
   - IP-ASN,208867
   - IP-ASN,208873
@@ -1025,6 +1020,7 @@ payload:
   - IP-ASN,211756
   - IP-ASN,211785
   - IP-ASN,211865
+  - IP-ASN,211886
   - IP-ASN,211896
   - IP-ASN,211918
   - IP-ASN,211934

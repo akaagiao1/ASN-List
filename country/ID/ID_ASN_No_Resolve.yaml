@@ -1,6 +1,6 @@
 # ID 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:58:42
-# ASN: 2892
+# 最后更新： CST 2026-08-01 02:02:46
+# ASN: 2897
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -658,6 +658,7 @@ payload:
   - IP-ASN,133843,no-resolve
   - IP-ASN,133844,no-resolve
   - IP-ASN,134077,no-resolve
+  - IP-ASN,134091,no-resolve
   - IP-ASN,134127,no-resolve
   - IP-ASN,134129,no-resolve
   - IP-ASN,134412,no-resolve
@@ -2109,6 +2110,7 @@ payload:
   - IP-ASN,150558,no-resolve
   - IP-ASN,150559,no-resolve
   - IP-ASN,150690,no-resolve
+  - IP-ASN,150752,no-resolve
   - IP-ASN,150913,no-resolve
   - IP-ASN,150914,no-resolve
   - IP-ASN,150915,no-resolve
@@ -2370,6 +2372,7 @@ payload:
   - IP-ASN,152363,no-resolve
   - IP-ASN,152364,no-resolve
   - IP-ASN,152365,no-resolve
+  - IP-ASN,152366,no-resolve
   - IP-ASN,152367,no-resolve
   - IP-ASN,152368,no-resolve
   - IP-ASN,152369,no-resolve
@@ -2826,6 +2829,7 @@ payload:
   - IP-ASN,154574,no-resolve
   - IP-ASN,154582,no-resolve
   - IP-ASN,154583,no-resolve
+  - IP-ASN,154585,no-resolve
   - IP-ASN,154586,no-resolve
   - IP-ASN,154590,no-resolve
   - IP-ASN,154607,no-resolve
@@ -2848,6 +2852,7 @@ payload:
   - IP-ASN,154687,no-resolve
   - IP-ASN,154704,no-resolve
   - IP-ASN,154709,no-resolve
+  - IP-ASN,154716,no-resolve
   - IP-ASN,154717,no-resolve
   - IP-ASN,154719,no-resolve
   - IP-ASN,154721,no-resolve

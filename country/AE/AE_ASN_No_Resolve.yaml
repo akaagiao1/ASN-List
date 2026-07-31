@@ -1,6 +1,6 @@
 # AE 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:59:42
-# ASN: 157
+# 最后更新： CST 2026-08-01 02:03:44
+# ASN: 159
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -120,6 +120,7 @@ payload:
   - IP-ASN,208922,no-resolve
   - IP-ASN,209043,no-resolve
   - IP-ASN,209173,no-resolve
+  - IP-ASN,209526,no-resolve
   - IP-ASN,209995,no-resolve
   - IP-ASN,210744,no-resolve
   - IP-ASN,210838,no-resolve
@@ -157,6 +158,7 @@ payload:
   - IP-ASN,216154,no-resolve
   - IP-ASN,216194,no-resolve
   - IP-ASN,216382,no-resolve
+  - IP-ASN,219105,no-resolve
   - IP-ASN,219329,no-resolve
   - IP-ASN,219337,no-resolve
   - IP-ASN,219359,no-resolve

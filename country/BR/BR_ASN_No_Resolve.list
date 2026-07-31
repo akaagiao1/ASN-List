@@ -1,6 +1,6 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:57:32
-# ASN: 8852
+# 最后更新： CST 2026-08-01 02:01:36
+# ASN: 8849
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1251,no-resolve
@@ -953,8 +953,6 @@ IP-ASN,61571,no-resolve
 IP-ASN,61572,no-resolve
 IP-ASN,61573,no-resolve
 IP-ASN,61574,no-resolve
-IP-ASN,61575,no-resolve
-IP-ASN,61576,no-resolve
 IP-ASN,61577,no-resolve
 IP-ASN,61578,no-resolve
 IP-ASN,61579,no-resolve
@@ -7549,7 +7547,6 @@ IP-ASN,271692,no-resolve
 IP-ASN,271694,no-resolve
 IP-ASN,271695,no-resolve
 IP-ASN,271696,no-resolve
-IP-ASN,271697,no-resolve
 IP-ASN,271698,no-resolve
 IP-ASN,271699,no-resolve
 IP-ASN,271700,no-resolve
@@ -8178,7 +8175,6 @@ IP-ASN,273554,no-resolve
 IP-ASN,273556,no-resolve
 IP-ASN,273557,no-resolve
 IP-ASN,273558,no-resolve
-IP-ASN,273559,no-resolve
 IP-ASN,273561,no-resolve
 IP-ASN,273562,no-resolve
 IP-ASN,273563,no-resolve
@@ -8334,7 +8330,6 @@ IP-ASN,273763,no-resolve
 IP-ASN,273764,no-resolve
 IP-ASN,273765,no-resolve
 IP-ASN,273766,no-resolve
-IP-ASN,273768,no-resolve
 IP-ASN,273769,no-resolve
 IP-ASN,273772,no-resolve
 IP-ASN,273773,no-resolve
@@ -8828,6 +8823,7 @@ IP-ASN,275744,no-resolve
 IP-ASN,275745,no-resolve
 IP-ASN,275747,no-resolve
 IP-ASN,275749,no-resolve
+IP-ASN,275750,no-resolve
 IP-ASN,275752,no-resolve
 IP-ASN,275754,no-resolve
 IP-ASN,275755,no-resolve
@@ -8852,6 +8848,7 @@ IP-ASN,275787,no-resolve
 IP-ASN,275789,no-resolve
 IP-ASN,275794,no-resolve
 IP-ASN,275795,no-resolve
+IP-ASN,275799,no-resolve
 IP-ASN,275805,no-resolve
 IP-ASN,275807,no-resolve
 IP-ASN,275808,no-resolve

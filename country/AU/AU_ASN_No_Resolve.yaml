@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:58:54
-# ASN: 1700
+# 最后更新： CST 2026-08-01 02:02:57
+# ASN: 1701
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -275,6 +275,7 @@ payload:
   - IP-ASN,24541,no-resolve
   - IP-ASN,24542,no-resolve
   - IP-ASN,24543,no-resolve
+  - IP-ASN,24555,no-resolve
   - IP-ASN,24565,no-resolve
   - IP-ASN,24570,no-resolve
   - IP-ASN,24947,no-resolve
@@ -702,7 +703,6 @@ payload:
   - IP-ASN,132582,no-resolve
   - IP-ASN,132584,no-resolve
   - IP-ASN,132593,no-resolve
-  - IP-ASN,132611,no-resolve
   - IP-ASN,132616,no-resolve
   - IP-ASN,132619,no-resolve
   - IP-ASN,132620,no-resolve
@@ -1030,6 +1030,7 @@ payload:
   - IP-ASN,136430,no-resolve
   - IP-ASN,136431,no-resolve
   - IP-ASN,136432,no-resolve
+  - IP-ASN,136441,no-resolve
   - IP-ASN,136471,no-resolve
   - IP-ASN,136487,no-resolve
   - IP-ASN,136490,no-resolve

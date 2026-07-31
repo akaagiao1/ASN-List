@@ -1,5 +1,5 @@
 # TW 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:59:36
+# 最后更新： CST 2026-08-01 02:03:38
 # ASN: 310
 # 由 Kwisma 制作，保留所有权利。
 
@@ -282,6 +282,7 @@ payload:
   - IP-ASN,205592,no-resolve
   - IP-ASN,206434,no-resolve
   - IP-ASN,207344,no-resolve
+  - IP-ASN,207389,no-resolve
   - IP-ASN,207468,no-resolve
   - IP-ASN,207469,no-resolve
   - IP-ASN,207705,no-resolve
@@ -313,4 +314,3 @@ payload:
   - IP-ASN,216123,no-resolve
   - IP-ASN,216198,no-resolve
   - IP-ASN,216432,no-resolve
-  - IP-ASN,402511,no-resolve

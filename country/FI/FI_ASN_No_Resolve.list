@@ -1,6 +1,6 @@
 # FI 的 ASN 信息
-# 最后更新： CST 2026-07-31 01:59:37
-# ASN: 307
+# 最后更新： CST 2026-08-01 02:03:39
+# ASN: 308
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,375,no-resolve
@@ -193,6 +193,7 @@ IP-ASN,199674,no-resolve
 IP-ASN,200087,no-resolve
 IP-ASN,200134,no-resolve
 IP-ASN,200137,no-resolve
+IP-ASN,200327,no-resolve
 IP-ASN,200444,no-resolve
 IP-ASN,200630,no-resolve
 IP-ASN,200656,no-resolve

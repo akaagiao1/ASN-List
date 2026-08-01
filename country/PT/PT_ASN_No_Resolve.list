@@ -1,6 +1,6 @@
 # PT 的 ASN 信息
-# 最后更新： CST 2026-08-01 02:03:44
-# ASN: 137
+# 最后更新： CST 2026-08-02 01:33:21
+# ASN: 138
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1897,no-resolve
@@ -139,4 +139,5 @@ IP-ASN,215153,no-resolve
 IP-ASN,215306,no-resolve
 IP-ASN,215446,no-resolve
 IP-ASN,216237,no-resolve
+IP-ASN,219114,no-resolve
 IP-ASN,219175,no-resolve

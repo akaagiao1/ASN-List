@@ -1,6 +1,6 @@
 # UG 的 ASN 信息
-# 最后更新： CST 2026-08-01 02:03:46
-# ASN: 54
+# 最后更新： CST 2026-08-02 01:33:22
+# ASN: 55
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,20294,no-resolve
@@ -57,3 +57,4 @@ IP-ASN,329679,no-resolve
 IP-ASN,329684,no-resolve
 IP-ASN,329694,no-resolve
 IP-ASN,329746,no-resolve
+IP-ASN,329780,no-resolve

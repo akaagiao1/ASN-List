@@ -1,6 +1,6 @@
 # DK 的 ASN 信息
-# 最后更新： CST 2026-08-01 02:03:38
-# ASN: 351
+# 最后更新： CST 2026-08-02 01:33:16
+# ASN: 352
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,692,no-resolve
@@ -354,3 +354,4 @@ IP-ASN,216313,no-resolve
 IP-ASN,216393,no-resolve
 IP-ASN,216433,no-resolve
 IP-ASN,219271,no-resolve
+IP-ASN,219546,no-resolve

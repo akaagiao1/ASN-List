@@ -1,6 +1,6 @@
 # SG 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:33:31
-# ASN: 466
+# 最后更新： CST 2026-08-04 02:28:13
+# ASN: 467
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -127,6 +127,7 @@ payload:
   - IP-ASN,56080,no-resolve
   - IP-ASN,56094,no-resolve
   - IP-ASN,56114,no-resolve
+  - IP-ASN,56122,no-resolve
   - IP-ASN,56172,no-resolve
   - IP-ASN,56173,no-resolve
   - IP-ASN,56175,no-resolve

@@ -1,6 +1,6 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:33:11
-# ASN: 1115
+# 最后更新： CST 2026-08-04 02:27:52
+# ASN: 1114
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1051,7 +1051,6 @@ payload:
   - IP-ASN,214423,no-resolve
   - IP-ASN,214542,no-resolve
   - IP-ASN,214561,no-resolve
-  - IP-ASN,214578,no-resolve
   - IP-ASN,214668,no-resolve
   - IP-ASN,214673,no-resolve
   - IP-ASN,214679,no-resolve

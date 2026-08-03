@@ -1,6 +1,6 @@
 # DE 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:32:49
-# ASN: 2591
+# 最后更新： CST 2026-08-04 02:27:31
+# ASN: 2593
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1240,6 +1240,7 @@ payload:
   - IP-ASN,62359,no-resolve
   - IP-ASN,62365,no-resolve
   - IP-ASN,62387,no-resolve
+  - IP-ASN,62396,no-resolve
   - IP-ASN,62403,no-resolve
   - IP-ASN,62407,no-resolve
   - IP-ASN,62434,no-resolve
@@ -2393,6 +2394,7 @@ payload:
   - IP-ASN,213648,no-resolve
   - IP-ASN,213661,no-resolve
   - IP-ASN,213674,no-resolve
+  - IP-ASN,213718,no-resolve
   - IP-ASN,213726,no-resolve
   - IP-ASN,213731,no-resolve
   - IP-ASN,213735,no-resolve

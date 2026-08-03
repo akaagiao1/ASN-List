@@ -1,6 +1,6 @@
 # MD 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:33:37
-# ASN: 150
+# 最后更新： CST 2026-08-04 02:28:18
+# ASN: 152
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -19,6 +19,7 @@ payload:
   - IP-ASN,31204,no-resolve
   - IP-ASN,31252,no-resolve
   - IP-ASN,31557,no-resolve
+  - IP-ASN,31580,no-resolve
   - IP-ASN,34529,no-resolve
   - IP-ASN,34645,no-resolve
   - IP-ASN,35346,no-resolve
@@ -117,6 +118,7 @@ payload:
   - IP-ASN,205884,no-resolve
   - IP-ASN,205997,no-resolve
   - IP-ASN,206127,no-resolve
+  - IP-ASN,206413,no-resolve
   - IP-ASN,206535,no-resolve
   - IP-ASN,206560,no-resolve
   - IP-ASN,207159,no-resolve

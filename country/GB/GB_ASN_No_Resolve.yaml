@@ -1,6 +1,6 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:32:39
-# ASN: 2322
+# 最后更新： CST 2026-08-04 02:27:21
+# ASN: 2325
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -947,7 +947,6 @@ payload:
   - IP-ASN,59888,no-resolve
   - IP-ASN,59893,no-resolve
   - IP-ASN,59895,no-resolve
-  - IP-ASN,59897,no-resolve
   - IP-ASN,59902,no-resolve
   - IP-ASN,59904,no-resolve
   - IP-ASN,59907,no-resolve
@@ -1017,7 +1016,6 @@ payload:
   - IP-ASN,60914,no-resolve
   - IP-ASN,60925,no-resolve
   - IP-ASN,60933,no-resolve
-  - IP-ASN,60945,no-resolve
   - IP-ASN,60949,no-resolve
   - IP-ASN,60952,no-resolve
   - IP-ASN,60962,no-resolve
@@ -1403,6 +1401,7 @@ payload:
   - IP-ASN,202466,no-resolve
   - IP-ASN,202525,no-resolve
   - IP-ASN,202529,no-resolve
+  - IP-ASN,202532,no-resolve
   - IP-ASN,202548,no-resolve
   - IP-ASN,202574,no-resolve
   - IP-ASN,202575,no-resolve
@@ -1565,6 +1564,7 @@ payload:
   - IP-ASN,204819,no-resolve
   - IP-ASN,204821,no-resolve
   - IP-ASN,204826,no-resolve
+  - IP-ASN,204828,no-resolve
   - IP-ASN,204844,no-resolve
   - IP-ASN,204910,no-resolve
   - IP-ASN,204914,no-resolve
@@ -2209,6 +2209,7 @@ payload:
   - IP-ASN,214947,no-resolve
   - IP-ASN,215000,no-resolve
   - IP-ASN,215002,no-resolve
+  - IP-ASN,215003,no-resolve
   - IP-ASN,215008,no-resolve
   - IP-ASN,215022,no-resolve
   - IP-ASN,215023,no-resolve
@@ -2300,9 +2301,11 @@ payload:
   - IP-ASN,216364,no-resolve
   - IP-ASN,216376,no-resolve
   - IP-ASN,216405,no-resolve
+  - IP-ASN,219094,no-resolve
   - IP-ASN,219113,no-resolve
   - IP-ASN,219115,no-resolve
   - IP-ASN,219157,no-resolve
+  - IP-ASN,219172,no-resolve
   - IP-ASN,219185,no-resolve
   - IP-ASN,219192,no-resolve
   - IP-ASN,219213,no-resolve

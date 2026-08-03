@@ -1,6 +1,6 @@
 # VN 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:33:27
-# ASN: 550
+# 最后更新： CST 2026-08-04 02:28:09
+# ASN: 551
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -236,6 +236,7 @@ payload:
   - IP-ASN,135927,no-resolve
   - IP-ASN,135928,no-resolve
   - IP-ASN,135929,no-resolve
+  - IP-ASN,135930,no-resolve
   - IP-ASN,135932,no-resolve
   - IP-ASN,135933,no-resolve
   - IP-ASN,135934,no-resolve

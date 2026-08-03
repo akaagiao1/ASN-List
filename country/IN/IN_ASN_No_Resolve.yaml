@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-03 01:32:30
-# ASN: 2984
+# 最后更新： CST 2026-08-04 02:27:12
+# ASN: 2982
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -942,6 +942,7 @@ payload:
   - IP-ASN,134986,no-resolve
   - IP-ASN,135029,no-resolve
   - IP-ASN,135031,no-resolve
+  - IP-ASN,135035,no-resolve
   - IP-ASN,135036,no-resolve
   - IP-ASN,135073,no-resolve
   - IP-ASN,135082,no-resolve
@@ -1130,7 +1131,6 @@ payload:
   - IP-ASN,135817,no-resolve
   - IP-ASN,135818,no-resolve
   - IP-ASN,135819,no-resolve
-  - IP-ASN,135820,no-resolve
   - IP-ASN,135821,no-resolve
   - IP-ASN,135822,no-resolve
   - IP-ASN,135823,no-resolve
@@ -2092,7 +2092,6 @@ payload:
   - IP-ASN,146867,no-resolve
   - IP-ASN,146868,no-resolve
   - IP-ASN,146870,no-resolve
-  - IP-ASN,146871,no-resolve
   - IP-ASN,146872,no-resolve
   - IP-ASN,146875,no-resolve
   - IP-ASN,146876,no-resolve
@@ -2147,7 +2146,6 @@ payload:
   - IP-ASN,147194,no-resolve
   - IP-ASN,147195,no-resolve
   - IP-ASN,147196,no-resolve
-  - IP-ASN,147197,no-resolve
   - IP-ASN,147199,no-resolve
   - IP-ASN,147200,no-resolve
   - IP-ASN,147201,no-resolve
@@ -2155,7 +2153,6 @@ payload:
   - IP-ASN,147203,no-resolve
   - IP-ASN,147206,no-resolve
   - IP-ASN,147207,no-resolve
-  - IP-ASN,147208,no-resolve
   - IP-ASN,147210,no-resolve
   - IP-ASN,147211,no-resolve
   - IP-ASN,147212,no-resolve
@@ -2824,6 +2821,7 @@ payload:
   - IP-ASN,153852,no-resolve
   - IP-ASN,153866,no-resolve
   - IP-ASN,153870,no-resolve
+  - IP-ASN,153878,no-resolve
   - IP-ASN,153897,no-resolve
   - IP-ASN,153901,no-resolve
   - IP-ASN,153913,no-resolve
@@ -2875,6 +2873,7 @@ payload:
   - IP-ASN,154138,no-resolve
   - IP-ASN,154140,no-resolve
   - IP-ASN,154142,no-resolve
+  - IP-ASN,154157,no-resolve
   - IP-ASN,154163,no-resolve
   - IP-ASN,154173,no-resolve
   - IP-ASN,154174,no-resolve
@@ -2947,7 +2946,6 @@ payload:
   - IP-ASN,154713,no-resolve
   - IP-ASN,154714,no-resolve
   - IP-ASN,154756,no-resolve
-  - IP-ASN,154757,no-resolve
   - IP-ASN,154767,no-resolve
   - IP-ASN,197555,no-resolve
   - IP-ASN,198750,no-resolve

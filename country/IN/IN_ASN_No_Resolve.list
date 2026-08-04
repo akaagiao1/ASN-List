@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-04 02:27:12
-# ASN: 2982
+# 最后更新： CST 2026-08-05 02:08:35
+# ASN: 2986
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2697,no-resolve
@@ -1911,6 +1911,7 @@ IP-ASN,141533,no-resolve
 IP-ASN,141534,no-resolve
 IP-ASN,141536,no-resolve
 IP-ASN,141538,no-resolve
+IP-ASN,141540,no-resolve
 IP-ASN,141541,no-resolve
 IP-ASN,141542,no-resolve
 IP-ASN,141547,no-resolve
@@ -2059,6 +2060,7 @@ IP-ASN,142509,no-resolve
 IP-ASN,142510,no-resolve
 IP-ASN,142511,no-resolve
 IP-ASN,142513,no-resolve
+IP-ASN,142514,no-resolve
 IP-ASN,142515,no-resolve
 IP-ASN,142517,no-resolve
 IP-ASN,142518,no-resolve
@@ -2109,6 +2111,7 @@ IP-ASN,146898,no-resolve
 IP-ASN,146901,no-resolve
 IP-ASN,146902,no-resolve
 IP-ASN,146904,no-resolve
+IP-ASN,146907,no-resolve
 IP-ASN,146908,no-resolve
 IP-ASN,146911,no-resolve
 IP-ASN,146912,no-resolve
@@ -2125,6 +2128,7 @@ IP-ASN,146929,no-resolve
 IP-ASN,146930,no-resolve
 IP-ASN,146931,no-resolve
 IP-ASN,146932,no-resolve
+IP-ASN,146935,no-resolve
 IP-ASN,146936,no-resolve
 IP-ASN,146937,no-resolve
 IP-ASN,146940,no-resolve
@@ -2166,6 +2170,7 @@ IP-ASN,147225,no-resolve
 IP-ASN,147226,no-resolve
 IP-ASN,147227,no-resolve
 IP-ASN,147228,no-resolve
+IP-ASN,147229,no-resolve
 IP-ASN,147231,no-resolve
 IP-ASN,147233,no-resolve
 IP-ASN,147234,no-resolve
@@ -2975,7 +2980,6 @@ IP-ASN,213711,no-resolve
 IP-ASN,214122,no-resolve
 IP-ASN,214441,no-resolve
 IP-ASN,214485,no-resolve
-IP-ASN,214616,no-resolve
 IP-ASN,214832,no-resolve
 IP-ASN,215030,no-resolve
 IP-ASN,215117,no-resolve

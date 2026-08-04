@@ -1,6 +1,6 @@
 # IR 的 ASN 信息
-# 最后更新： CST 2026-08-04 02:28:10
-# ASN: 600
+# 最后更新： CST 2026-08-05 02:09:37
+# ASN: 599
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1756,no-resolve
@@ -191,7 +191,6 @@ IP-ASN,51732,no-resolve
 IP-ASN,51759,no-resolve
 IP-ASN,51777,no-resolve
 IP-ASN,51785,no-resolve
-IP-ASN,51788,no-resolve
 IP-ASN,51889,no-resolve
 IP-ASN,52049,no-resolve
 IP-ASN,52070,no-resolve

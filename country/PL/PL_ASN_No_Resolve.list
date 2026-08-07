@@ -1,6 +1,6 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:05
-# ASN: 2170
+# 最后更新： CST 2026-08-08 01:24:29
+# ASN: 2162
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1887,no-resolve
@@ -286,7 +286,6 @@ IP-ASN,34339,no-resolve
 IP-ASN,34342,no-resolve
 IP-ASN,34360,no-resolve
 IP-ASN,34390,no-resolve
-IP-ASN,34392,no-resolve
 IP-ASN,34393,no-resolve
 IP-ASN,34402,no-resolve
 IP-ASN,34409,no-resolve
@@ -332,7 +331,6 @@ IP-ASN,35198,no-resolve
 IP-ASN,35199,no-resolve
 IP-ASN,35209,no-resolve
 IP-ASN,35215,no-resolve
-IP-ASN,35229,no-resolve
 IP-ASN,35274,no-resolve
 IP-ASN,35275,no-resolve
 IP-ASN,35281,no-resolve
@@ -408,7 +406,6 @@ IP-ASN,39869,no-resolve
 IP-ASN,39873,no-resolve
 IP-ASN,39883,no-resolve
 IP-ASN,39893,no-resolve
-IP-ASN,39897,no-resolve
 IP-ASN,39907,no-resolve
 IP-ASN,39909,no-resolve
 IP-ASN,39914,no-resolve
@@ -959,7 +956,6 @@ IP-ASN,59460,no-resolve
 IP-ASN,59471,no-resolve
 IP-ASN,59472,no-resolve
 IP-ASN,59491,no-resolve
-IP-ASN,59551,no-resolve
 IP-ASN,59572,no-resolve
 IP-ASN,59579,no-resolve
 IP-ASN,59607,no-resolve
@@ -986,7 +982,6 @@ IP-ASN,60279,no-resolve
 IP-ASN,60309,no-resolve
 IP-ASN,60323,no-resolve
 IP-ASN,60335,no-resolve
-IP-ASN,60336,no-resolve
 IP-ASN,60378,no-resolve
 IP-ASN,60399,no-resolve
 IP-ASN,60418,no-resolve
@@ -1047,7 +1042,6 @@ IP-ASN,62147,no-resolve
 IP-ASN,62152,no-resolve
 IP-ASN,62165,no-resolve
 IP-ASN,62201,no-resolve
-IP-ASN,62213,no-resolve
 IP-ASN,62258,no-resolve
 IP-ASN,62308,no-resolve
 IP-ASN,62321,no-resolve
@@ -1177,7 +1171,6 @@ IP-ASN,197620,no-resolve
 IP-ASN,197621,no-resolve
 IP-ASN,197630,no-resolve
 IP-ASN,197645,no-resolve
-IP-ASN,197656,no-resolve
 IP-ASN,197667,no-resolve
 IP-ASN,197671,no-resolve
 IP-ASN,197672,no-resolve
@@ -1282,7 +1275,6 @@ IP-ASN,198289,no-resolve
 IP-ASN,198317,no-resolve
 IP-ASN,198327,no-resolve
 IP-ASN,198329,no-resolve
-IP-ASN,198342,no-resolve
 IP-ASN,198344,no-resolve
 IP-ASN,198374,no-resolve
 IP-ASN,198389,no-resolve
@@ -1292,7 +1284,6 @@ IP-ASN,198401,no-resolve
 IP-ASN,198408,no-resolve
 IP-ASN,198412,no-resolve
 IP-ASN,198413,no-resolve
-IP-ASN,198414,no-resolve
 IP-ASN,198416,no-resolve
 IP-ASN,198418,no-resolve
 IP-ASN,198424,no-resolve
@@ -2105,6 +2096,7 @@ IP-ASN,213131,no-resolve
 IP-ASN,213144,no-resolve
 IP-ASN,213147,no-resolve
 IP-ASN,213174,no-resolve
+IP-ASN,213255,no-resolve
 IP-ASN,213310,no-resolve
 IP-ASN,213340,no-resolve
 IP-ASN,213383,no-resolve

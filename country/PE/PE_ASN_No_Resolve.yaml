@@ -1,6 +1,6 @@
 # PE 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:45
-# ASN: 192
+# 最后更新： CST 2026-08-08 01:25:09
+# ASN: 194
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -116,7 +116,6 @@ payload:
   - IP-ASN,272848,no-resolve
   - IP-ASN,272894,no-resolve
   - IP-ASN,272923,no-resolve
-  - IP-ASN,272948,no-resolve
   - IP-ASN,272973,no-resolve
   - IP-ASN,272976,no-resolve
   - IP-ASN,272979,no-resolve
@@ -161,6 +160,7 @@ payload:
   - IP-ASN,273935,no-resolve
   - IP-ASN,273946,no-resolve
   - IP-ASN,273950,no-resolve
+  - IP-ASN,273959,no-resolve
   - IP-ASN,273968,no-resolve
   - IP-ASN,273976,no-resolve
   - IP-ASN,273977,no-resolve
@@ -189,8 +189,10 @@ payload:
   - IP-ASN,274298,no-resolve
   - IP-ASN,274309,no-resolve
   - IP-ASN,274855,no-resolve
+  - IP-ASN,274867,no-resolve
   - IP-ASN,274869,no-resolve
   - IP-ASN,274872,no-resolve
+  - IP-ASN,274911,no-resolve
   - IP-ASN,274912,no-resolve
   - IP-ASN,274933,no-resolve
   - IP-ASN,274949,no-resolve

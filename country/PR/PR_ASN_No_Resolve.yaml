@@ -1,6 +1,6 @@
 # PR 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:47
-# ASN: 97
+# 最后更新： CST 2026-08-08 01:25:12
+# ASN: 96
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -43,7 +43,6 @@ payload:
   - IP-ASN,39963,no-resolve
   - IP-ASN,40414,no-resolve
   - IP-ASN,40880,no-resolve
-  - IP-ASN,46793,no-resolve
   - IP-ASN,46868,no-resolve
   - IP-ASN,46869,no-resolve
   - IP-ASN,46941,no-resolve

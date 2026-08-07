@@ -1,6 +1,6 @@
 # ES 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:24
-# ASN: 970
+# 最后更新： CST 2026-08-08 01:24:49
+# ASN: 964
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -92,7 +92,6 @@ payload:
   - IP-ASN,24580
   - IP-ASN,24592
   - IP-ASN,24624
-  - IP-ASN,24772
   - IP-ASN,24830
   - IP-ASN,24920
   - IP-ASN,25247
@@ -420,7 +419,6 @@ payload:
   - IP-ASN,199312
   - IP-ASN,199329
   - IP-ASN,199359
-  - IP-ASN,199428
   - IP-ASN,199434
   - IP-ASN,199474
   - IP-ASN,199478
@@ -786,7 +784,6 @@ payload:
   - IP-ASN,209287
   - IP-ASN,209311
   - IP-ASN,209344
-  - IP-ASN,209365
   - IP-ASN,209370
   - IP-ASN,209386
   - IP-ASN,209478
@@ -865,7 +862,6 @@ payload:
   - IP-ASN,211811
   - IP-ASN,211874
   - IP-ASN,211902
-  - IP-ASN,211962
   - IP-ASN,211974
   - IP-ASN,212008
   - IP-ASN,212052
@@ -943,8 +939,6 @@ payload:
   - IP-ASN,214986
   - IP-ASN,215018
   - IP-ASN,215029
-  - IP-ASN,215199
-  - IP-ASN,215203
   - IP-ASN,215235
   - IP-ASN,215298
   - IP-ASN,215334

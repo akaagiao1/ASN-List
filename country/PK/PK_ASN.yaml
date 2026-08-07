@@ -1,6 +1,6 @@
 # PK 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:43
-# ASN: 307
+# 最后更新： CST 2026-08-08 01:25:06
+# ASN: 301
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -110,7 +110,6 @@ payload:
   - IP-ASN,135567
   - IP-ASN,135632
   - IP-ASN,135660
-  - IP-ASN,135661
   - IP-ASN,136012
   - IP-ASN,136030
   - IP-ASN,136142
@@ -131,7 +130,6 @@ payload:
   - IP-ASN,137258
   - IP-ASN,137265
   - IP-ASN,137273
-  - IP-ASN,137430
   - IP-ASN,137461
   - IP-ASN,137481
   - IP-ASN,137513
@@ -142,7 +140,6 @@ payload:
   - IP-ASN,138039
   - IP-ASN,138172
   - IP-ASN,138241
-  - IP-ASN,138324
   - IP-ASN,138368
   - IP-ASN,138423
   - IP-ASN,138424
@@ -241,7 +238,6 @@ payload:
   - IP-ASN,149984
   - IP-ASN,149986
   - IP-ASN,150108
-  - IP-ASN,150116
   - IP-ASN,150129
   - IP-ASN,150308
   - IP-ASN,150311
@@ -282,8 +278,6 @@ payload:
   - IP-ASN,152684
   - IP-ASN,152890
   - IP-ASN,152931
-  - IP-ASN,153321
-  - IP-ASN,153340
   - IP-ASN,153354
   - IP-ASN,153390
   - IP-ASN,153525

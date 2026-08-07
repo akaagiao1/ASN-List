@@ -1,6 +1,6 @@
 # LV 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:43
-# ASN: 258
+# 最后更新： CST 2026-08-08 01:25:07
+# ASN: 254
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -86,7 +86,6 @@ payload:
   - IP-ASN,41726
   - IP-ASN,41898
   - IP-ASN,42078
-  - IP-ASN,42099
   - IP-ASN,42532
   - IP-ASN,42663
   - IP-ASN,42936
@@ -123,7 +122,6 @@ payload:
   - IP-ASN,50731
   - IP-ASN,50755
   - IP-ASN,50893
-  - IP-ASN,51109
   - IP-ASN,51249
   - IP-ASN,51268
   - IP-ASN,51338
@@ -204,7 +202,6 @@ payload:
   - IP-ASN,204391
   - IP-ASN,205045
   - IP-ASN,205370
-  - IP-ASN,205568
   - IP-ASN,205625
   - IP-ASN,205680
   - IP-ASN,205821
@@ -224,7 +221,6 @@ payload:
   - IP-ASN,208995
   - IP-ASN,208996
   - IP-ASN,209018
-  - IP-ASN,209895
   - IP-ASN,210130
   - IP-ASN,210213
   - IP-ASN,210556

@@ -1,6 +1,6 @@
 # CH 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:28
-# ASN: 790
+# 最后更新： CST 2026-08-08 01:24:53
+# ASN: 785
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -140,7 +140,6 @@ payload:
   - IP-ASN,28928,no-resolve
   - IP-ASN,29058,no-resolve
   - IP-ASN,29097,no-resolve
-  - IP-ASN,29166,no-resolve
   - IP-ASN,29222,no-resolve
   - IP-ASN,29296,no-resolve
   - IP-ASN,29356,no-resolve
@@ -427,10 +426,8 @@ payload:
   - IP-ASN,60115,no-resolve
   - IP-ASN,60129,no-resolve
   - IP-ASN,60190,no-resolve
-  - IP-ASN,60199,no-resolve
   - IP-ASN,60265,no-resolve
   - IP-ASN,60284,no-resolve
-  - IP-ASN,60311,no-resolve
   - IP-ASN,60384,no-resolve
   - IP-ASN,60385,no-resolve
   - IP-ASN,60420,no-resolve
@@ -478,7 +475,6 @@ payload:
   - IP-ASN,197742,no-resolve
   - IP-ASN,197791,no-resolve
   - IP-ASN,198172,no-resolve
-  - IP-ASN,198175,no-resolve
   - IP-ASN,198249,no-resolve
   - IP-ASN,198326,no-resolve
   - IP-ASN,198385,no-resolve
@@ -488,7 +484,6 @@ payload:
   - IP-ASN,198784,no-resolve
   - IP-ASN,198808,no-resolve
   - IP-ASN,198951,no-resolve
-  - IP-ASN,198964,no-resolve
   - IP-ASN,199003,no-resolve
   - IP-ASN,199047,no-resolve
   - IP-ASN,199178,no-resolve

@@ -1,6 +1,6 @@
 # NO 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:42
-# ASN: 310
+# 最后更新： CST 2026-08-08 01:25:06
+# ASN: 308
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,224,no-resolve
@@ -221,7 +221,6 @@ IP-ASN,204511,no-resolve
 IP-ASN,204712,no-resolve
 IP-ASN,204734,no-resolve
 IP-ASN,204785,no-resolve
-IP-ASN,204901,no-resolve
 IP-ASN,204996,no-resolve
 IP-ASN,205043,no-resolve
 IP-ASN,205101,no-resolve
@@ -279,7 +278,6 @@ IP-ASN,211309,no-resolve
 IP-ASN,211474,no-resolve
 IP-ASN,211753,no-resolve
 IP-ASN,212064,no-resolve
-IP-ASN,212252,no-resolve
 IP-ASN,212449,no-resolve
 IP-ASN,212500,no-resolve
 IP-ASN,212514,no-resolve

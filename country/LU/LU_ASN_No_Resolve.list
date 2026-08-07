@@ -1,6 +1,6 @@
 # LU 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:47
-# ASN: 109
+# 最后更新： CST 2026-08-08 01:25:11
+# ASN: 108
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2602,no-resolve
@@ -102,7 +102,6 @@ IP-ASN,211435,no-resolve
 IP-ASN,211719,no-resolve
 IP-ASN,211999,no-resolve
 IP-ASN,212218,no-resolve
-IP-ASN,212568,no-resolve
 IP-ASN,212630,no-resolve
 IP-ASN,212882,no-resolve
 IP-ASN,213216,no-resolve

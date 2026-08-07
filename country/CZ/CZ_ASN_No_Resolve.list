@@ -1,6 +1,6 @@
 # CZ 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:39
-# ASN: 607
+# 最后更新： CST 2026-08-08 01:25:02
+# ASN: 603
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2118,no-resolve
@@ -175,7 +175,6 @@ IP-ASN,49580,no-resolve
 IP-ASN,49767,no-resolve
 IP-ASN,49890,no-resolve
 IP-ASN,49985,no-resolve
-IP-ASN,50007,no-resolve
 IP-ASN,50067,no-resolve
 IP-ASN,50097,no-resolve
 IP-ASN,50163,no-resolve
@@ -356,7 +355,6 @@ IP-ASN,199657,no-resolve
 IP-ASN,199665,no-resolve
 IP-ASN,199711,no-resolve
 IP-ASN,199722,no-resolve
-IP-ASN,199734,no-resolve
 IP-ASN,199803,no-resolve
 IP-ASN,199806,no-resolve
 IP-ASN,200070,no-resolve
@@ -560,7 +558,6 @@ IP-ASN,211137,no-resolve
 IP-ASN,211248,no-resolve
 IP-ASN,211274,no-resolve
 IP-ASN,211334,no-resolve
-IP-ASN,211445,no-resolve
 IP-ASN,211594,no-resolve
 IP-ASN,211693,no-resolve
 IP-ASN,211700,no-resolve
@@ -569,7 +566,6 @@ IP-ASN,211774,no-resolve
 IP-ASN,211816,no-resolve
 IP-ASN,212138,no-resolve
 IP-ASN,212224,no-resolve
-IP-ASN,212234,no-resolve
 IP-ASN,212315,no-resolve
 IP-ASN,212362,no-resolve
 IP-ASN,212453,no-resolve

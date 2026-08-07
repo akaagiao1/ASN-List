@@ -1,6 +1,6 @@
 # JP 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:27
-# ASN: 749
+# 最后更新： CST 2026-08-08 01:24:51
+# ASN: 748
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -320,7 +320,6 @@ payload:
   - IP-ASN,23831,no-resolve
   - IP-ASN,23833,no-resolve
   - IP-ASN,23836,no-resolve
-  - IP-ASN,23967,no-resolve
   - IP-ASN,24121,no-resolve
   - IP-ASN,24229,no-resolve
   - IP-ASN,24248,no-resolve
@@ -386,7 +385,6 @@ payload:
   - IP-ASN,38074,no-resolve
   - IP-ASN,38215,no-resolve
   - IP-ASN,38462,no-resolve
-  - IP-ASN,38627,no-resolve
   - IP-ASN,38628,no-resolve
   - IP-ASN,38629,no-resolve
   - IP-ASN,38631,no-resolve
@@ -400,6 +398,7 @@ payload:
   - IP-ASN,38642,no-resolve
   - IP-ASN,38643,no-resolve
   - IP-ASN,38644,no-resolve
+  - IP-ASN,38646,no-resolve
   - IP-ASN,38647,no-resolve
   - IP-ASN,38648,no-resolve
   - IP-ASN,38649,no-resolve
@@ -423,7 +422,6 @@ payload:
   - IP-ASN,45691,no-resolve
   - IP-ASN,49671,no-resolve
   - IP-ASN,51044,no-resolve
-  - IP-ASN,54132,no-resolve
   - IP-ASN,54415,no-resolve
   - IP-ASN,55373,no-resolve
   - IP-ASN,55374,no-resolve
@@ -702,6 +700,7 @@ payload:
   - IP-ASN,150368,no-resolve
   - IP-ASN,150369,no-resolve
   - IP-ASN,150685,no-resolve
+  - IP-ASN,151195,no-resolve
   - IP-ASN,151350,no-resolve
   - IP-ASN,151371,no-resolve
   - IP-ASN,151373,no-resolve

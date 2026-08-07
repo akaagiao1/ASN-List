@@ -1,6 +1,6 @@
 # CA 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:07
-# ASN: 1661
+# 最后更新： CST 2026-08-08 01:24:32
+# ASN: 1652
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,239,no-resolve
@@ -201,7 +201,6 @@ IP-ASN,12059,no-resolve
 IP-ASN,12093,no-resolve
 IP-ASN,12109,no-resolve
 IP-ASN,12132,no-resolve
-IP-ASN,12202,no-resolve
 IP-ASN,12212,no-resolve
 IP-ASN,12989,no-resolve
 IP-ASN,13319,no-resolve
@@ -339,7 +338,6 @@ IP-ASN,17353,no-resolve
 IP-ASN,17371,no-resolve
 IP-ASN,17372,no-resolve
 IP-ASN,17397,no-resolve
-IP-ASN,18442,no-resolve
 IP-ASN,18451,no-resolve
 IP-ASN,18472,no-resolve
 IP-ASN,18528,no-resolve
@@ -709,7 +707,6 @@ IP-ASN,32563,no-resolve
 IP-ASN,32564,no-resolve
 IP-ASN,32584,no-resolve
 IP-ASN,32586,no-resolve
-IP-ASN,32591,no-resolve
 IP-ASN,32613,no-resolve
 IP-ASN,32636,no-resolve
 IP-ASN,32638,no-resolve
@@ -794,7 +791,6 @@ IP-ASN,36273,no-resolve
 IP-ASN,36318,no-resolve
 IP-ASN,36337,no-resolve
 IP-ASN,36354,no-resolve
-IP-ASN,36369,no-resolve
 IP-ASN,36382,no-resolve
 IP-ASN,36391,no-resolve
 IP-ASN,36445,no-resolve
@@ -814,7 +810,6 @@ IP-ASN,36698,no-resolve
 IP-ASN,36731,no-resolve
 IP-ASN,36750,no-resolve
 IP-ASN,36786,no-resolve
-IP-ASN,36792,no-resolve
 IP-ASN,36817,no-resolve
 IP-ASN,39426,no-resolve
 IP-ASN,39852,no-resolve
@@ -1009,7 +1004,6 @@ IP-ASN,54606,no-resolve
 IP-ASN,54614,no-resolve
 IP-ASN,54625,no-resolve
 IP-ASN,54643,no-resolve
-IP-ASN,54652,no-resolve
 IP-ASN,54655,no-resolve
 IP-ASN,54657,no-resolve
 IP-ASN,54658,no-resolve
@@ -1300,7 +1294,6 @@ IP-ASN,395600,no-resolve
 IP-ASN,395611,no-resolve
 IP-ASN,395660,no-resolve
 IP-ASN,395663,no-resolve
-IP-ASN,395667,no-resolve
 IP-ASN,395677,no-resolve
 IP-ASN,395704,no-resolve
 IP-ASN,395741,no-resolve
@@ -1337,7 +1330,6 @@ IP-ASN,396223,no-resolve
 IP-ASN,396294,no-resolve
 IP-ASN,396306,no-resolve
 IP-ASN,396313,no-resolve
-IP-ASN,396316,no-resolve
 IP-ASN,396338,no-resolve
 IP-ASN,396341,no-resolve
 IP-ASN,396367,no-resolve
@@ -1448,7 +1440,6 @@ IP-ASN,398717,no-resolve
 IP-ASN,398720,no-resolve
 IP-ASN,398721,no-resolve
 IP-ASN,398734,no-resolve
-IP-ASN,398735,no-resolve
 IP-ASN,398740,no-resolve
 IP-ASN,398744,no-resolve
 IP-ASN,398749,no-resolve
@@ -1502,7 +1493,6 @@ IP-ASN,399319,no-resolve
 IP-ASN,399327,no-resolve
 IP-ASN,399337,no-resolve
 IP-ASN,399354,no-resolve
-IP-ASN,399357,no-resolve
 IP-ASN,399376,no-resolve
 IP-ASN,399385,no-resolve
 IP-ASN,399394,no-resolve
@@ -1664,3 +1654,4 @@ IP-ASN,402654,no-resolve
 IP-ASN,402719,no-resolve
 IP-ASN,402737,no-resolve
 IP-ASN,402799,no-resolve
+IP-ASN,402814,no-resolve

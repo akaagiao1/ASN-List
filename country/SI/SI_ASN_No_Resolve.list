@@ -1,6 +1,6 @@
 # SI 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:44
-# ASN: 272
+# 最后更新： CST 2026-08-08 01:25:08
+# ASN: 270
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1018,no-resolve
@@ -19,7 +19,6 @@ IP-ASN,15664,no-resolve
 IP-ASN,15822,no-resolve
 IP-ASN,15889,no-resolve
 IP-ASN,15946,no-resolve
-IP-ASN,16104,no-resolve
 IP-ASN,16184,no-resolve
 IP-ASN,20526,no-resolve
 IP-ASN,20691,no-resolve
@@ -233,7 +232,6 @@ IP-ASN,202442,no-resolve
 IP-ASN,202456,no-resolve
 IP-ASN,202547,no-resolve
 IP-ASN,202840,no-resolve
-IP-ASN,202988,no-resolve
 IP-ASN,203330,no-resolve
 IP-ASN,203466,no-resolve
 IP-ASN,203618,no-resolve

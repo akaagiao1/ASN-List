@@ -1,6 +1,6 @@
 # PK 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:43
-# ASN: 307
+# 最后更新： CST 2026-08-08 01:25:06
+# ASN: 301
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,4661,no-resolve
@@ -109,7 +109,6 @@ IP-ASN,135523,no-resolve
 IP-ASN,135567,no-resolve
 IP-ASN,135632,no-resolve
 IP-ASN,135660,no-resolve
-IP-ASN,135661,no-resolve
 IP-ASN,136012,no-resolve
 IP-ASN,136030,no-resolve
 IP-ASN,136142,no-resolve
@@ -130,7 +129,6 @@ IP-ASN,137047,no-resolve
 IP-ASN,137258,no-resolve
 IP-ASN,137265,no-resolve
 IP-ASN,137273,no-resolve
-IP-ASN,137430,no-resolve
 IP-ASN,137461,no-resolve
 IP-ASN,137481,no-resolve
 IP-ASN,137513,no-resolve
@@ -141,7 +139,6 @@ IP-ASN,138019,no-resolve
 IP-ASN,138039,no-resolve
 IP-ASN,138172,no-resolve
 IP-ASN,138241,no-resolve
-IP-ASN,138324,no-resolve
 IP-ASN,138368,no-resolve
 IP-ASN,138423,no-resolve
 IP-ASN,138424,no-resolve
@@ -240,7 +237,6 @@ IP-ASN,149870,no-resolve
 IP-ASN,149984,no-resolve
 IP-ASN,149986,no-resolve
 IP-ASN,150108,no-resolve
-IP-ASN,150116,no-resolve
 IP-ASN,150129,no-resolve
 IP-ASN,150308,no-resolve
 IP-ASN,150311,no-resolve
@@ -281,8 +277,6 @@ IP-ASN,152647,no-resolve
 IP-ASN,152684,no-resolve
 IP-ASN,152890,no-resolve
 IP-ASN,152931,no-resolve
-IP-ASN,153321,no-resolve
-IP-ASN,153340,no-resolve
 IP-ASN,153354,no-resolve
 IP-ASN,153390,no-resolve
 IP-ASN,153525,no-resolve

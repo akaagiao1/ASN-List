@@ -1,6 +1,6 @@
 # BY 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:47
-# ASN: 108
+# 最后更新： CST 2026-08-08 01:25:11
+# ASN: 107
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -80,7 +80,6 @@ payload:
   - IP-ASN,62351,no-resolve
   - IP-ASN,197367,no-resolve
   - IP-ASN,199561,no-resolve
-  - IP-ASN,201638,no-resolve
   - IP-ASN,201992,no-resolve
   - IP-ASN,202090,no-resolve
   - IP-ASN,202387,no-resolve

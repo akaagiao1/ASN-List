@@ -1,6 +1,6 @@
 # NP 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:46
-# ASN: 151
+# 最后更新： CST 2026-08-08 01:25:10
+# ASN: 152
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,4007,no-resolve
@@ -154,3 +154,4 @@ IP-ASN,154237,no-resolve
 IP-ASN,154259,no-resolve
 IP-ASN,154274,no-resolve
 IP-ASN,154541,no-resolve
+IP-ASN,154542,no-resolve

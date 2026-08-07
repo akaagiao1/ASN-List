@@ -1,5 +1,5 @@
 # MY 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:43
+# 最后更新： CST 2026-08-08 01:25:07
 # ASN: 270
 # 由 Kwisma 制作，保留所有权利。
 
@@ -154,6 +154,7 @@ payload:
   - IP-ASN,135580,no-resolve
   - IP-ASN,136412,no-resolve
   - IP-ASN,136492,no-resolve
+  - IP-ASN,136504,no-resolve
   - IP-ASN,136533,no-resolve
   - IP-ASN,136552,no-resolve
   - IP-ASN,136727,no-resolve
@@ -265,7 +266,6 @@ payload:
   - IP-ASN,154711,no-resolve
   - IP-ASN,198679,no-resolve
   - IP-ASN,199750,no-resolve
-  - IP-ASN,199892,no-resolve
   - IP-ASN,204535,no-resolve
   - IP-ASN,206018,no-resolve
   - IP-ASN,207852,no-resolve

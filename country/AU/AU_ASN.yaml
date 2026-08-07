@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:02
-# ASN: 1703
+# 最后更新： CST 2026-08-08 01:24:26
+# ASN: 1699
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -343,7 +343,6 @@ payload:
   - IP-ASN,38813
   - IP-ASN,38825
   - IP-ASN,38826
-  - IP-ASN,38829
   - IP-ASN,38830
   - IP-ASN,38835
   - IP-ASN,38858
@@ -600,7 +599,6 @@ payload:
   - IP-ASN,63920
   - IP-ASN,63922
   - IP-ASN,63931
-  - IP-ASN,63950
   - IP-ASN,63956
   - IP-ASN,63971
   - IP-ASN,63983
@@ -705,7 +703,6 @@ payload:
   - IP-ASN,132593
   - IP-ASN,132616
   - IP-ASN,132619
-  - IP-ASN,132620
   - IP-ASN,132626
   - IP-ASN,132682
   - IP-ASN,132691
@@ -1049,7 +1046,6 @@ payload:
   - IP-ASN,136580
   - IP-ASN,136582
   - IP-ASN,136585
-  - IP-ASN,136589
   - IP-ASN,136604
   - IP-ASN,136609
   - IP-ASN,136612
@@ -1511,6 +1507,7 @@ payload:
   - IP-ASN,149997
   - IP-ASN,149998
   - IP-ASN,150004
+  - IP-ASN,150110
   - IP-ASN,150115
   - IP-ASN,150121
   - IP-ASN,150127
@@ -1686,7 +1683,6 @@ payload:
   - IP-ASN,154726
   - IP-ASN,154753
   - IP-ASN,197245
-  - IP-ASN,197900
   - IP-ASN,198125
   - IP-ASN,198209
   - IP-ASN,198599

@@ -1,6 +1,6 @@
 # ES 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:09:24
-# ASN: 970
+# 最后更新： CST 2026-08-08 01:24:49
+# ASN: 964
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,766,no-resolve
@@ -91,7 +91,6 @@ IP-ASN,24452,no-resolve
 IP-ASN,24580,no-resolve
 IP-ASN,24592,no-resolve
 IP-ASN,24624,no-resolve
-IP-ASN,24772,no-resolve
 IP-ASN,24830,no-resolve
 IP-ASN,24920,no-resolve
 IP-ASN,25247,no-resolve
@@ -419,7 +418,6 @@ IP-ASN,199290,no-resolve
 IP-ASN,199312,no-resolve
 IP-ASN,199329,no-resolve
 IP-ASN,199359,no-resolve
-IP-ASN,199428,no-resolve
 IP-ASN,199434,no-resolve
 IP-ASN,199474,no-resolve
 IP-ASN,199478,no-resolve
@@ -785,7 +783,6 @@ IP-ASN,209281,no-resolve
 IP-ASN,209287,no-resolve
 IP-ASN,209311,no-resolve
 IP-ASN,209344,no-resolve
-IP-ASN,209365,no-resolve
 IP-ASN,209370,no-resolve
 IP-ASN,209386,no-resolve
 IP-ASN,209478,no-resolve
@@ -864,7 +861,6 @@ IP-ASN,211808,no-resolve
 IP-ASN,211811,no-resolve
 IP-ASN,211874,no-resolve
 IP-ASN,211902,no-resolve
-IP-ASN,211962,no-resolve
 IP-ASN,211974,no-resolve
 IP-ASN,212008,no-resolve
 IP-ASN,212052,no-resolve
@@ -942,8 +938,6 @@ IP-ASN,214954,no-resolve
 IP-ASN,214986,no-resolve
 IP-ASN,215018,no-resolve
 IP-ASN,215029,no-resolve
-IP-ASN,215199,no-resolve
-IP-ASN,215203,no-resolve
 IP-ASN,215235,no-resolve
 IP-ASN,215298,no-resolve
 IP-ASN,215334,no-resolve

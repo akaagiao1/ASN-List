@@ -1,5 +1,5 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-08-08 01:23:06
+# 最后更新： CST 2026-08-09 01:01:40
 # ASN: 8825
 # 由 Kwisma 制作，保留所有权利。
 
@@ -5444,7 +5444,6 @@ payload:
   - IP-ASN,268805,no-resolve
   - IP-ASN,268806,no-resolve
   - IP-ASN,268807,no-resolve
-  - IP-ASN,268808,no-resolve
   - IP-ASN,268809,no-resolve
   - IP-ASN,268810,no-resolve
   - IP-ASN,268811,no-resolve
@@ -7799,7 +7798,6 @@ payload:
   - IP-ASN,272584,no-resolve
   - IP-ASN,272585,no-resolve
   - IP-ASN,272586,no-resolve
-  - IP-ASN,272587,no-resolve
   - IP-ASN,272588,no-resolve
   - IP-ASN,272589,no-resolve
   - IP-ASN,272590,no-resolve
@@ -8166,6 +8164,7 @@ payload:
   - IP-ASN,273570,no-resolve
   - IP-ASN,273571,no-resolve
   - IP-ASN,273573,no-resolve
+  - IP-ASN,273574,no-resolve
   - IP-ASN,273575,no-resolve
   - IP-ASN,273577,no-resolve
   - IP-ASN,273578,no-resolve
@@ -8821,6 +8820,7 @@ payload:
   - IP-ASN,275789,no-resolve
   - IP-ASN,275791,no-resolve
   - IP-ASN,275792,no-resolve
+  - IP-ASN,275793,no-resolve
   - IP-ASN,275794,no-resolve
   - IP-ASN,275795,no-resolve
   - IP-ASN,275799,no-resolve

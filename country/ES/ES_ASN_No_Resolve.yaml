@@ -1,6 +1,6 @@
 # ES 的 ASN 信息
-# 最后更新： CST 2026-08-08 01:24:49
-# ASN: 964
+# 最后更新： CST 2026-08-09 01:03:25
+# ASN: 963
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -526,7 +526,6 @@ payload:
   - IP-ASN,202513,no-resolve
   - IP-ASN,202531,no-resolve
   - IP-ASN,202550,no-resolve
-  - IP-ASN,202565,no-resolve
   - IP-ASN,202608,no-resolve
   - IP-ASN,202636,no-resolve
   - IP-ASN,202654,no-resolve

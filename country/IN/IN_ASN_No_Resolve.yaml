@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-08 01:24:00
-# ASN: 2962
+# 最后更新： CST 2026-08-09 01:02:34
+# ASN: 2961
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -2169,7 +2169,6 @@ payload:
   - IP-ASN,147242,no-resolve
   - IP-ASN,147243,no-resolve
   - IP-ASN,147246,no-resolve
-  - IP-ASN,147251,no-resolve
   - IP-ASN,147252,no-resolve
   - IP-ASN,147254,no-resolve
   - IP-ASN,147255,no-resolve

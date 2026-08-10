@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:01
-# ASN: 1699
+# 最后更新： CST 2026-08-11 01:18:40
+# ASN: 1697
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1221,no-resolve
@@ -87,6 +87,7 @@ IP-ASN,9517,no-resolve
 IP-ASN,9518,no-resolve
 IP-ASN,9519,no-resolve
 IP-ASN,9544,no-resolve
+IP-ASN,9547,no-resolve
 IP-ASN,9555,no-resolve
 IP-ASN,9564,no-resolve
 IP-ASN,9627,no-resolve
@@ -1329,7 +1330,6 @@ IP-ASN,140325,no-resolve
 IP-ASN,140327,no-resolve
 IP-ASN,140382,no-resolve
 IP-ASN,140503,no-resolve
-IP-ASN,140505,no-resolve
 IP-ASN,140576,no-resolve
 IP-ASN,140583,no-resolve
 IP-ASN,140587,no-resolve
@@ -1386,7 +1386,6 @@ IP-ASN,141211,no-resolve
 IP-ASN,141223,no-resolve
 IP-ASN,141229,no-resolve
 IP-ASN,141353,no-resolve
-IP-ASN,141359,no-resolve
 IP-ASN,141360,no-resolve
 IP-ASN,141365,no-resolve
 IP-ASN,141392,no-resolve
@@ -1654,7 +1653,6 @@ IP-ASN,153809,no-resolve
 IP-ASN,153814,no-resolve
 IP-ASN,153836,no-resolve
 IP-ASN,153892,no-resolve
-IP-ASN,153954,no-resolve
 IP-ASN,153971,no-resolve
 IP-ASN,154089,no-resolve
 IP-ASN,154126,no-resolve

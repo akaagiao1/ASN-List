@@ -1,6 +1,6 @@
 # BG 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:36
-# ASN: 674
+# 最后更新： CST 2026-08-11 01:19:11
+# ASN: 673
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -348,7 +348,6 @@ payload:
   - IP-ASN,57509,no-resolve
   - IP-ASN,57538,no-resolve
   - IP-ASN,57546,no-resolve
-  - IP-ASN,57551,no-resolve
   - IP-ASN,57619,no-resolve
   - IP-ASN,57622,no-resolve
   - IP-ASN,57634,no-resolve

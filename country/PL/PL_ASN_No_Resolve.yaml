@@ -1,6 +1,6 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:04
-# ASN: 2161
+# 最后更新： CST 2026-08-11 01:18:43
+# ASN: 2159
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1155,7 +1155,6 @@ payload:
   - IP-ASN,197507,no-resolve
   - IP-ASN,197513,no-resolve
   - IP-ASN,197527,no-resolve
-  - IP-ASN,197530,no-resolve
   - IP-ASN,197543,no-resolve
   - IP-ASN,197544,no-resolve
   - IP-ASN,197552,no-resolve
@@ -1542,7 +1541,6 @@ payload:
   - IP-ASN,201029,no-resolve
   - IP-ASN,201036,no-resolve
   - IP-ASN,201044,no-resolve
-  - IP-ASN,201046,no-resolve
   - IP-ASN,201053,no-resolve
   - IP-ASN,201054,no-resolve
   - IP-ASN,201075,no-resolve
@@ -2132,6 +2130,7 @@ payload:
   - IP-ASN,214896,no-resolve
   - IP-ASN,215105,no-resolve
   - IP-ASN,215133,no-resolve
+  - IP-ASN,215204,no-resolve
   - IP-ASN,215205,no-resolve
   - IP-ASN,215253,no-resolve
   - IP-ASN,215291,no-resolve
@@ -2158,7 +2157,6 @@ payload:
   - IP-ASN,216439,no-resolve
   - IP-ASN,216446,no-resolve
   - IP-ASN,219097,no-resolve
-  - IP-ASN,219173,no-resolve
   - IP-ASN,219230,no-resolve
   - IP-ASN,219251,no-resolve
   - IP-ASN,219339,no-resolve

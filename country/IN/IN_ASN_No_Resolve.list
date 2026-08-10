@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:02:34
-# ASN: 2961
+# 最后更新： CST 2026-08-11 01:18:15
+# ASN: 2954
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2697,no-resolve
@@ -1129,7 +1129,6 @@ IP-ASN,135826,no-resolve
 IP-ASN,135828,no-resolve
 IP-ASN,135831,no-resolve
 IP-ASN,135832,no-resolve
-IP-ASN,135833,no-resolve
 IP-ASN,135834,no-resolve
 IP-ASN,135835,no-resolve
 IP-ASN,135836,no-resolve
@@ -1543,7 +1542,6 @@ IP-ASN,138282,no-resolve
 IP-ASN,138283,no-resolve
 IP-ASN,138285,no-resolve
 IP-ASN,138287,no-resolve
-IP-ASN,138288,no-resolve
 IP-ASN,138290,no-resolve
 IP-ASN,138291,no-resolve
 IP-ASN,138292,no-resolve
@@ -1583,7 +1581,6 @@ IP-ASN,138727,no-resolve
 IP-ASN,138730,no-resolve
 IP-ASN,138731,no-resolve
 IP-ASN,138732,no-resolve
-IP-ASN,138733,no-resolve
 IP-ASN,138734,no-resolve
 IP-ASN,138738,no-resolve
 IP-ASN,138739,no-resolve
@@ -1689,7 +1686,6 @@ IP-ASN,139544,no-resolve
 IP-ASN,139547,no-resolve
 IP-ASN,139549,no-resolve
 IP-ASN,139551,no-resolve
-IP-ASN,139552,no-resolve
 IP-ASN,139553,no-resolve
 IP-ASN,139554,no-resolve
 IP-ASN,139555,no-resolve
@@ -1916,7 +1912,6 @@ IP-ASN,141566,no-resolve
 IP-ASN,141568,no-resolve
 IP-ASN,141571,no-resolve
 IP-ASN,141574,no-resolve
-IP-ASN,141575,no-resolve
 IP-ASN,141688,no-resolve
 IP-ASN,141690,no-resolve
 IP-ASN,141728,no-resolve
@@ -2077,6 +2072,7 @@ IP-ASN,146865,no-resolve
 IP-ASN,146866,no-resolve
 IP-ASN,146867,no-resolve
 IP-ASN,146868,no-resolve
+IP-ASN,146869,no-resolve
 IP-ASN,146870,no-resolve
 IP-ASN,146871,no-resolve
 IP-ASN,146872,no-resolve
@@ -2148,7 +2144,6 @@ IP-ASN,147211,no-resolve
 IP-ASN,147212,no-resolve
 IP-ASN,147213,no-resolve
 IP-ASN,147216,no-resolve
-IP-ASN,147218,no-resolve
 IP-ASN,147221,no-resolve
 IP-ASN,147222,no-resolve
 IP-ASN,147223,no-resolve
@@ -2921,14 +2916,12 @@ IP-ASN,154656,no-resolve
 IP-ASN,154667,no-resolve
 IP-ASN,154678,no-resolve
 IP-ASN,154713,no-resolve
-IP-ASN,154714,no-resolve
 IP-ASN,154756,no-resolve
 IP-ASN,154763,no-resolve
 IP-ASN,154767,no-resolve
 IP-ASN,154791,no-resolve
 IP-ASN,197555,no-resolve
 IP-ASN,198750,no-resolve
-IP-ASN,198887,no-resolve
 IP-ASN,199347,no-resolve
 IP-ASN,200169,no-resolve
 IP-ASN,202145,no-resolve

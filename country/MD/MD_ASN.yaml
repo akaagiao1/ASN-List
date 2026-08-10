@@ -1,6 +1,6 @@
 # MD 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:46
-# ASN: 136
+# 最后更新： CST 2026-08-11 01:19:18
+# ASN: 135
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -19,7 +19,6 @@ payload:
   - IP-ASN,31204
   - IP-ASN,31252
   - IP-ASN,31557
-  - IP-ASN,31580
   - IP-ASN,34529
   - IP-ASN,34645
   - IP-ASN,35346

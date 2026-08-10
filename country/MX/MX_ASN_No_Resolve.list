@@ -1,6 +1,6 @@
 # MX 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:38
-# ASN: 536
+# 最后更新： CST 2026-08-11 01:19:12
+# ASN: 534
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,278,no-resolve
@@ -87,7 +87,6 @@ IP-ASN,26620,no-resolve
 IP-ASN,27661,no-resolve
 IP-ASN,27672,no-resolve
 IP-ASN,27673,no-resolve
-IP-ASN,27681,no-resolve
 IP-ASN,27683,no-resolve
 IP-ASN,27705,no-resolve
 IP-ASN,27780,no-resolve
@@ -335,7 +334,6 @@ IP-ASN,265606,no-resolve
 IP-ASN,265607,no-resolve
 IP-ASN,265608,no-resolve
 IP-ASN,265609,no-resolve
-IP-ASN,265610,no-resolve
 IP-ASN,265611,no-resolve
 IP-ASN,265612,no-resolve
 IP-ASN,265613,no-resolve
@@ -431,7 +429,6 @@ IP-ASN,270221,no-resolve
 IP-ASN,270222,no-resolve
 IP-ASN,270226,no-resolve
 IP-ASN,270236,no-resolve
-IP-ASN,272285,no-resolve
 IP-ASN,272286,no-resolve
 IP-ASN,272289,no-resolve
 IP-ASN,272297,no-resolve
@@ -533,6 +530,7 @@ IP-ASN,274402,no-resolve
 IP-ASN,274403,no-resolve
 IP-ASN,274404,no-resolve
 IP-ASN,274406,no-resolve
+IP-ASN,274409,no-resolve
 IP-ASN,274414,no-resolve
 IP-ASN,274415,no-resolve
 IP-ASN,274418,no-resolve

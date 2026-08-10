@@ -1,6 +1,6 @@
 # DO 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:47
-# ASN: 194
+# 最后更新： CST 2026-08-11 01:19:19
+# ASN: 196
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,6400,no-resolve
@@ -134,6 +134,7 @@ IP-ASN,273231,no-resolve
 IP-ASN,273235,no-resolve
 IP-ASN,273242,no-resolve
 IP-ASN,273824,no-resolve
+IP-ASN,273836,no-resolve
 IP-ASN,273838,no-resolve
 IP-ASN,273844,no-resolve
 IP-ASN,273861,no-resolve
@@ -196,4 +197,5 @@ IP-ASN,274913,no-resolve
 IP-ASN,274916,no-resolve
 IP-ASN,274931,no-resolve
 IP-ASN,274946,no-resolve
+IP-ASN,274964,no-resolve
 IP-ASN,274978,no-resolve

@@ -1,6 +1,6 @@
 # KR 的 ASN 信息
-# 最后更新： CST 2026-08-09 01:03:30
-# ASN: 886
+# 最后更新： CST 2026-08-11 01:19:06
+# ASN: 884
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -462,7 +462,6 @@ payload:
   - IP-ASN,23564,no-resolve
   - IP-ASN,23568,no-resolve
   - IP-ASN,23569,no-resolve
-  - IP-ASN,23570,no-resolve
   - IP-ASN,23571,no-resolve
   - IP-ASN,23572,no-resolve
   - IP-ASN,23573,no-resolve
@@ -826,7 +825,6 @@ payload:
   - IP-ASN,152212,no-resolve
   - IP-ASN,152213,no-resolve
   - IP-ASN,152214,no-resolve
-  - IP-ASN,152215,no-resolve
   - IP-ASN,152216,no-resolve
   - IP-ASN,152218,no-resolve
   - IP-ASN,152219,no-resolve

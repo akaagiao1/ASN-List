@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:18:15
-# ASN: 2954
+# 最后更新： CST 2026-08-12 01:31:19
+# ASN: 2958
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -629,6 +629,7 @@ payload:
   - IP-ASN,133552
   - IP-ASN,133580
   - IP-ASN,133590
+  - IP-ASN,133591
   - IP-ASN,133592
   - IP-ASN,133593
   - IP-ASN,133594
@@ -763,6 +764,7 @@ payload:
   - IP-ASN,134050
   - IP-ASN,134053
   - IP-ASN,134054
+  - IP-ASN,134055
   - IP-ASN,134058
   - IP-ASN,134060
   - IP-ASN,134109
@@ -1130,6 +1132,7 @@ payload:
   - IP-ASN,135828
   - IP-ASN,135831
   - IP-ASN,135832
+  - IP-ASN,135833
   - IP-ASN,135834
   - IP-ASN,135835
   - IP-ASN,135836
@@ -1582,6 +1585,7 @@ payload:
   - IP-ASN,138730
   - IP-ASN,138731
   - IP-ASN,138732
+  - IP-ASN,138733
   - IP-ASN,138734
   - IP-ASN,138738
   - IP-ASN,138739

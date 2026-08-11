@@ -1,6 +1,6 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:18:56
-# ASN: 1105
+# 最后更新： CST 2026-08-12 01:32:00
+# ASN: 1109
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,286,no-resolve
@@ -307,6 +307,7 @@ IP-ASN,44694,no-resolve
 IP-ASN,44733,no-resolve
 IP-ASN,44854,no-resolve
 IP-ASN,44858,no-resolve
+IP-ASN,44912,no-resolve
 IP-ASN,44926,no-resolve
 IP-ASN,44928,no-resolve
 IP-ASN,44931,no-resolve
@@ -792,6 +793,7 @@ IP-ASN,206176,no-resolve
 IP-ASN,206188,no-resolve
 IP-ASN,206200,no-resolve
 IP-ASN,206218,no-resolve
+IP-ASN,206221,no-resolve
 IP-ASN,206238,no-resolve
 IP-ASN,206249,no-resolve
 IP-ASN,206250,no-resolve
@@ -919,6 +921,7 @@ IP-ASN,210269,no-resolve
 IP-ASN,210320,no-resolve
 IP-ASN,210372,no-resolve
 IP-ASN,210383,no-resolve
+IP-ASN,210385,no-resolve
 IP-ASN,210429,no-resolve
 IP-ASN,210449,no-resolve
 IP-ASN,210501,no-resolve
@@ -1103,6 +1106,7 @@ IP-ASN,216251,no-resolve
 IP-ASN,216355,no-resolve
 IP-ASN,216455,no-resolve
 IP-ASN,216456,no-resolve
+IP-ASN,219155,no-resolve
 IP-ASN,219178,no-resolve
 IP-ASN,219411,no-resolve
 IP-ASN,219419,no-resolve

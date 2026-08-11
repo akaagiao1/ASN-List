@@ -1,6 +1,6 @@
 # IR 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:19:11
-# ASN: 589
+# 最后更新： CST 2026-08-12 01:32:18
+# ASN: 598
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1756,no-resolve
@@ -157,6 +157,7 @@ IP-ASN,49556,no-resolve
 IP-ASN,49596,no-resolve
 IP-ASN,49666,no-resolve
 IP-ASN,49680,no-resolve
+IP-ASN,49792,no-resolve
 IP-ASN,49796,no-resolve
 IP-ASN,49801,no-resolve
 IP-ASN,49847,no-resolve
@@ -200,6 +201,7 @@ IP-ASN,56375,no-resolve
 IP-ASN,56402,no-resolve
 IP-ASN,56461,no-resolve
 IP-ASN,56466,no-resolve
+IP-ASN,56486,no-resolve
 IP-ASN,56503,no-resolve
 IP-ASN,56547,no-resolve
 IP-ASN,56548,no-resolve
@@ -304,6 +306,7 @@ IP-ASN,61250,no-resolve
 IP-ASN,61362,no-resolve
 IP-ASN,61386,no-resolve
 IP-ASN,61962,no-resolve
+IP-ASN,61974,no-resolve
 IP-ASN,62039,no-resolve
 IP-ASN,62048,no-resolve
 IP-ASN,62137,no-resolve
@@ -337,6 +340,7 @@ IP-ASN,198926,no-resolve
 IP-ASN,199495,no-resolve
 IP-ASN,199633,no-resolve
 IP-ASN,199849,no-resolve
+IP-ASN,200116,no-resolve
 IP-ASN,200252,no-resolve
 IP-ASN,200296,no-resolve
 IP-ASN,200312,no-resolve
@@ -526,6 +530,7 @@ IP-ASN,212607,no-resolve
 IP-ASN,212631,no-resolve
 IP-ASN,212907,no-resolve
 IP-ASN,212939,no-resolve
+IP-ASN,213017,no-resolve
 IP-ASN,213069,no-resolve
 IP-ASN,213222,no-resolve
 IP-ASN,213531,no-resolve
@@ -535,6 +540,7 @@ IP-ASN,213665,no-resolve
 IP-ASN,213682,no-resolve
 IP-ASN,213727,no-resolve
 IP-ASN,213732,no-resolve
+IP-ASN,213745,no-resolve
 IP-ASN,213759,no-resolve
 IP-ASN,213775,no-resolve
 IP-ASN,213807,no-resolve
@@ -565,6 +571,7 @@ IP-ASN,214922,no-resolve
 IP-ASN,214949,no-resolve
 IP-ASN,214957,no-resolve
 IP-ASN,214993,no-resolve
+IP-ASN,214998,no-resolve
 IP-ASN,215271,no-resolve
 IP-ASN,215285,no-resolve
 IP-ASN,215350,no-resolve
@@ -577,6 +584,7 @@ IP-ASN,215700,no-resolve
 IP-ASN,215708,no-resolve
 IP-ASN,215746,no-resolve
 IP-ASN,215767,no-resolve
+IP-ASN,215779,no-resolve
 IP-ASN,215850,no-resolve
 IP-ASN,215892,no-resolve
 IP-ASN,215938,no-resolve
@@ -590,5 +598,6 @@ IP-ASN,216169,no-resolve
 IP-ASN,216205,no-resolve
 IP-ASN,216344,no-resolve
 IP-ASN,216417,no-resolve
+IP-ASN,219162,no-resolve
 IP-ASN,219466,no-resolve
 IP-ASN,219472,no-resolve

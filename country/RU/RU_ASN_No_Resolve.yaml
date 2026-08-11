@@ -1,6 +1,6 @@
 # RU 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:18:01
-# ASN: 5003
+# 最后更新： CST 2026-08-12 01:31:02
+# ASN: 5011
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -330,6 +330,7 @@ payload:
   - IP-ASN,20698,no-resolve
   - IP-ASN,20702,no-resolve
   - IP-ASN,20720,no-resolve
+  - IP-ASN,20730,no-resolve
   - IP-ASN,20764,no-resolve
   - IP-ASN,20772,no-resolve
   - IP-ASN,20793,no-resolve
@@ -1104,6 +1105,7 @@ payload:
   - IP-ASN,42148,no-resolve
   - IP-ASN,42149,no-resolve
   - IP-ASN,42151,no-resolve
+  - IP-ASN,42178,no-resolve
   - IP-ASN,42187,no-resolve
   - IP-ASN,42190,no-resolve
   - IP-ASN,42231,no-resolve
@@ -1852,6 +1854,7 @@ payload:
   - IP-ASN,48969,no-resolve
   - IP-ASN,48975,no-resolve
   - IP-ASN,48978,no-resolve
+  - IP-ASN,48986,no-resolve
   - IP-ASN,48989,no-resolve
   - IP-ASN,48991,no-resolve
   - IP-ASN,48995,no-resolve
@@ -2208,6 +2211,7 @@ payload:
   - IP-ASN,50878,no-resolve
   - IP-ASN,50911,no-resolve
   - IP-ASN,50916,no-resolve
+  - IP-ASN,50918,no-resolve
   - IP-ASN,50923,no-resolve
   - IP-ASN,50928,no-resolve
   - IP-ASN,50942,no-resolve
@@ -2762,6 +2766,7 @@ payload:
   - IP-ASN,57884,no-resolve
   - IP-ASN,57885,no-resolve
   - IP-ASN,57898,no-resolve
+  - IP-ASN,57899,no-resolve
   - IP-ASN,57901,no-resolve
   - IP-ASN,57903,no-resolve
   - IP-ASN,57906,no-resolve
@@ -3565,6 +3570,7 @@ payload:
   - IP-ASN,199179,no-resolve
   - IP-ASN,199184,no-resolve
   - IP-ASN,199194,no-resolve
+  - IP-ASN,199214,no-resolve
   - IP-ASN,199259,no-resolve
   - IP-ASN,199261,no-resolve
   - IP-ASN,199264,no-resolve
@@ -4576,6 +4582,7 @@ payload:
   - IP-ASN,210926,no-resolve
   - IP-ASN,210928,no-resolve
   - IP-ASN,210931,no-resolve
+  - IP-ASN,210954,no-resolve
   - IP-ASN,210956,no-resolve
   - IP-ASN,210989,no-resolve
   - IP-ASN,211000,no-resolve
@@ -4846,6 +4853,7 @@ payload:
   - IP-ASN,214548,no-resolve
   - IP-ASN,214573,no-resolve
   - IP-ASN,214574,no-resolve
+  - IP-ASN,214597,no-resolve
   - IP-ASN,214612,no-resolve
   - IP-ASN,214614,no-resolve
   - IP-ASN,214631,no-resolve

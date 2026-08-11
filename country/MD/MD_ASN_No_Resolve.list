@@ -1,6 +1,6 @@
 # MD 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:19:18
-# ASN: 135
+# 最后更新： CST 2026-08-12 01:32:27
+# ASN: 136
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1547,no-resolve
@@ -18,6 +18,7 @@ IP-ASN,28990,no-resolve
 IP-ASN,31204,no-resolve
 IP-ASN,31252,no-resolve
 IP-ASN,31557,no-resolve
+IP-ASN,31580,no-resolve
 IP-ASN,34529,no-resolve
 IP-ASN,34645,no-resolve
 IP-ASN,35346,no-resolve

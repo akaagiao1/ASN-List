@@ -1,6 +1,6 @@
 # NO 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:23
-# ASN: 309
+# 最后更新： CST 2026-08-13 01:31:35
+# ASN: 307
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -149,7 +149,6 @@ payload:
   - IP-ASN,61292
   - IP-ASN,62002
   - IP-ASN,62186
-  - IP-ASN,62225
   - IP-ASN,64401
   - IP-ASN,64424
   - IP-ASN,64440
@@ -212,7 +211,6 @@ payload:
   - IP-ASN,203673
   - IP-ASN,203733
   - IP-ASN,203779
-  - IP-ASN,203823
   - IP-ASN,203995
   - IP-ASN,204027
   - IP-ASN,204224

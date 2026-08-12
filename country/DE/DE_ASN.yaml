@@ -1,6 +1,6 @@
 # DE 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:31:38
-# ASN: 2573
+# 最后更新： CST 2026-08-13 01:30:49
+# ASN: 2565
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -16,7 +16,6 @@ payload:
   - IP-ASN,2857
   - IP-ASN,3163
   - IP-ASN,3209
-  - IP-ASN,3211
   - IP-ASN,3214
   - IP-ASN,3247
   - IP-ASN,3271
@@ -220,7 +219,6 @@ payload:
   - IP-ASN,15451
   - IP-ASN,15456
   - IP-ASN,15465
-  - IP-ASN,15479
   - IP-ASN,15486
   - IP-ASN,15492
   - IP-ASN,15495
@@ -487,7 +485,6 @@ payload:
   - IP-ASN,31184
   - IP-ASN,31186
   - IP-ASN,31197
-  - IP-ASN,31243
   - IP-ASN,31259
   - IP-ASN,31276
   - IP-ASN,31285
@@ -635,7 +632,6 @@ payload:
   - IP-ASN,35739
   - IP-ASN,35803
   - IP-ASN,35833
-  - IP-ASN,38168
   - IP-ASN,38914
   - IP-ASN,38927
   - IP-ASN,38938
@@ -1206,7 +1202,6 @@ payload:
   - IP-ASN,61273
   - IP-ASN,61303
   - IP-ASN,61310
-  - IP-ASN,61333
   - IP-ASN,61343
   - IP-ASN,61352
   - IP-ASN,61374
@@ -1618,7 +1613,6 @@ payload:
   - IP-ASN,203132
   - IP-ASN,203175
   - IP-ASN,203196
-  - IP-ASN,203207
   - IP-ASN,203215
   - IP-ASN,203226
   - IP-ASN,203228
@@ -1849,7 +1843,6 @@ payload:
   - IP-ASN,206266
   - IP-ASN,206272
   - IP-ASN,206274
-  - IP-ASN,206285
   - IP-ASN,206293
   - IP-ASN,206303
   - IP-ASN,206313
@@ -2278,7 +2271,6 @@ payload:
   - IP-ASN,212403
   - IP-ASN,212412
   - IP-ASN,212415
-  - IP-ASN,212440
   - IP-ASN,212443
   - IP-ASN,212472
   - IP-ASN,212495

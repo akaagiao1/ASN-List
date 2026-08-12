@@ -1,6 +1,6 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:00
-# ASN: 1109
+# 最后更新： CST 2026-08-13 01:31:12
+# ASN: 1112
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -118,6 +118,7 @@ payload:
   - IP-ASN,20953
   - IP-ASN,20965
   - IP-ASN,20969
+  - IP-ASN,21139
   - IP-ASN,21162
   - IP-ASN,21221
   - IP-ASN,21286
@@ -249,6 +250,7 @@ payload:
   - IP-ASN,39686
   - IP-ASN,39700
   - IP-ASN,39704
+  - IP-ASN,40985
   - IP-ASN,41037
   - IP-ASN,41038
   - IP-ASN,41047
@@ -363,6 +365,7 @@ payload:
   - IP-ASN,49812
   - IP-ASN,49820
   - IP-ASN,49838
+  - IP-ASN,49846
   - IP-ASN,49870
   - IP-ASN,49917
   - IP-ASN,49981
@@ -657,7 +660,6 @@ payload:
   - IP-ASN,201801
   - IP-ASN,201866
   - IP-ASN,201873
-  - IP-ASN,201875
   - IP-ASN,201883
   - IP-ASN,201891
   - IP-ASN,201940
@@ -1053,6 +1055,7 @@ payload:
   - IP-ASN,214723
   - IP-ASN,214783
   - IP-ASN,214807
+  - IP-ASN,214810
   - IP-ASN,214829
   - IP-ASN,214836
   - IP-ASN,214966

@@ -1,6 +1,6 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:30:25
-# ASN: 8824
+# 最后更新： CST 2026-08-13 01:29:39
+# ASN: 8826
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -46,6 +46,7 @@ payload:
   - IP-ASN,11432,no-resolve
   - IP-ASN,11644,no-resolve
   - IP-ASN,11706,no-resolve
+  - IP-ASN,11752,no-resolve
   - IP-ASN,11802,no-resolve
   - IP-ASN,11844,no-resolve
   - IP-ASN,11921,no-resolve
@@ -428,7 +429,6 @@ payload:
   - IP-ASN,52548,no-resolve
   - IP-ASN,52549,no-resolve
   - IP-ASN,52550,no-resolve
-  - IP-ASN,52551,no-resolve
   - IP-ASN,52552,no-resolve
   - IP-ASN,52554,no-resolve
   - IP-ASN,52555,no-resolve
@@ -8110,7 +8110,6 @@ payload:
   - IP-ASN,273507,no-resolve
   - IP-ASN,273508,no-resolve
   - IP-ASN,273509,no-resolve
-  - IP-ASN,273510,no-resolve
   - IP-ASN,273511,no-resolve
   - IP-ASN,273512,no-resolve
   - IP-ASN,273513,no-resolve
@@ -8245,6 +8244,7 @@ payload:
   - IP-ASN,273684,no-resolve
   - IP-ASN,273685,no-resolve
   - IP-ASN,273686,no-resolve
+  - IP-ASN,273687,no-resolve
   - IP-ASN,273688,no-resolve
   - IP-ASN,273689,no-resolve
   - IP-ASN,273691,no-resolve
@@ -8825,6 +8825,8 @@ payload:
   - IP-ASN,275802,no-resolve
   - IP-ASN,275803,no-resolve
   - IP-ASN,275805,no-resolve
+  - IP-ASN,275806,no-resolve
   - IP-ASN,275807,no-resolve
   - IP-ASN,275808,no-resolve
+  - IP-ASN,275810,no-resolve
   - IP-ASN,275811,no-resolve

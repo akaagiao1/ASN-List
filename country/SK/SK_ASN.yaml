@@ -1,6 +1,6 @@
 # SK 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:26
-# ASN: 200
+# 最后更新： CST 2026-08-13 01:31:38
+# ASN: 198
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -8,7 +8,6 @@ payload:
   - IP-ASN,1922
   - IP-ASN,2607
   - IP-ASN,5578
-  - IP-ASN,6658
   - IP-ASN,6855
   - IP-ASN,6862
   - IP-ASN,8257
@@ -55,7 +54,6 @@ payload:
   - IP-ASN,38949
   - IP-ASN,39456
   - IP-ASN,39574
-  - IP-ASN,39774
   - IP-ASN,41318
   - IP-ASN,41591
   - IP-ASN,41899

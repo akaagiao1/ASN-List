@@ -1,5 +1,5 @@
 # IR 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:18
+# 最后更新： CST 2026-08-13 01:31:29
 # ASN: 598
 # 由 Kwisma 制作，保留所有权利。
 
@@ -212,6 +212,7 @@ payload:
   - IP-ASN,56749
   - IP-ASN,56765
   - IP-ASN,56861
+  - IP-ASN,57027
   - IP-ASN,57067
   - IP-ASN,57218
   - IP-ASN,57230
@@ -513,7 +514,6 @@ payload:
   - IP-ASN,211881
   - IP-ASN,211903
   - IP-ASN,212036
-  - IP-ASN,212063
   - IP-ASN,212067
   - IP-ASN,212076
   - IP-ASN,212077

@@ -1,6 +1,6 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:00
-# ASN: 1109
+# 最后更新： CST 2026-08-13 01:31:12
+# ASN: 1112
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,286,no-resolve
@@ -117,6 +117,7 @@ IP-ASN,20940,no-resolve
 IP-ASN,20953,no-resolve
 IP-ASN,20965,no-resolve
 IP-ASN,20969,no-resolve
+IP-ASN,21139,no-resolve
 IP-ASN,21162,no-resolve
 IP-ASN,21221,no-resolve
 IP-ASN,21286,no-resolve
@@ -248,6 +249,7 @@ IP-ASN,39647,no-resolve
 IP-ASN,39686,no-resolve
 IP-ASN,39700,no-resolve
 IP-ASN,39704,no-resolve
+IP-ASN,40985,no-resolve
 IP-ASN,41037,no-resolve
 IP-ASN,41038,no-resolve
 IP-ASN,41047,no-resolve
@@ -362,6 +364,7 @@ IP-ASN,49784,no-resolve
 IP-ASN,49812,no-resolve
 IP-ASN,49820,no-resolve
 IP-ASN,49838,no-resolve
+IP-ASN,49846,no-resolve
 IP-ASN,49870,no-resolve
 IP-ASN,49917,no-resolve
 IP-ASN,49981,no-resolve
@@ -656,7 +659,6 @@ IP-ASN,201791,no-resolve
 IP-ASN,201801,no-resolve
 IP-ASN,201866,no-resolve
 IP-ASN,201873,no-resolve
-IP-ASN,201875,no-resolve
 IP-ASN,201883,no-resolve
 IP-ASN,201891,no-resolve
 IP-ASN,201940,no-resolve
@@ -1052,6 +1054,7 @@ IP-ASN,214689,no-resolve
 IP-ASN,214723,no-resolve
 IP-ASN,214783,no-resolve
 IP-ASN,214807,no-resolve
+IP-ASN,214810,no-resolve
 IP-ASN,214829,no-resolve
 IP-ASN,214836,no-resolve
 IP-ASN,214966,no-resolve

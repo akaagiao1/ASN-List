@@ -1,6 +1,6 @@
 # CH 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:32:11
-# ASN: 785
+# 最后更新： CST 2026-08-13 01:31:23
+# ASN: 784
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,513,no-resolve
@@ -550,7 +550,6 @@ IP-ASN,202424,no-resolve
 IP-ASN,202427,no-resolve
 IP-ASN,202451,no-resolve
 IP-ASN,202452,no-resolve
-IP-ASN,202458,no-resolve
 IP-ASN,202479,no-resolve
 IP-ASN,202691,no-resolve
 IP-ASN,202714,no-resolve

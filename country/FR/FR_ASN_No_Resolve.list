@@ -1,5 +1,5 @@
 # FR 的 ASN 信息
-# 最后更新： CST 2026-08-12 01:31:56
+# 最后更新： CST 2026-08-13 01:31:08
 # ASN: 1516
 # 由 Kwisma 制作，保留所有权利。
 
@@ -941,7 +941,6 @@ IP-ASN,202836,no-resolve
 IP-ASN,202862,no-resolve
 IP-ASN,202884,no-resolve
 IP-ASN,202886,no-resolve
-IP-ASN,202898,no-resolve
 IP-ASN,202933,no-resolve
 IP-ASN,202945,no-resolve
 IP-ASN,203019,no-resolve
@@ -955,6 +954,7 @@ IP-ASN,203350,no-resolve
 IP-ASN,203352,no-resolve
 IP-ASN,203360,no-resolve
 IP-ASN,203361,no-resolve
+IP-ASN,203374,no-resolve
 IP-ASN,203386,no-resolve
 IP-ASN,203400,no-resolve
 IP-ASN,203413,no-resolve

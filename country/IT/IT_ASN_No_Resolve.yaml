@@ -1,6 +1,6 @@
 # IT 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:15
-# ASN: 1115
+# 最后更新： CST 2026-08-14 01:28:36
+# ASN: 1117
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -430,6 +430,7 @@ payload:
   - IP-ASN,56559,no-resolve
   - IP-ASN,56641,no-resolve
   - IP-ASN,56754,no-resolve
+  - IP-ASN,56781,no-resolve
   - IP-ASN,56786,no-resolve
   - IP-ASN,56911,no-resolve
   - IP-ASN,56941,no-resolve
@@ -447,6 +448,7 @@ payload:
   - IP-ASN,57507,no-resolve
   - IP-ASN,57525,no-resolve
   - IP-ASN,57558,no-resolve
+  - IP-ASN,57698,no-resolve
   - IP-ASN,57817,no-resolve
   - IP-ASN,57846,no-resolve
   - IP-ASN,57913,no-resolve

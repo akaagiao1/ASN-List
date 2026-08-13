@@ -1,6 +1,6 @@
 # IQ 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:38
-# ASN: 148
+# 最后更新： CST 2026-08-14 01:29:01
+# ASN: 147
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -47,7 +47,6 @@ payload:
   - IP-ASN,198169,no-resolve
   - IP-ASN,198589,no-resolve
   - IP-ASN,198735,no-resolve
-  - IP-ASN,199770,no-resolve
   - IP-ASN,199826,no-resolve
   - IP-ASN,200178,no-resolve
   - IP-ASN,200200,no-resolve

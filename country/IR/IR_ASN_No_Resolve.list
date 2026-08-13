@@ -1,6 +1,6 @@
 # IR 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:29
-# ASN: 598
+# 最后更新： CST 2026-08-14 01:28:51
+# ASN: 597
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1756,no-resolve
@@ -341,7 +341,6 @@ IP-ASN,198926,no-resolve
 IP-ASN,199495,no-resolve
 IP-ASN,199633,no-resolve
 IP-ASN,199849,no-resolve
-IP-ASN,200116,no-resolve
 IP-ASN,200252,no-resolve
 IP-ASN,200296,no-resolve
 IP-ASN,200312,no-resolve

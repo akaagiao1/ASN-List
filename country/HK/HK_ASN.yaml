@@ -1,6 +1,6 @@
 # HK 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:16
-# ASN: 788
+# 最后更新： CST 2026-08-14 01:28:38
+# ASN: 790
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -331,6 +331,7 @@ payload:
   - IP-ASN,133424
   - IP-ASN,133448
   - IP-ASN,133484
+  - IP-ASN,133526
   - IP-ASN,133527
   - IP-ASN,133536
   - IP-ASN,133617
@@ -695,6 +696,7 @@ payload:
   - IP-ASN,154361
   - IP-ASN,154432
   - IP-ASN,154488
+  - IP-ASN,154561
   - IP-ASN,154602
   - IP-ASN,154615
   - IP-ASN,154665
@@ -758,7 +760,6 @@ payload:
   - IP-ASN,212147
   - IP-ASN,212558
   - IP-ASN,212836
-  - IP-ASN,212921
   - IP-ASN,213221
   - IP-ASN,213254
   - IP-ASN,213347
@@ -783,6 +784,7 @@ payload:
   - IP-ASN,216101
   - IP-ASN,216411
   - IP-ASN,216458
+  - IP-ASN,219071
   - IP-ASN,219174
   - IP-ASN,219345
   - IP-ASN,219376

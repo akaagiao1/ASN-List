@@ -1,11 +1,12 @@
 # LS 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:45
-# ASN: 6
+# 最后更新： CST 2026-08-14 01:29:08
+# ASN: 7
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
   - IP-ASN,25695
   - IP-ASN,33567
+  - IP-ASN,33767
   - IP-ASN,37057
   - IP-ASN,37505
   - IP-ASN,37642

@@ -1,5 +1,5 @@
 # MX 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:31
+# 最后更新： CST 2026-08-14 01:28:53
 # ASN: 537
 # 由 Kwisma 制作，保留所有权利。
 
@@ -380,7 +380,6 @@ IP-ASN,270143,no-resolve
 IP-ASN,270145,no-resolve
 IP-ASN,270146,no-resolve
 IP-ASN,270147,no-resolve
-IP-ASN,270149,no-resolve
 IP-ASN,270151,no-resolve
 IP-ASN,270152,no-resolve
 IP-ASN,270153,no-resolve
@@ -456,6 +455,7 @@ IP-ASN,272344,no-resolve
 IP-ASN,272345,no-resolve
 IP-ASN,272346,no-resolve
 IP-ASN,272349,no-resolve
+IP-ASN,272352,no-resolve
 IP-ASN,272355,no-resolve
 IP-ASN,272358,no-resolve
 IP-ASN,272362,no-resolve

@@ -1,5 +1,5 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:30:38
+# 最后更新： CST 2026-08-14 01:27:58
 # ASN: 2277
 # 由 Kwisma 制作，保留所有权利。
 
@@ -147,6 +147,7 @@ payload:
   - IP-ASN,16164
   - IP-ASN,16174
   - IP-ASN,16197
+  - IP-ASN,16204
   - IP-ASN,16212
   - IP-ASN,16224
   - IP-ASN,16238
@@ -979,7 +980,6 @@ payload:
   - IP-ASN,60426
   - IP-ASN,60431
   - IP-ASN,60439
-  - IP-ASN,60464
   - IP-ASN,60492
   - IP-ASN,60507
   - IP-ASN,60542

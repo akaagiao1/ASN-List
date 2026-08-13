@@ -1,6 +1,6 @@
 # DE 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:30:49
-# ASN: 2565
+# 最后更新： CST 2026-08-14 01:28:09
+# ASN: 2569
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -14,6 +14,7 @@ payload:
   - IP-ASN,2792,no-resolve
   - IP-ASN,2822,no-resolve
   - IP-ASN,2857,no-resolve
+  - IP-ASN,2861,no-resolve
   - IP-ASN,3163,no-resolve
   - IP-ASN,3209,no-resolve
   - IP-ASN,3214,no-resolve
@@ -632,6 +633,7 @@ payload:
   - IP-ASN,35739,no-resolve
   - IP-ASN,35803,no-resolve
   - IP-ASN,35833,no-resolve
+  - IP-ASN,38168,no-resolve
   - IP-ASN,38914,no-resolve
   - IP-ASN,38927,no-resolve
   - IP-ASN,38938,no-resolve
@@ -1230,6 +1232,7 @@ payload:
   - IP-ASN,62359,no-resolve
   - IP-ASN,62365,no-resolve
   - IP-ASN,62387,no-resolve
+  - IP-ASN,62396,no-resolve
   - IP-ASN,62403,no-resolve
   - IP-ASN,62407,no-resolve
   - IP-ASN,62434,no-resolve
@@ -2548,14 +2551,15 @@ payload:
   - IP-ASN,216459,no-resolve
   - IP-ASN,219059,no-resolve
   - IP-ASN,219110,no-resolve
+  - IP-ASN,219117,no-resolve
   - IP-ASN,219166,no-resolve
   - IP-ASN,219235,no-resolve
   - IP-ASN,219257,no-resolve
   - IP-ASN,219275,no-resolve
   - IP-ASN,219348,no-resolve
-  - IP-ASN,219364,no-resolve
   - IP-ASN,219366,no-resolve
   - IP-ASN,219381,no-resolve
+  - IP-ASN,219399,no-resolve
   - IP-ASN,219418,no-resolve
   - IP-ASN,219421,no-resolve
   - IP-ASN,219429,no-resolve

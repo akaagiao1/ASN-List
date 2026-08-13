@@ -1,6 +1,6 @@
 # NO 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:35
-# ASN: 307
+# 最后更新： CST 2026-08-14 01:28:58
+# ASN: 308
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -292,6 +292,7 @@ payload:
   - IP-ASN,213839,no-resolve
   - IP-ASN,213957,no-resolve
   - IP-ASN,213998,no-resolve
+  - IP-ASN,214372,no-resolve
   - IP-ASN,214486,no-resolve
   - IP-ASN,214615,no-resolve
   - IP-ASN,214645,no-resolve

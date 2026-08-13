@@ -1,6 +1,6 @@
 # GN 的 ASN 信息
-# 最后更新： CST 2026-08-13 01:31:44
-# ASN: 14
+# 最后更新： CST 2026-08-14 01:29:07
+# ASN: 13
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -16,5 +16,4 @@ payload:
   - IP-ASN,328923,no-resolve
   - IP-ASN,328965,no-resolve
   - IP-ASN,329399,no-resolve
-  - IP-ASN,329509,no-resolve
   - IP-ASN,329594,no-resolve

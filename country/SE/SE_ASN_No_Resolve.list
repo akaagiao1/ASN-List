@@ -1,6 +1,6 @@
 # SE 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:49
-# ASN: 668
+# 最后更新： CST 2026-08-16 00:56:37
+# ASN: 670
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,918,no-resolve
@@ -299,6 +299,7 @@ IP-ASN,51899,no-resolve
 IP-ASN,51913,no-resolve
 IP-ASN,51929,no-resolve
 IP-ASN,51956,no-resolve
+IP-ASN,52005,no-resolve
 IP-ASN,52011,no-resolve
 IP-ASN,52177,no-resolve
 IP-ASN,56414,no-resolve
@@ -387,6 +388,7 @@ IP-ASN,198302,no-resolve
 IP-ASN,198347,no-resolve
 IP-ASN,198463,no-resolve
 IP-ASN,198476,no-resolve
+IP-ASN,198538,no-resolve
 IP-ASN,198549,no-resolve
 IP-ASN,198568,no-resolve
 IP-ASN,198581,no-resolve

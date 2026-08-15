@@ -1,6 +1,6 @@
 # AR 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:42
-# ASN: 1090
+# 最后更新： CST 2026-08-16 00:56:29
+# ASN: 1091
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,676,no-resolve
@@ -1039,6 +1039,7 @@ IP-ASN,273175,no-resolve
 IP-ASN,273240,no-resolve
 IP-ASN,273833,no-resolve
 IP-ASN,273841,no-resolve
+IP-ASN,273860,no-resolve
 IP-ASN,273865,no-resolve
 IP-ASN,273880,no-resolve
 IP-ASN,273912,no-resolve

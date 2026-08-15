@@ -1,6 +1,6 @@
 # LT 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:29:01
-# ASN: 191
+# 最后更新： CST 2026-08-16 00:56:51
+# ASN: 190
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -46,7 +46,6 @@ payload:
   - IP-ASN,35500,no-resolve
   - IP-ASN,39007,no-resolve
   - IP-ASN,39067,no-resolve
-  - IP-ASN,41228,no-resolve
   - IP-ASN,42181,no-resolve
   - IP-ASN,42549,no-resolve
   - IP-ASN,42774,no-resolve

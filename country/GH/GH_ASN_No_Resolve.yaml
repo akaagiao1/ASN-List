@@ -1,6 +1,6 @@
 # GH 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:29:04
-# ASN: 94
+# 最后更新： CST 2026-08-16 00:56:54
+# ASN: 92
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -42,7 +42,6 @@ payload:
   - IP-ASN,327947,no-resolve
   - IP-ASN,327965,no-resolve
   - IP-ASN,327992,no-resolve
-  - IP-ASN,328054,no-resolve
   - IP-ASN,328076,no-resolve
   - IP-ASN,328141,no-resolve
   - IP-ASN,328182,no-resolve
@@ -53,7 +52,6 @@ payload:
   - IP-ASN,328224,no-resolve
   - IP-ASN,328252,no-resolve
   - IP-ASN,328261,no-resolve
-  - IP-ASN,328264,no-resolve
   - IP-ASN,328353,no-resolve
   - IP-ASN,328367,no-resolve
   - IP-ASN,328372,no-resolve

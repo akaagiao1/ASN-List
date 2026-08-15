@@ -1,6 +1,6 @@
 # CZ 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:54
-# ASN: 603
+# 最后更新： CST 2026-08-16 00:56:43
+# ASN: 604
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2118,no-resolve
@@ -433,6 +433,7 @@ IP-ASN,204113,no-resolve
 IP-ASN,204150,no-resolve
 IP-ASN,204165,no-resolve
 IP-ASN,204172,no-resolve
+IP-ASN,204183,no-resolve
 IP-ASN,204332,no-resolve
 IP-ASN,204351,no-resolve
 IP-ASN,204372,no-resolve

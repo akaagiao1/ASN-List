@@ -1,6 +1,6 @@
 # DK 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:57
-# ASN: 348
+# 最后更新： CST 2026-08-16 00:56:46
+# ASN: 347
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -60,7 +60,6 @@ payload:
   - IP-ASN,39590
   - IP-ASN,39642
   - IP-ASN,39839
-  - IP-ASN,39880
   - IP-ASN,41014
   - IP-ASN,41016
   - IP-ASN,41076

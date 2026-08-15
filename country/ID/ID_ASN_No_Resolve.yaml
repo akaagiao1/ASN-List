@@ -1,6 +1,6 @@
 # ID 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:04
-# ASN: 2878
+# 最后更新： CST 2026-08-16 00:55:49
+# ASN: 2877
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1278,7 +1278,6 @@ payload:
   - IP-ASN,140388,no-resolve
   - IP-ASN,140389,no-resolve
   - IP-ASN,140390,no-resolve
-  - IP-ASN,140392,no-resolve
   - IP-ASN,140394,no-resolve
   - IP-ASN,140395,no-resolve
   - IP-ASN,140396,no-resolve
@@ -1385,6 +1384,7 @@ payload:
   - IP-ASN,141098,no-resolve
   - IP-ASN,141100,no-resolve
   - IP-ASN,141101,no-resolve
+  - IP-ASN,141103,no-resolve
   - IP-ASN,141105,no-resolve
   - IP-ASN,141107,no-resolve
   - IP-ASN,141108,no-resolve
@@ -1425,7 +1425,6 @@ payload:
   - IP-ASN,141584,no-resolve
   - IP-ASN,141585,no-resolve
   - IP-ASN,141587,no-resolve
-  - IP-ASN,141588,no-resolve
   - IP-ASN,141589,no-resolve
   - IP-ASN,141590,no-resolve
   - IP-ASN,141592,no-resolve

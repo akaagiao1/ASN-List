@@ -1,6 +1,6 @@
 # DE 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:09
-# ASN: 2569
+# 最后更新： CST 2026-08-16 00:55:54
+# ASN: 2570
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,288,no-resolve
@@ -2549,6 +2549,7 @@ IP-ASN,216427,no-resolve
 IP-ASN,216451,no-resolve
 IP-ASN,216459,no-resolve
 IP-ASN,219059,no-resolve
+IP-ASN,219090,no-resolve
 IP-ASN,219110,no-resolve
 IP-ASN,219117,no-resolve
 IP-ASN,219166,no-resolve

@@ -1,6 +1,6 @@
 # KH 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:29:03
-# ASN: 101
+# 最后更新： CST 2026-08-16 00:56:54
+# ASN: 102
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -78,6 +78,7 @@ payload:
   - IP-ASN,139871,no-resolve
   - IP-ASN,140659,no-resolve
   - IP-ASN,140974,no-resolve
+  - IP-ASN,141761,no-resolve
   - IP-ASN,141993,no-resolve
   - IP-ASN,142296,no-resolve
   - IP-ASN,147011,no-resolve

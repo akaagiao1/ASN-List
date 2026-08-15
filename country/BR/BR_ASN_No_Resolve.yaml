@@ -1,6 +1,6 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:26:54
-# ASN: 8827
+# 最后更新： CST 2026-08-16 00:54:38
+# ASN: 8826
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -93,6 +93,7 @@ payload:
   - IP-ASN,19990,no-resolve
   - IP-ASN,20044,no-resolve
   - IP-ASN,20116,no-resolve
+  - IP-ASN,20121,no-resolve
   - IP-ASN,21506,no-resolve
   - IP-ASN,21571,no-resolve
   - IP-ASN,21574,no-resolve
@@ -362,7 +363,6 @@ payload:
   - IP-ASN,28616,no-resolve
   - IP-ASN,28618,no-resolve
   - IP-ASN,28619,no-resolve
-  - IP-ASN,28620,no-resolve
   - IP-ASN,28621,no-resolve
   - IP-ASN,28623,no-resolve
   - IP-ASN,28624,no-resolve
@@ -5785,7 +5785,6 @@ payload:
   - IP-ASN,269211,no-resolve
   - IP-ASN,269212,no-resolve
   - IP-ASN,269213,no-resolve
-  - IP-ASN,269214,no-resolve
   - IP-ASN,269215,no-resolve
   - IP-ASN,269216,no-resolve
   - IP-ASN,269217,no-resolve
@@ -7323,7 +7322,6 @@ payload:
   - IP-ASN,271459,no-resolve
   - IP-ASN,271463,no-resolve
   - IP-ASN,271464,no-resolve
-  - IP-ASN,271465,no-resolve
   - IP-ASN,271466,no-resolve
   - IP-ASN,271467,no-resolve
   - IP-ASN,271468,no-resolve
@@ -7529,6 +7527,7 @@ payload:
   - IP-ASN,271694,no-resolve
   - IP-ASN,271695,no-resolve
   - IP-ASN,271696,no-resolve
+  - IP-ASN,271697,no-resolve
   - IP-ASN,271698,no-resolve
   - IP-ASN,271699,no-resolve
   - IP-ASN,271700,no-resolve
@@ -8124,7 +8123,6 @@ payload:
   - IP-ASN,273524,no-resolve
   - IP-ASN,273525,no-resolve
   - IP-ASN,273526,no-resolve
-  - IP-ASN,273527,no-resolve
   - IP-ASN,273529,no-resolve
   - IP-ASN,273530,no-resolve
   - IP-ASN,273531,no-resolve
@@ -8780,7 +8778,6 @@ payload:
   - IP-ASN,275730,no-resolve
   - IP-ASN,275731,no-resolve
   - IP-ASN,275732,no-resolve
-  - IP-ASN,275733,no-resolve
   - IP-ASN,275734,no-resolve
   - IP-ASN,275736,no-resolve
   - IP-ASN,275737,no-resolve
@@ -8805,6 +8802,7 @@ payload:
   - IP-ASN,275766,no-resolve
   - IP-ASN,275767,no-resolve
   - IP-ASN,275768,no-resolve
+  - IP-ASN,275770,no-resolve
   - IP-ASN,275771,no-resolve
   - IP-ASN,275773,no-resolve
   - IP-ASN,275775,no-resolve
@@ -8831,3 +8829,4 @@ payload:
   - IP-ASN,275808,no-resolve
   - IP-ASN,275810,no-resolve
   - IP-ASN,275811,no-resolve
+  - IP-ASN,275822,no-resolve

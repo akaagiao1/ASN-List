@@ -1,6 +1,6 @@
 # DO 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:29:02
-# ASN: 196
+# 最后更新： CST 2026-08-16 00:56:52
+# ASN: 198
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -166,6 +166,7 @@ payload:
   - IP-ASN,274078
   - IP-ASN,274084
   - IP-ASN,274089
+  - IP-ASN,274091
   - IP-ASN,274093
   - IP-ASN,274095
   - IP-ASN,274104
@@ -192,6 +193,7 @@ payload:
   - IP-ASN,274326
   - IP-ASN,274328
   - IP-ASN,274861
+  - IP-ASN,274875
   - IP-ASN,274900
   - IP-ASN,274913
   - IP-ASN,274916

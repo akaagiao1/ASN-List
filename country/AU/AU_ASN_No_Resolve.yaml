@@ -1,5 +1,5 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:16
+# 最后更新： CST 2026-08-16 00:56:01
 # ASN: 1699
 # 由 Kwisma 制作，保留所有权利。
 
@@ -728,6 +728,7 @@ payload:
   - IP-ASN,132849,no-resolve
   - IP-ASN,132852,no-resolve
   - IP-ASN,132859,no-resolve
+  - IP-ASN,132864,no-resolve
   - IP-ASN,132868,no-resolve
   - IP-ASN,132873,no-resolve
   - IP-ASN,132895,no-resolve
@@ -798,7 +799,6 @@ payload:
   - IP-ASN,133480,no-resolve
   - IP-ASN,133483,no-resolve
   - IP-ASN,133501,no-resolve
-  - IP-ASN,133509,no-resolve
   - IP-ASN,133510,no-resolve
   - IP-ASN,133534,no-resolve
   - IP-ASN,133538,no-resolve

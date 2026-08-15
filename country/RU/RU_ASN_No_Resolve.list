@@ -1,6 +1,6 @@
 # RU 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:27:32
-# ASN: 5014
+# 最后更新： CST 2026-08-16 00:55:17
+# ASN: 5015
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2148,no-resolve
@@ -680,7 +680,6 @@ IP-ASN,34528,no-resolve
 IP-ASN,34533,no-resolve
 IP-ASN,34545,no-resolve
 IP-ASN,34550,no-resolve
-IP-ASN,34552,no-resolve
 IP-ASN,34559,no-resolve
 IP-ASN,34561,no-resolve
 IP-ASN,34573,no-resolve
@@ -2425,7 +2424,6 @@ IP-ASN,52043,no-resolve
 IP-ASN,52046,no-resolve
 IP-ASN,52047,no-resolve
 IP-ASN,52060,no-resolve
-IP-ASN,52062,no-resolve
 IP-ASN,52069,no-resolve
 IP-ASN,52085,no-resolve
 IP-ASN,52086,no-resolve
@@ -4491,6 +4489,7 @@ IP-ASN,209751,no-resolve
 IP-ASN,209755,no-resolve
 IP-ASN,209758,no-resolve
 IP-ASN,209759,no-resolve
+IP-ASN,209763,no-resolve
 IP-ASN,209773,no-resolve
 IP-ASN,209775,no-resolve
 IP-ASN,209779,no-resolve
@@ -4993,9 +4992,11 @@ IP-ASN,216377,no-resolve
 IP-ASN,216379,no-resolve
 IP-ASN,216423,no-resolve
 IP-ASN,216460,no-resolve
+IP-ASN,218988,no-resolve
 IP-ASN,219058,no-resolve
 IP-ASN,219095,no-resolve
 IP-ASN,219123,no-resolve
+IP-ASN,219137,no-resolve
 IP-ASN,219165,no-resolve
 IP-ASN,219201,no-resolve
 IP-ASN,219202,no-resolve

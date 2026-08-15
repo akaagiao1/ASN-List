@@ -1,6 +1,6 @@
 # CO 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:28:56
-# ASN: 421
+# 最后更新： CST 2026-08-16 00:56:45
+# ASN: 422
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3603,no-resolve
@@ -411,6 +411,7 @@ IP-ASN,274880,no-resolve
 IP-ASN,274882,no-resolve
 IP-ASN,274888,no-resolve
 IP-ASN,274889,no-resolve
+IP-ASN,274891,no-resolve
 IP-ASN,274894,no-resolve
 IP-ASN,274926,no-resolve
 IP-ASN,274940,no-resolve

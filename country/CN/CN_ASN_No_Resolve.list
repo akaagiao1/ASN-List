@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-14 01:27:22
-# ASN: 5224
+# 最后更新： CST 2026-08-16 00:55:06
+# ASN: 5225
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,4134,no-resolve
@@ -246,6 +246,7 @@ IP-ASN,56046,no-resolve
 IP-ASN,56047,no-resolve
 IP-ASN,56048,no-resolve
 IP-ASN,56282,no-resolve
+IP-ASN,57330,no-resolve
 IP-ASN,58026,no-resolve
 IP-ASN,58448,no-resolve
 IP-ASN,58461,no-resolve
@@ -291,6 +292,7 @@ IP-ASN,59049,no-resolve
 IP-ASN,59064,no-resolve
 IP-ASN,59067,no-resolve
 IP-ASN,59068,no-resolve
+IP-ASN,59072,no-resolve
 IP-ASN,59073,no-resolve
 IP-ASN,59074,no-resolve
 IP-ASN,59077,no-resolve
@@ -319,6 +321,7 @@ IP-ASN,63612,no-resolve
 IP-ASN,63614,no-resolve
 IP-ASN,63615,no-resolve
 IP-ASN,63617,no-resolve
+IP-ASN,63619,no-resolve
 IP-ASN,63620,no-resolve
 IP-ASN,63621,no-resolve
 IP-ASN,63629,no-resolve
@@ -5029,7 +5032,6 @@ IP-ASN,151461,no-resolve
 IP-ASN,151462,no-resolve
 IP-ASN,151464,no-resolve
 IP-ASN,151490,no-resolve
-IP-ASN,151640,no-resolve
 IP-ASN,151673,no-resolve
 IP-ASN,151674,no-resolve
 IP-ASN,151785,no-resolve
@@ -5219,7 +5221,6 @@ IP-ASN,219207,no-resolve
 IP-ASN,219208,no-resolve
 IP-ASN,219210,no-resolve
 IP-ASN,219283,no-resolve
-IP-ASN,219289,no-resolve
 IP-ASN,219300,no-resolve
 IP-ASN,219324,no-resolve
 IP-ASN,219332,no-resolve

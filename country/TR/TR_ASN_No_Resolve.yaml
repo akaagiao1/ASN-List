@@ -1,6 +1,6 @@
 # TR 的 ASN 信息
-# 最后更新： CST 2026-08-16 00:56:36
-# ASN: 868
+# 最后更新： CST 2026-08-17 00:56:41
+# ASN: 869
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -518,6 +518,7 @@ payload:
   - IP-ASN,204036,no-resolve
   - IP-ASN,204054,no-resolve
   - IP-ASN,204132,no-resolve
+  - IP-ASN,204205,no-resolve
   - IP-ASN,204209,no-resolve
   - IP-ASN,204223,no-resolve
   - IP-ASN,204240,no-resolve

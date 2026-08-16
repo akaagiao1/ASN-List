@@ -1,6 +1,6 @@
 # JP 的 ASN 信息
-# 最后更新： CST 2026-08-16 00:56:30
-# ASN: 747
+# 最后更新： CST 2026-08-17 00:56:35
+# ASN: 748
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -652,6 +652,7 @@ payload:
   - IP-ASN,137508,no-resolve
   - IP-ASN,137819,no-resolve
   - IP-ASN,138033,no-resolve
+  - IP-ASN,138038,no-resolve
   - IP-ASN,138181,no-resolve
   - IP-ASN,138321,no-resolve
   - IP-ASN,138352,no-resolve

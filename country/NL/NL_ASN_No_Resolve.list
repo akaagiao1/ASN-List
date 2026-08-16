@@ -1,6 +1,6 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-08-16 00:56:18
-# ASN: 1112
+# 最后更新： CST 2026-08-17 00:56:24
+# ASN: 1113
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,286,no-resolve
@@ -476,6 +476,7 @@ IP-ASN,60131,no-resolve
 IP-ASN,60142,no-resolve
 IP-ASN,60144,no-resolve
 IP-ASN,60222,no-resolve
+IP-ASN,60262,no-resolve
 IP-ASN,60358,no-resolve
 IP-ASN,60404,no-resolve
 IP-ASN,60479,no-resolve

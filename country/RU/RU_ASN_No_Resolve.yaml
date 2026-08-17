@@ -1,6 +1,6 @@
 # RU 的 ASN 信息
-# 最后更新： CST 2026-08-17 00:55:22
-# ASN: 5014
+# 最后更新： CST 2026-08-18 00:58:56
+# ASN: 5012
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1768,7 +1768,6 @@ payload:
   - IP-ASN,48462,no-resolve
   - IP-ASN,48467,no-resolve
   - IP-ASN,48470,no-resolve
-  - IP-ASN,48472,no-resolve
   - IP-ASN,48475,no-resolve
   - IP-ASN,48476,no-resolve
   - IP-ASN,48477,no-resolve
@@ -4579,7 +4578,6 @@ payload:
   - IP-ASN,210926,no-resolve
   - IP-ASN,210928,no-resolve
   - IP-ASN,210931,no-resolve
-  - IP-ASN,210954,no-resolve
   - IP-ASN,210956,no-resolve
   - IP-ASN,210989,no-resolve
   - IP-ASN,211000,no-resolve

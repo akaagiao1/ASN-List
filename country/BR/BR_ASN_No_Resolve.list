@@ -1,6 +1,6 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-08-17 00:54:43
-# ASN: 8823
+# 最后更新： CST 2026-08-18 00:58:16
+# ASN: 8821
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1251,no-resolve
@@ -5970,7 +5970,6 @@ IP-ASN,269421,no-resolve
 IP-ASN,269422,no-resolve
 IP-ASN,269423,no-resolve
 IP-ASN,269424,no-resolve
-IP-ASN,269425,no-resolve
 IP-ASN,269427,no-resolve
 IP-ASN,269429,no-resolve
 IP-ASN,269430,no-resolve
@@ -8238,7 +8237,6 @@ IP-ASN,273683,no-resolve
 IP-ASN,273684,no-resolve
 IP-ASN,273685,no-resolve
 IP-ASN,273686,no-resolve
-IP-ASN,273687,no-resolve
 IP-ASN,273688,no-resolve
 IP-ASN,273689,no-resolve
 IP-ASN,273691,no-resolve

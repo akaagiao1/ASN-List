@@ -1,6 +1,6 @@
 # MX 的 ASN 信息
-# 最后更新： CST 2026-08-17 00:56:47
-# ASN: 536
+# 最后更新： CST 2026-08-18 01:00:22
+# ASN: 535
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -152,7 +152,6 @@ payload:
   - IP-ASN,28453,no-resolve
   - IP-ASN,28454,no-resolve
   - IP-ASN,28455,no-resolve
-  - IP-ASN,28456,no-resolve
   - IP-ASN,28457,no-resolve
   - IP-ASN,28458,no-resolve
   - IP-ASN,28459,no-resolve

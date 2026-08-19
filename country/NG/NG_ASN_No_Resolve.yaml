@@ -1,6 +1,6 @@
 # NG 的 ASN 信息
-# 最后更新： CST 2026-08-18 01:00:30
-# ASN: 228
+# 最后更新： CST 2026-08-20 01:02:56
+# ASN: 230
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -32,6 +32,7 @@ payload:
   - IP-ASN,37056,no-resolve
   - IP-ASN,37058,no-resolve
   - IP-ASN,37076,no-resolve
+  - IP-ASN,37077,no-resolve
   - IP-ASN,37088,no-resolve
   - IP-ASN,37104,no-resolve
   - IP-ASN,37125,no-resolve
@@ -232,3 +233,4 @@ payload:
   - IP-ASN,329724,no-resolve
   - IP-ASN,329739,no-resolve
   - IP-ASN,329740,no-resolve
+  - IP-ASN,329751,no-resolve

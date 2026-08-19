@@ -1,6 +1,6 @@
 # SE 的 ASN 信息
-# 最后更新： CST 2026-08-18 01:00:18
-# ASN: 670
+# 最后更新： CST 2026-08-20 01:02:45
+# ASN: 673
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -145,6 +145,7 @@ payload:
   - IP-ASN,35382
   - IP-ASN,35445
   - IP-ASN,35542
+  - IP-ASN,35543
   - IP-ASN,35565
   - IP-ASN,35634
   - IP-ASN,35706
@@ -231,6 +232,7 @@ payload:
   - IP-ASN,44746
   - IP-ASN,44757
   - IP-ASN,44769
+  - IP-ASN,45036
   - IP-ASN,47155
   - IP-ASN,47234
   - IP-ASN,47287
@@ -326,6 +328,7 @@ payload:
   - IP-ASN,57782
   - IP-ASN,57851
   - IP-ASN,57955
+  - IP-ASN,57967
   - IP-ASN,58317
   - IP-ASN,58320
   - IP-ASN,58343

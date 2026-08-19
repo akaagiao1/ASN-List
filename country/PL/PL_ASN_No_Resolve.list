@@ -1,6 +1,6 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-08-18 00:59:46
-# ASN: 2155
+# 最后更新： CST 2026-08-20 01:02:13
+# ASN: 2158
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1887,no-resolve
@@ -246,6 +246,7 @@ IP-ASN,31412,no-resolve
 IP-ASN,31423,no-resolve
 IP-ASN,31431,no-resolve
 IP-ASN,31434,no-resolve
+IP-ASN,31445,no-resolve
 IP-ASN,31505,no-resolve
 IP-ASN,31528,no-resolve
 IP-ASN,31540,no-resolve
@@ -1068,6 +1069,7 @@ IP-ASN,196891,no-resolve
 IP-ASN,196898,no-resolve
 IP-ASN,196899,no-resolve
 IP-ASN,196901,no-resolve
+IP-ASN,196926,no-resolve
 IP-ASN,196927,no-resolve
 IP-ASN,196928,no-resolve
 IP-ASN,196935,no-resolve
@@ -2151,6 +2153,7 @@ IP-ASN,216323,no-resolve
 IP-ASN,216439,no-resolve
 IP-ASN,216446,no-resolve
 IP-ASN,219097,no-resolve
+IP-ASN,219121,no-resolve
 IP-ASN,219173,no-resolve
 IP-ASN,219230,no-resolve
 IP-ASN,219251,no-resolve

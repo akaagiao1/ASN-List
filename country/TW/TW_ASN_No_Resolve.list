@@ -1,6 +1,6 @@
 # TW 的 ASN 信息
-# 最后更新： CST 2026-08-18 01:00:27
-# ASN: 303
+# 最后更新： CST 2026-08-20 01:02:53
+# ASN: 304
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1659,no-resolve
@@ -306,3 +306,4 @@ IP-ASN,215934,no-resolve
 IP-ASN,215993,no-resolve
 IP-ASN,216123,no-resolve
 IP-ASN,216198,no-resolve
+IP-ASN,402509,no-resolve

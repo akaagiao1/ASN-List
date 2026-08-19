@@ -1,6 +1,6 @@
 # HK 的 ASN 信息
-# 最后更新： CST 2026-08-18 01:00:05
-# ASN: 786
+# 最后更新： CST 2026-08-20 01:02:32
+# ASN: 787
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2042,no-resolve
@@ -555,6 +555,7 @@ IP-ASN,141756,no-resolve
 IP-ASN,141759,no-resolve
 IP-ASN,141766,no-resolve
 IP-ASN,141768,no-resolve
+IP-ASN,141884,no-resolve
 IP-ASN,142007,no-resolve
 IP-ASN,142014,no-resolve
 IP-ASN,142019,no-resolve

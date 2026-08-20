@@ -1,6 +1,6 @@
 # FR 的 ASN 信息
-# 最后更新： CST 2026-08-20 01:02:22
-# ASN: 1516
+# 最后更新： CST 2026-08-21 01:04:41
+# ASN: 1518
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -34,6 +34,7 @@ payload:
   - IP-ASN,2286
   - IP-ASN,2287
   - IP-ASN,2288
+  - IP-ASN,2366
   - IP-ASN,2376
   - IP-ASN,2426
   - IP-ASN,2439
@@ -1517,6 +1518,7 @@ payload:
   - IP-ASN,219334
   - IP-ASN,219375
   - IP-ASN,219417
+  - IP-ASN,219454
   - IP-ASN,394485
   - IP-ASN,396950
   - IP-ASN,397025

@@ -1,6 +1,6 @@
 # TR 的 ASN 信息
-# 最后更新： CST 2026-08-20 01:02:43
-# ASN: 870
+# 最后更新： CST 2026-08-21 01:05:01
+# ASN: 872
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1885,no-resolve
@@ -496,10 +496,12 @@ IP-ASN,203289,no-resolve
 IP-ASN,203321,no-resolve
 IP-ASN,203377,no-resolve
 IP-ASN,203393,no-resolve
+IP-ASN,203399,no-resolve
 IP-ASN,203445,no-resolve
 IP-ASN,203468,no-resolve
 IP-ASN,203494,no-resolve
 IP-ASN,203511,no-resolve
+IP-ASN,203543,no-resolve
 IP-ASN,203545,no-resolve
 IP-ASN,203587,no-resolve
 IP-ASN,203606,no-resolve

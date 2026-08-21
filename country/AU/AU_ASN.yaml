@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:04:30
-# ASN: 1696
+# 最后更新： CST 2026-08-22 01:04:54
+# ASN: 1704
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -15,7 +15,6 @@ payload:
   - IP-ASN,4749
   - IP-ASN,4764
   - IP-ASN,4778
-  - IP-ASN,4794
   - IP-ASN,4801
   - IP-ASN,4802
   - IP-ASN,4804
@@ -107,6 +106,7 @@ payload:
   - IP-ASN,9792
   - IP-ASN,9795
   - IP-ASN,9823
+  - IP-ASN,9833
   - IP-ASN,9880
   - IP-ASN,9888
   - IP-ASN,9893
@@ -277,6 +277,7 @@ payload:
   - IP-ASN,24541
   - IP-ASN,24542
   - IP-ASN,24543
+  - IP-ASN,24555
   - IP-ASN,24565
   - IP-ASN,24570
   - IP-ASN,24947
@@ -678,6 +679,7 @@ payload:
   - IP-ASN,132385
   - IP-ASN,132389
   - IP-ASN,132394
+  - IP-ASN,132397
   - IP-ASN,132403
   - IP-ASN,132405
   - IP-ASN,132424
@@ -799,6 +801,7 @@ payload:
   - IP-ASN,133480
   - IP-ASN,133483
   - IP-ASN,133501
+  - IP-ASN,133509
   - IP-ASN,133510
   - IP-ASN,133534
   - IP-ASN,133538
@@ -894,6 +897,7 @@ payload:
   - IP-ASN,134697
   - IP-ASN,134709
   - IP-ASN,134711
+  - IP-ASN,134725
   - IP-ASN,134733
   - IP-ASN,134743
   - IP-ASN,134747
@@ -1330,6 +1334,7 @@ payload:
   - IP-ASN,140327
   - IP-ASN,140382
   - IP-ASN,140503
+  - IP-ASN,140505
   - IP-ASN,140576
   - IP-ASN,140583
   - IP-ASN,140587
@@ -1386,6 +1391,7 @@ payload:
   - IP-ASN,141223
   - IP-ASN,141229
   - IP-ASN,141353
+  - IP-ASN,141359
   - IP-ASN,141360
   - IP-ASN,141365
   - IP-ASN,141392
@@ -1630,6 +1636,7 @@ payload:
   - IP-ASN,153364
   - IP-ASN,153373
   - IP-ASN,153381
+  - IP-ASN,153386
   - IP-ASN,153397
   - IP-ASN,153451
   - IP-ASN,153467
@@ -1700,3 +1707,4 @@ payload:
   - IP-ASN,214501
   - IP-ASN,215462
   - IP-ASN,219242
+  - IP-ASN,219282

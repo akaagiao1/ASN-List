@@ -1,6 +1,6 @@
 # AE 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:15
-# ASN: 161
+# 最后更新： CST 2026-08-22 01:05:36
+# ASN: 163
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,5384,no-resolve
@@ -81,6 +81,7 @@ IP-ASN,200558,no-resolve
 IP-ASN,200661,no-resolve
 IP-ASN,200851,no-resolve
 IP-ASN,201062,no-resolve
+IP-ASN,201161,no-resolve
 IP-ASN,201340,no-resolve
 IP-ASN,201678,no-resolve
 IP-ASN,201700,no-resolve
@@ -159,6 +160,7 @@ IP-ASN,216071,no-resolve
 IP-ASN,216154,no-resolve
 IP-ASN,216194,no-resolve
 IP-ASN,216382,no-resolve
+IP-ASN,219017,no-resolve
 IP-ASN,219105,no-resolve
 IP-ASN,219177,no-resolve
 IP-ASN,219329,no-resolve

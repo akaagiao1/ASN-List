@@ -1,6 +1,6 @@
 # BN 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:21
-# ASN: 6
+# 最后更新： CST 2026-08-22 01:05:39
+# ASN: 7
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -9,4 +9,5 @@ payload:
   - IP-ASN,45259,no-resolve
   - IP-ASN,58810,no-resolve
   - IP-ASN,131467,no-resolve
+  - IP-ASN,132395,no-resolve
   - IP-ASN,133875,no-resolve

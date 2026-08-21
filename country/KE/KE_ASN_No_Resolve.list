@@ -1,6 +1,6 @@
 # KE 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:13
-# ASN: 220
+# 最后更新： CST 2026-08-22 01:05:34
+# ASN: 221
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,12455,no-resolve
@@ -223,3 +223,4 @@ IP-ASN,329741,no-resolve
 IP-ASN,329747,no-resolve
 IP-ASN,329757,no-resolve
 IP-ASN,329773,no-resolve
+IP-ASN,329792,no-resolve

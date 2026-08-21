@@ -1,6 +1,6 @@
 # KR 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:04:58
-# ASN: 884
+# 最后更新： CST 2026-08-22 01:05:20
+# ASN: 886
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1237,no-resolve
@@ -824,6 +824,7 @@ IP-ASN,152211,no-resolve
 IP-ASN,152212,no-resolve
 IP-ASN,152213,no-resolve
 IP-ASN,152214,no-resolve
+IP-ASN,152215,no-resolve
 IP-ASN,152216,no-resolve
 IP-ASN,152218,no-resolve
 IP-ASN,152219,no-resolve
@@ -869,6 +870,7 @@ IP-ASN,154270,no-resolve
 IP-ASN,198840,no-resolve
 IP-ASN,200140,no-resolve
 IP-ASN,200965,no-resolve
+IP-ASN,200983,no-resolve
 IP-ASN,201423,no-resolve
 IP-ASN,201666,no-resolve
 IP-ASN,202002,no-resolve

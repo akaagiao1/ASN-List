@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:03:38
-# ASN: 5225
+# 最后更新： CST 2026-08-22 01:04:01
+# ASN: 5229
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -175,6 +175,7 @@ payload:
   - IP-ASN,38372
   - IP-ASN,38375
   - IP-ASN,38378
+  - IP-ASN,38379
   - IP-ASN,38380
   - IP-ASN,38381
   - IP-ASN,38564
@@ -4976,6 +4977,7 @@ payload:
   - IP-ASN,151245
   - IP-ASN,151247
   - IP-ASN,151253
+  - IP-ASN,151257
   - IP-ASN,151263
   - IP-ASN,151276
   - IP-ASN,151277
@@ -5151,6 +5153,7 @@ payload:
   - IP-ASN,209481
   - IP-ASN,209484
   - IP-ASN,209556
+  - IP-ASN,209565
   - IP-ASN,209574
   - IP-ASN,209586
   - IP-ASN,209645
@@ -5189,6 +5192,7 @@ payload:
   - IP-ASN,213903
   - IP-ASN,214040
   - IP-ASN,214203
+  - IP-ASN,214207
   - IP-ASN,214439
   - IP-ASN,214575
   - IP-ASN,214610

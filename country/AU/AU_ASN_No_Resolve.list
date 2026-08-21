@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:04:30
-# ASN: 1696
+# 最后更新： CST 2026-08-22 01:04:54
+# ASN: 1704
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1221,no-resolve
@@ -14,7 +14,6 @@ IP-ASN,4739,no-resolve
 IP-ASN,4749,no-resolve
 IP-ASN,4764,no-resolve
 IP-ASN,4778,no-resolve
-IP-ASN,4794,no-resolve
 IP-ASN,4801,no-resolve
 IP-ASN,4802,no-resolve
 IP-ASN,4804,no-resolve
@@ -106,6 +105,7 @@ IP-ASN,9749,no-resolve
 IP-ASN,9792,no-resolve
 IP-ASN,9795,no-resolve
 IP-ASN,9823,no-resolve
+IP-ASN,9833,no-resolve
 IP-ASN,9880,no-resolve
 IP-ASN,9888,no-resolve
 IP-ASN,9893,no-resolve
@@ -276,6 +276,7 @@ IP-ASN,24517,no-resolve
 IP-ASN,24541,no-resolve
 IP-ASN,24542,no-resolve
 IP-ASN,24543,no-resolve
+IP-ASN,24555,no-resolve
 IP-ASN,24565,no-resolve
 IP-ASN,24570,no-resolve
 IP-ASN,24947,no-resolve
@@ -677,6 +678,7 @@ IP-ASN,132382,no-resolve
 IP-ASN,132385,no-resolve
 IP-ASN,132389,no-resolve
 IP-ASN,132394,no-resolve
+IP-ASN,132397,no-resolve
 IP-ASN,132403,no-resolve
 IP-ASN,132405,no-resolve
 IP-ASN,132424,no-resolve
@@ -798,6 +800,7 @@ IP-ASN,133438,no-resolve
 IP-ASN,133480,no-resolve
 IP-ASN,133483,no-resolve
 IP-ASN,133501,no-resolve
+IP-ASN,133509,no-resolve
 IP-ASN,133510,no-resolve
 IP-ASN,133534,no-resolve
 IP-ASN,133538,no-resolve
@@ -893,6 +896,7 @@ IP-ASN,134688,no-resolve
 IP-ASN,134697,no-resolve
 IP-ASN,134709,no-resolve
 IP-ASN,134711,no-resolve
+IP-ASN,134725,no-resolve
 IP-ASN,134733,no-resolve
 IP-ASN,134743,no-resolve
 IP-ASN,134747,no-resolve
@@ -1329,6 +1333,7 @@ IP-ASN,140325,no-resolve
 IP-ASN,140327,no-resolve
 IP-ASN,140382,no-resolve
 IP-ASN,140503,no-resolve
+IP-ASN,140505,no-resolve
 IP-ASN,140576,no-resolve
 IP-ASN,140583,no-resolve
 IP-ASN,140587,no-resolve
@@ -1385,6 +1390,7 @@ IP-ASN,141211,no-resolve
 IP-ASN,141223,no-resolve
 IP-ASN,141229,no-resolve
 IP-ASN,141353,no-resolve
+IP-ASN,141359,no-resolve
 IP-ASN,141360,no-resolve
 IP-ASN,141365,no-resolve
 IP-ASN,141392,no-resolve
@@ -1629,6 +1635,7 @@ IP-ASN,153355,no-resolve
 IP-ASN,153364,no-resolve
 IP-ASN,153373,no-resolve
 IP-ASN,153381,no-resolve
+IP-ASN,153386,no-resolve
 IP-ASN,153397,no-resolve
 IP-ASN,153451,no-resolve
 IP-ASN,153467,no-resolve
@@ -1699,3 +1706,4 @@ IP-ASN,214344,no-resolve
 IP-ASN,214501,no-resolve
 IP-ASN,215462,no-resolve
 IP-ASN,219242,no-resolve
+IP-ASN,219282,no-resolve

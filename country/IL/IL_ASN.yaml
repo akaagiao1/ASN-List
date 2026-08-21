@@ -1,6 +1,6 @@
 # IL 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:11
-# ASN: 330
+# 最后更新： CST 2026-08-22 01:05:32
+# ASN: 332
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -225,6 +225,7 @@ payload:
   - IP-ASN,203124
   - IP-ASN,203859
   - IP-ASN,204029
+  - IP-ASN,204115
   - IP-ASN,204160
   - IP-ASN,204257
   - IP-ASN,204395
@@ -284,6 +285,7 @@ payload:
   - IP-ASN,212166
   - IP-ASN,212307
   - IP-ASN,212361
+  - IP-ASN,212383
   - IP-ASN,212466
   - IP-ASN,212527
   - IP-ASN,212529

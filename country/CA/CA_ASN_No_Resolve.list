@@ -1,6 +1,6 @@
 # CA 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:04:36
-# ASN: 1652
+# 最后更新： CST 2026-08-22 01:04:59
+# ASN: 1659
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,239,no-resolve
@@ -216,6 +216,7 @@ IP-ASN,13525,no-resolve
 IP-ASN,13552,no-resolve
 IP-ASN,13559,no-resolve
 IP-ASN,13625,no-resolve
+IP-ASN,13646,no-resolve
 IP-ASN,13657,no-resolve
 IP-ASN,13727,no-resolve
 IP-ASN,13733,no-resolve
@@ -296,6 +297,7 @@ IP-ASN,15296,no-resolve
 IP-ASN,15318,no-resolve
 IP-ASN,15321,no-resolve
 IP-ASN,15348,no-resolve
+IP-ASN,15353,no-resolve
 IP-ASN,16438,no-resolve
 IP-ASN,16462,no-resolve
 IP-ASN,16475,no-resolve
@@ -948,6 +950,7 @@ IP-ASN,53735,no-resolve
 IP-ASN,53791,no-resolve
 IP-ASN,53792,no-resolve
 IP-ASN,53798,no-resolve
+IP-ASN,53810,no-resolve
 IP-ASN,53820,no-resolve
 IP-ASN,53829,no-resolve
 IP-ASN,53863,no-resolve
@@ -1248,6 +1251,7 @@ IP-ASN,394971,no-resolve
 IP-ASN,394974,no-resolve
 IP-ASN,394986,no-resolve
 IP-ASN,394989,no-resolve
+IP-ASN,395049,no-resolve
 IP-ASN,395050,no-resolve
 IP-ASN,395064,no-resolve
 IP-ASN,395075,no-resolve
@@ -1376,6 +1380,7 @@ IP-ASN,397474,no-resolve
 IP-ASN,397524,no-resolve
 IP-ASN,397543,no-resolve
 IP-ASN,397545,no-resolve
+IP-ASN,397569,no-resolve
 IP-ASN,397570,no-resolve
 IP-ASN,397592,no-resolve
 IP-ASN,397617,no-resolve
@@ -1590,6 +1595,7 @@ IP-ASN,401167,no-resolve
 IP-ASN,401168,no-resolve
 IP-ASN,401175,no-resolve
 IP-ASN,401190,no-resolve
+IP-ASN,401196,no-resolve
 IP-ASN,401212,no-resolve
 IP-ASN,401213,no-resolve
 IP-ASN,401216,no-resolve
@@ -1654,4 +1660,5 @@ IP-ASN,402737,no-resolve
 IP-ASN,402799,no-resolve
 IP-ASN,402814,no-resolve
 IP-ASN,402839,no-resolve
+IP-ASN,402901,no-resolve
 IP-ASN,402919,no-resolve

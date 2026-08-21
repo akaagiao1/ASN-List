@@ -1,6 +1,6 @@
 # NG 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:12
-# ASN: 231
+# 最后更新： CST 2026-08-22 01:05:33
+# ASN: 232
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,16284,no-resolve
@@ -38,6 +38,7 @@ IP-ASN,37125,no-resolve
 IP-ASN,37144,no-resolve
 IP-ASN,37148,no-resolve
 IP-ASN,37170,no-resolve
+IP-ASN,37192,no-resolve
 IP-ASN,37194,no-resolve
 IP-ASN,37200,no-resolve
 IP-ASN,37207,no-resolve

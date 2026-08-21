@@ -1,6 +1,6 @@
 # TW 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:05:09
-# ASN: 304
+# 最后更新： CST 2026-08-22 01:05:31
+# ASN: 306
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -117,6 +117,7 @@ payload:
   - IP-ASN,38837,no-resolve
   - IP-ASN,38839,no-resolve
   - IP-ASN,38841,no-resolve
+  - IP-ASN,38842,no-resolve
   - IP-ASN,38843,no-resolve
   - IP-ASN,38845,no-resolve
   - IP-ASN,38851,no-resolve
@@ -204,6 +205,7 @@ payload:
   - IP-ASN,131649,no-resolve
   - IP-ASN,131650,no-resolve
   - IP-ASN,131651,no-resolve
+  - IP-ASN,131652,no-resolve
   - IP-ASN,131655,no-resolve
   - IP-ASN,131657,no-resolve
   - IP-ASN,131658,no-resolve

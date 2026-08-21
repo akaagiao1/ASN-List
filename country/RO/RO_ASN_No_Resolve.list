@@ -1,6 +1,6 @@
 # RO 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:04:52
-# ASN: 927
+# 最后更新： CST 2026-08-22 01:05:15
+# ASN: 931
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2541,no-resolve
@@ -498,6 +498,7 @@ IP-ASN,50402,no-resolve
 IP-ASN,50413,no-resolve
 IP-ASN,50437,no-resolve
 IP-ASN,50447,no-resolve
+IP-ASN,50578,no-resolve
 IP-ASN,50604,no-resolve
 IP-ASN,50614,no-resolve
 IP-ASN,50637,no-resolve
@@ -568,6 +569,7 @@ IP-ASN,52193,no-resolve
 IP-ASN,52202,no-resolve
 IP-ASN,52211,no-resolve
 IP-ASN,52223,no-resolve
+IP-ASN,56397,no-resolve
 IP-ASN,56417,no-resolve
 IP-ASN,56430,no-resolve
 IP-ASN,56432,no-resolve
@@ -860,6 +862,7 @@ IP-ASN,210622,no-resolve
 IP-ASN,210713,no-resolve
 IP-ASN,210718,no-resolve
 IP-ASN,210822,no-resolve
+IP-ASN,210840,no-resolve
 IP-ASN,210864,no-resolve
 IP-ASN,210878,no-resolve
 IP-ASN,210927,no-resolve
@@ -899,6 +902,7 @@ IP-ASN,214205,no-resolve
 IP-ASN,214265,no-resolve
 IP-ASN,214301,no-resolve
 IP-ASN,214330,no-resolve
+IP-ASN,214341,no-resolve
 IP-ASN,214391,no-resolve
 IP-ASN,214529,no-resolve
 IP-ASN,214530,no-resolve

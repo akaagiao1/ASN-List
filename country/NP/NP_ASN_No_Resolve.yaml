@@ -1,6 +1,6 @@
 # NP 的 ASN 信息
-# 最后更新： CST 2026-08-22 01:05:35
-# ASN: 152
+# 最后更新： CST 2026-08-23 00:51:20
+# ASN: 153
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -77,6 +77,7 @@ payload:
   - IP-ASN,137580,no-resolve
   - IP-ASN,137880,no-resolve
   - IP-ASN,137978,no-resolve
+  - IP-ASN,138193,no-resolve
   - IP-ASN,138350,no-resolve
   - IP-ASN,138388,no-resolve
   - IP-ASN,138495,no-resolve

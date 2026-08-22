@@ -1,6 +1,6 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-22 01:04:28
-# ASN: 2979
+# 最后更新： CST 2026-08-23 00:50:05
+# ASN: 2983
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -2000,6 +2000,7 @@ payload:
   - IP-ASN,142195
   - IP-ASN,142209
   - IP-ASN,142233
+  - IP-ASN,142244
   - IP-ASN,142253
   - IP-ASN,142417
   - IP-ASN,142430
@@ -2870,6 +2871,7 @@ payload:
   - IP-ASN,154142
   - IP-ASN,154157
   - IP-ASN,154163
+  - IP-ASN,154173
   - IP-ASN,154174
   - IP-ASN,154181
   - IP-ASN,154187
@@ -2942,6 +2944,8 @@ payload:
   - IP-ASN,154767
   - IP-ASN,154784
   - IP-ASN,154791
+  - IP-ASN,154805
+  - IP-ASN,154846
   - IP-ASN,197555
   - IP-ASN,198750
   - IP-ASN,198887

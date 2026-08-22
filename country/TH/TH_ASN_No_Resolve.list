@@ -1,6 +1,6 @@
 # TH 的 ASN 信息
-# 最后更新： CST 2026-08-22 01:05:30
-# ASN: 478
+# 最后更新： CST 2026-08-23 00:51:15
+# ASN: 479
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3836,no-resolve
@@ -130,6 +130,7 @@ IP-ASN,38815,no-resolve
 IP-ASN,38820,no-resolve
 IP-ASN,38886,no-resolve
 IP-ASN,38888,no-resolve
+IP-ASN,42954,no-resolve
 IP-ASN,45197,no-resolve
 IP-ASN,45223,no-resolve
 IP-ASN,45229,no-resolve

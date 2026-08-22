@@ -1,5 +1,5 @@
 # ID 的 ASN 信息
-# 最后更新： CST 2026-08-22 01:04:43
+# 最后更新： CST 2026-08-23 00:50:22
 # ASN: 2894
 # 由 Kwisma 制作，保留所有权利。
 
@@ -2601,7 +2601,6 @@ IP-ASN,153555,no-resolve
 IP-ASN,153559,no-resolve
 IP-ASN,153565,no-resolve
 IP-ASN,153570,no-resolve
-IP-ASN,153573,no-resolve
 IP-ASN,153575,no-resolve
 IP-ASN,153576,no-resolve
 IP-ASN,153577,no-resolve
@@ -2892,6 +2891,7 @@ IP-ASN,215223,no-resolve
 IP-ASN,215379,no-resolve
 IP-ASN,215967,no-resolve
 IP-ASN,216069,no-resolve
+IP-ASN,218956,no-resolve
 IP-ASN,219079,no-resolve
 IP-ASN,219134,no-resolve
 IP-ASN,219215,no-resolve

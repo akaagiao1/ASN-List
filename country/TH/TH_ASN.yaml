@@ -1,5 +1,5 @@
 # TH 的 ASN 信息
-# 最后更新： CST 2026-08-23 00:51:15
+# 最后更新： CST 2026-08-24 00:56:09
 # ASN: 479
 # 由 Kwisma 制作，保留所有权利。
 
@@ -46,7 +46,6 @@ payload:
   - IP-ASN,9931
   - IP-ASN,10089
   - IP-ASN,10227
-  - IP-ASN,14099
   - IP-ASN,17425
   - IP-ASN,17468
   - IP-ASN,17475
@@ -327,6 +326,7 @@ payload:
   - IP-ASN,137058
   - IP-ASN,137198
   - IP-ASN,137241
+  - IP-ASN,137261
   - IP-ASN,137392
   - IP-ASN,137394
   - IP-ASN,137422

@@ -1,6 +1,6 @@
 # PH 的 ASN 信息
-# 最后更新： CST 2026-08-23 00:51:15
-# ASN: 466
+# 最后更新： CST 2026-08-24 00:56:09
+# ASN: 465
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -307,7 +307,6 @@ payload:
   - IP-ASN,141152,no-resolve
   - IP-ASN,141196,no-resolve
   - IP-ASN,141210,no-resolve
-  - IP-ASN,141238,no-resolve
   - IP-ASN,141391,no-resolve
   - IP-ASN,141455,no-resolve
   - IP-ASN,141676,no-resolve

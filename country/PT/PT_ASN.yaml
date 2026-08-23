@@ -1,6 +1,6 @@
 # PT 的 ASN 信息
-# 最后更新： CST 2026-08-23 00:51:21
-# ASN: 139
+# 最后更新： CST 2026-08-24 00:56:16
+# ASN: 138
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -101,13 +101,13 @@ payload:
   - IP-ASN,202277
   - IP-ASN,202341
   - IP-ASN,202904
-  - IP-ASN,202981
   - IP-ASN,203482
   - IP-ASN,203491
   - IP-ASN,203529
   - IP-ASN,204094
   - IP-ASN,205378
   - IP-ASN,205558
+  - IP-ASN,205702
   - IP-ASN,207112
   - IP-ASN,207118
   - IP-ASN,207731
@@ -141,5 +141,4 @@ payload:
   - IP-ASN,215306
   - IP-ASN,215446
   - IP-ASN,216237
-  - IP-ASN,219114
   - IP-ASN,219175

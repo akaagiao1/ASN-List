@@ -1,6 +1,6 @@
 # HK 的 ASN 信息
-# 最后更新： CST 2026-08-23 00:50:59
-# ASN: 797
+# 最后更新： CST 2026-08-24 00:55:52
+# ASN: 791
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -412,7 +412,6 @@ payload:
   - IP-ASN,135563,no-resolve
   - IP-ASN,135572,no-resolve
   - IP-ASN,135581,no-resolve
-  - IP-ASN,135621,no-resolve
   - IP-ASN,135652,no-resolve
   - IP-ASN,136038,no-resolve
   - IP-ASN,136049,no-resolve
@@ -484,7 +483,6 @@ payload:
   - IP-ASN,138607,no-resolve
   - IP-ASN,138609,no-resolve
   - IP-ASN,138627,no-resolve
-  - IP-ASN,138644,no-resolve
   - IP-ASN,138647,no-resolve
   - IP-ASN,138648,no-resolve
   - IP-ASN,138693,no-resolve
@@ -529,7 +527,6 @@ payload:
   - IP-ASN,140723,no-resolve
   - IP-ASN,140841,no-resolve
   - IP-ASN,140881,no-resolve
-  - IP-ASN,140883,no-resolve
   - IP-ASN,140925,no-resolve
   - IP-ASN,140926,no-resolve
   - IP-ASN,140938,no-resolve
@@ -586,7 +583,6 @@ payload:
   - IP-ASN,147002,no-resolve
   - IP-ASN,147019,no-resolve
   - IP-ASN,147047,no-resolve
-  - IP-ASN,147048,no-resolve
   - IP-ASN,147060,no-resolve
   - IP-ASN,147071,no-resolve
   - IP-ASN,147293,no-resolve
@@ -765,7 +761,6 @@ payload:
   - IP-ASN,212147,no-resolve
   - IP-ASN,212558,no-resolve
   - IP-ASN,212836,no-resolve
-  - IP-ASN,212921,no-resolve
   - IP-ASN,213221,no-resolve
   - IP-ASN,213254,no-resolve
   - IP-ASN,213347,no-resolve
@@ -792,7 +787,6 @@ payload:
   - IP-ASN,216458,no-resolve
   - IP-ASN,219068,no-resolve
   - IP-ASN,219071,no-resolve
-  - IP-ASN,219174,no-resolve
   - IP-ASN,219345,no-resolve
   - IP-ASN,219376,no-resolve
   - IP-ASN,219393,no-resolve

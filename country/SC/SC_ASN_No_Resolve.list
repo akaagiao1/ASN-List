@@ -1,6 +1,6 @@
 # SC 的 ASN 信息
-# 最后更新： CST 2026-08-23 00:51:22
-# ASN: 65
+# 最后更新： CST 2026-08-24 00:56:18
+# ASN: 66
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,34046,no-resolve
@@ -62,6 +62,7 @@ IP-ASN,213373,no-resolve
 IP-ASN,213438,no-resolve
 IP-ASN,216206,no-resolve
 IP-ASN,216213,no-resolve
+IP-ASN,218951,no-resolve
 IP-ASN,219229,no-resolve
 IP-ASN,327861,no-resolve
 IP-ASN,328383,no-resolve

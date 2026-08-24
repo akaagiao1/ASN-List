@@ -1,6 +1,6 @@
 # HK 的 ASN 信息
-# 最后更新： CST 2026-08-24 00:55:52
-# ASN: 791
+# 最后更新： CST 2026-08-25 00:56:18
+# ASN: 792
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -64,6 +64,7 @@ payload:
   - IP-ASN,9474,no-resolve
   - IP-ASN,9502,no-resolve
   - IP-ASN,9513,no-resolve
+  - IP-ASN,9515,no-resolve
   - IP-ASN,9516,no-resolve
   - IP-ASN,9520,no-resolve
   - IP-ASN,9536,no-resolve

@@ -1,6 +1,6 @@
 # PH 的 ASN 信息
-# 最后更新： CST 2026-08-24 00:56:09
-# ASN: 465
+# 最后更新： CST 2026-08-25 00:56:32
+# ASN: 468
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -168,6 +168,7 @@ payload:
   - IP-ASN,133623
   - IP-ASN,133778
   - IP-ASN,133922
+  - IP-ASN,133946
   - IP-ASN,134084
   - IP-ASN,134140
   - IP-ASN,134154
@@ -404,6 +405,7 @@ payload:
   - IP-ASN,153200
   - IP-ASN,153322
   - IP-ASN,153351
+  - IP-ASN,153356
   - IP-ASN,153359
   - IP-ASN,153455
   - IP-ASN,153469
@@ -468,4 +470,5 @@ payload:
   - IP-ASN,213884
   - IP-ASN,215150
   - IP-ASN,216077
+  - IP-ASN,218912
   - IP-ASN,402475

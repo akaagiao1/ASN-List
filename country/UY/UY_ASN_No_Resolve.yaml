@@ -1,6 +1,6 @@
 # UY 的 ASN 信息
-# 最后更新： CST 2026-08-24 00:56:19
-# ASN: 33
+# 最后更新： CST 2026-08-25 00:56:45
+# ASN: 34
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -12,6 +12,7 @@ payload:
   - IP-ASN,20002,no-resolve
   - IP-ASN,20255,no-resolve
   - IP-ASN,27750,no-resolve
+  - IP-ASN,27859,no-resolve
   - IP-ASN,28000,no-resolve
   - IP-ASN,28001,no-resolve
   - IP-ASN,28119,no-resolve

@@ -1,6 +1,6 @@
 # AZ 的 ASN 信息
-# 最后更新： CST 2026-08-24 00:56:18
-# ASN: 99
+# 最后更新： CST 2026-08-25 00:56:43
+# ASN: 100
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -102,4 +102,5 @@ payload:
   - IP-ASN,219159,no-resolve
   - IP-ASN,219253,no-resolve
   - IP-ASN,219310,no-resolve
+  - IP-ASN,219323,no-resolve
   - IP-ASN,219485,no-resolve

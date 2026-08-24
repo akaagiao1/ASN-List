@@ -1,6 +1,6 @@
 # RO 的 ASN 信息
-# 最后更新： CST 2026-08-24 00:55:53
-# ASN: 926
+# 最后更新： CST 2026-08-25 00:56:19
+# ASN: 927
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -568,6 +568,7 @@ payload:
   - IP-ASN,52202
   - IP-ASN,52211
   - IP-ASN,52223
+  - IP-ASN,56397
   - IP-ASN,56417
   - IP-ASN,56430
   - IP-ASN,56432

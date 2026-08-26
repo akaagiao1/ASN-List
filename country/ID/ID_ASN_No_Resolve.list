@@ -1,6 +1,6 @@
 # ID 的 ASN 信息
-# 最后更新： CST 2026-08-26 01:06:58
-# ASN: 2883
+# 最后更新： CST 2026-08-27 01:24:11
+# ASN: 2884
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3382,no-resolve
@@ -60,7 +60,6 @@ IP-ASN,18052,no-resolve
 IP-ASN,18056,no-resolve
 IP-ASN,18059,no-resolve
 IP-ASN,18103,no-resolve
-IP-ASN,18112,no-resolve
 IP-ASN,18153,no-resolve
 IP-ASN,18156,no-resolve
 IP-ASN,18355,no-resolve
@@ -199,6 +198,7 @@ IP-ASN,38785,no-resolve
 IP-ASN,38788,no-resolve
 IP-ASN,38896,no-resolve
 IP-ASN,44817,no-resolve
+IP-ASN,44822,no-resolve
 IP-ASN,45146,no-resolve
 IP-ASN,45147,no-resolve
 IP-ASN,45286,no-resolve
@@ -961,7 +961,6 @@ IP-ASN,137381,no-resolve
 IP-ASN,137383,no-resolve
 IP-ASN,137384,no-resolve
 IP-ASN,137428,no-resolve
-IP-ASN,137496,no-resolve
 IP-ASN,137518,no-resolve
 IP-ASN,137909,no-resolve
 IP-ASN,137939,no-resolve
@@ -2075,6 +2074,7 @@ IP-ASN,150533,no-resolve
 IP-ASN,150534,no-resolve
 IP-ASN,150535,no-resolve
 IP-ASN,150536,no-resolve
+IP-ASN,150537,no-resolve
 IP-ASN,150539,no-resolve
 IP-ASN,150540,no-resolve
 IP-ASN,150541,no-resolve
@@ -2174,6 +2174,7 @@ IP-ASN,151011,no-resolve
 IP-ASN,151012,no-resolve
 IP-ASN,151043,no-resolve
 IP-ASN,151198,no-resolve
+IP-ASN,151363,no-resolve
 IP-ASN,151502,no-resolve
 IP-ASN,151503,no-resolve
 IP-ASN,151505,no-resolve

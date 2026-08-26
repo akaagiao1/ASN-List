@@ -1,6 +1,6 @@
 # HU 的 ASN 信息
-# 最后更新： CST 2026-08-26 01:07:50
-# ASN: 243
+# 最后更新： CST 2026-08-27 01:25:04
+# ASN: 245
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -178,6 +178,7 @@ payload:
   - IP-ASN,203583
   - IP-ASN,204026
   - IP-ASN,204168
+  - IP-ASN,204275
   - IP-ASN,204494
   - IP-ASN,204745
   - IP-ASN,205285
@@ -247,3 +248,4 @@ payload:
   - IP-ASN,216142
   - IP-ASN,216431
   - IP-ASN,216453
+  - IP-ASN,219111

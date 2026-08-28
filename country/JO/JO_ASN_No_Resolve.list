@@ -1,6 +1,6 @@
 # JO 的 ASN 信息
-# 最后更新： CST 2026-08-27 01:25:10
-# ASN: 48
+# 最后更新： CST 2026-08-28 09:23:17
+# ASN: 49
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,8376,no-resolve
@@ -31,6 +31,7 @@ IP-ASN,203357,no-resolve
 IP-ASN,203931,no-resolve
 IP-ASN,204327,no-resolve
 IP-ASN,204719,no-resolve
+IP-ASN,205579,no-resolve
 IP-ASN,206060,no-resolve
 IP-ASN,206553,no-resolve
 IP-ASN,206608,no-resolve

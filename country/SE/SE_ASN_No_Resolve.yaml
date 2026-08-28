@@ -1,6 +1,6 @@
 # SE 的 ASN 信息
-# 最后更新： CST 2026-08-27 01:24:55
-# ASN: 673
+# 最后更新： CST 2026-08-28 09:22:58
+# ASN: 672
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -285,7 +285,6 @@ payload:
   - IP-ASN,50821,no-resolve
   - IP-ASN,50827,no-resolve
   - IP-ASN,50904,no-resolve
-  - IP-ASN,50986,no-resolve
   - IP-ASN,50989,no-resolve
   - IP-ASN,51040,no-resolve
   - IP-ASN,51132,no-resolve

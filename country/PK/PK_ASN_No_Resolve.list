@@ -1,6 +1,6 @@
 # PK 的 ASN 信息
-# 最后更新： CST 2026-08-27 01:25:03
-# ASN: 307
+# 最后更新： CST 2026-08-28 09:23:08
+# ASN: 308
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,4661,no-resolve
@@ -222,6 +222,7 @@ IP-ASN,147055,no-resolve
 IP-ASN,147057,no-resolve
 IP-ASN,147068,no-resolve
 IP-ASN,147291,no-resolve
+IP-ASN,147297,no-resolve
 IP-ASN,147302,no-resolve
 IP-ASN,147315,no-resolve
 IP-ASN,149009,no-resolve

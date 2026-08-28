@@ -1,6 +1,6 @@
 # UA 的 ASN 信息
-# 最后更新： CST 2026-08-27 01:24:33
-# ASN: 1589
+# 最后更新： CST 2026-08-28 09:22:34
+# ASN: 1590
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2601,no-resolve
@@ -707,6 +707,7 @@ IP-ASN,48279,no-resolve
 IP-ASN,48323,no-resolve
 IP-ASN,48358,no-resolve
 IP-ASN,48377,no-resolve
+IP-ASN,48378,no-resolve
 IP-ASN,48385,no-resolve
 IP-ASN,48411,no-resolve
 IP-ASN,48420,no-resolve
@@ -1225,7 +1226,6 @@ IP-ASN,199995,no-resolve
 IP-ASN,200000,no-resolve
 IP-ASN,200049,no-resolve
 IP-ASN,200277,no-resolve
-IP-ASN,200288,no-resolve
 IP-ASN,200333,no-resolve
 IP-ASN,200337,no-resolve
 IP-ASN,200354,no-resolve
@@ -1584,6 +1584,7 @@ IP-ASN,215976,no-resolve
 IP-ASN,216012,no-resolve
 IP-ASN,216291,no-resolve
 IP-ASN,216386,no-resolve
+IP-ASN,219267,no-resolve
 IP-ASN,219268,no-resolve
 IP-ASN,219299,no-resolve
 IP-ASN,219365,no-resolve

@@ -1,5 +1,5 @@
 # CH 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:22:52
+# 最后更新： CST 2026-08-29 08:58:07
 # ASN: 786
 # 由 Kwisma 制作，保留所有权利。
 
@@ -562,7 +562,6 @@ IP-ASN,203153,no-resolve
 IP-ASN,203200,no-resolve
 IP-ASN,203384,no-resolve
 IP-ASN,203434,no-resolve
-IP-ASN,203521,no-resolve
 IP-ASN,203564,no-resolve
 IP-ASN,203639,no-resolve
 IP-ASN,203660,no-resolve
@@ -789,3 +788,4 @@ IP-ASN,219234,no-resolve
 IP-ASN,219237,no-resolve
 IP-ASN,219256,no-resolve
 IP-ASN,219360,no-resolve
+IP-ASN,219517,no-resolve

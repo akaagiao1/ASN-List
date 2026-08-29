@@ -1,6 +1,6 @@
 # PS 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:23:16
-# ASN: 48
+# 最后更新： CST 2026-08-29 08:58:32
+# ASN: 49
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,12754,no-resolve
@@ -49,5 +49,6 @@ IP-ASN,213207,no-resolve
 IP-ASN,214920,no-resolve
 IP-ASN,215886,no-resolve
 IP-ASN,218920,no-resolve
+IP-ASN,218959,no-resolve
 IP-ASN,219191,no-resolve
 IP-ASN,219439,no-resolve

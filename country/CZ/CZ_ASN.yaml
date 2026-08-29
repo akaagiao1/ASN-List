@@ -1,5 +1,5 @@
 # CZ 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:23:03
+# 最后更新： CST 2026-08-29 08:58:18
 # ASN: 605
 # 由 Kwisma 制作，保留所有权利。
 
@@ -249,6 +249,7 @@ payload:
   - IP-ASN,57728
   - IP-ASN,57825
   - IP-ASN,57904
+  - IP-ASN,58215
   - IP-ASN,58220
   - IP-ASN,58239
   - IP-ASN,59479
@@ -458,7 +459,6 @@ payload:
   - IP-ASN,205044
   - IP-ASN,205064
   - IP-ASN,205234
-  - IP-ASN,205248
   - IP-ASN,205300
   - IP-ASN,205345
   - IP-ASN,205400

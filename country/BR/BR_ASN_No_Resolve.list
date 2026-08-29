@@ -1,5 +1,5 @@
 # BR 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:20:59
+# 最后更新： CST 2026-08-29 08:56:12
 # ASN: 8832
 # 由 Kwisma 制作，保留所有权利。
 
@@ -977,7 +977,6 @@ IP-ASN,61597,no-resolve
 IP-ASN,61598,no-resolve
 IP-ASN,61599,no-resolve
 IP-ASN,61601,no-resolve
-IP-ASN,61602,no-resolve
 IP-ASN,61603,no-resolve
 IP-ASN,61604,no-resolve
 IP-ASN,61605,no-resolve
@@ -1292,6 +1291,7 @@ IP-ASN,214657,no-resolve
 IP-ASN,214769,no-resolve
 IP-ASN,216089,no-resolve
 IP-ASN,216191,no-resolve
+IP-ASN,218879,no-resolve
 IP-ASN,218945,no-resolve
 IP-ASN,219008,no-resolve
 IP-ASN,219031,no-resolve
@@ -5118,6 +5118,7 @@ IP-ASN,268413,no-resolve
 IP-ASN,268415,no-resolve
 IP-ASN,268417,no-resolve
 IP-ASN,268418,no-resolve
+IP-ASN,268419,no-resolve
 IP-ASN,268420,no-resolve
 IP-ASN,268421,no-resolve
 IP-ASN,268422,no-resolve
@@ -7781,7 +7782,6 @@ IP-ASN,272559,no-resolve
 IP-ASN,272563,no-resolve
 IP-ASN,272564,no-resolve
 IP-ASN,272565,no-resolve
-IP-ASN,272566,no-resolve
 IP-ASN,272568,no-resolve
 IP-ASN,272569,no-resolve
 IP-ASN,272570,no-resolve
@@ -8126,6 +8126,7 @@ IP-ASN,273525,no-resolve
 IP-ASN,273526,no-resolve
 IP-ASN,273529,no-resolve
 IP-ASN,273530,no-resolve
+IP-ASN,273531,no-resolve
 IP-ASN,273532,no-resolve
 IP-ASN,273533,no-resolve
 IP-ASN,273534,no-resolve
@@ -8258,7 +8259,6 @@ IP-ASN,273706,no-resolve
 IP-ASN,273707,no-resolve
 IP-ASN,273708,no-resolve
 IP-ASN,273709,no-resolve
-IP-ASN,273710,no-resolve
 IP-ASN,273712,no-resolve
 IP-ASN,273713,no-resolve
 IP-ASN,273714,no-resolve
@@ -8461,7 +8461,6 @@ IP-ASN,274551,no-resolve
 IP-ASN,274552,no-resolve
 IP-ASN,274553,no-resolve
 IP-ASN,274554,no-resolve
-IP-ASN,274555,no-resolve
 IP-ASN,274556,no-resolve
 IP-ASN,274557,no-resolve
 IP-ASN,274559,no-resolve
@@ -8802,6 +8801,7 @@ IP-ASN,275767,no-resolve
 IP-ASN,275768,no-resolve
 IP-ASN,275770,no-resolve
 IP-ASN,275771,no-resolve
+IP-ASN,275772,no-resolve
 IP-ASN,275773,no-resolve
 IP-ASN,275775,no-resolve
 IP-ASN,275778,no-resolve

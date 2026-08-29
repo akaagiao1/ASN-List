@@ -1,6 +1,6 @@
 # PH 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:23:04
-# ASN: 469
+# 最后更新： CST 2026-08-29 08:58:20
+# ASN: 470
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3550,no-resolve
@@ -462,6 +462,7 @@ IP-ASN,154658,no-resolve
 IP-ASN,154689,no-resolve
 IP-ASN,154715,no-resolve
 IP-ASN,154735,no-resolve
+IP-ASN,154834,no-resolve
 IP-ASN,154845,no-resolve
 IP-ASN,197291,no-resolve
 IP-ASN,199676,no-resolve

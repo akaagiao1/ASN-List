@@ -1,5 +1,5 @@
 # CZ 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:23:03
+# 最后更新： CST 2026-08-29 08:58:18
 # ASN: 605
 # 由 Kwisma 制作，保留所有权利。
 
@@ -248,6 +248,7 @@ IP-ASN,57707,no-resolve
 IP-ASN,57728,no-resolve
 IP-ASN,57825,no-resolve
 IP-ASN,57904,no-resolve
+IP-ASN,58215,no-resolve
 IP-ASN,58220,no-resolve
 IP-ASN,58239,no-resolve
 IP-ASN,59479,no-resolve
@@ -457,7 +458,6 @@ IP-ASN,205026,no-resolve
 IP-ASN,205044,no-resolve
 IP-ASN,205064,no-resolve
 IP-ASN,205234,no-resolve
-IP-ASN,205248,no-resolve
 IP-ASN,205300,no-resolve
 IP-ASN,205345,no-resolve
 IP-ASN,205400,no-resolve

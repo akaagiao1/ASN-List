@@ -1,6 +1,6 @@
 # ZA 的 ASN 信息
-# 最后更新： CST 2026-08-28 09:22:59
-# ASN: 658
+# 最后更新： CST 2026-08-29 08:58:14
+# ASN: 659
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2018,no-resolve
@@ -603,6 +603,7 @@ IP-ASN,329346,no-resolve
 IP-ASN,329350,no-resolve
 IP-ASN,329355,no-resolve
 IP-ASN,329360,no-resolve
+IP-ASN,329363,no-resolve
 IP-ASN,329369,no-resolve
 IP-ASN,329371,no-resolve
 IP-ASN,329386,no-resolve

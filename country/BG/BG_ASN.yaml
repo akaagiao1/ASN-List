@@ -1,6 +1,6 @@
 # BG 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:58:15
-# ASN: 678
+# 最后更新： CST 2026-08-31 03:39:21
+# ASN: 677
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -333,7 +333,6 @@ payload:
   - IP-ASN,51925
   - IP-ASN,51987
   - IP-ASN,52055
-  - IP-ASN,52095
   - IP-ASN,56371
   - IP-ASN,56539
   - IP-ASN,56546
@@ -399,7 +398,6 @@ payload:
   - IP-ASN,61321
   - IP-ASN,61370
   - IP-ASN,61437
-  - IP-ASN,61973
   - IP-ASN,61975
   - IP-ASN,61996
   - IP-ASN,62015
@@ -594,6 +592,7 @@ payload:
   - IP-ASN,208322
   - IP-ASN,208370
   - IP-ASN,208389
+  - IP-ASN,208392
   - IP-ASN,208518
   - IP-ASN,208579
   - IP-ASN,208637

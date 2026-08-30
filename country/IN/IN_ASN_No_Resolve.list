@@ -1,5 +1,5 @@
 # IN 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:57:08
+# 最后更新： CST 2026-08-31 03:38:16
 # ASN: 2970
 # 由 Kwisma 制作，保留所有权利。
 
@@ -689,7 +689,6 @@ IP-ASN,133719,no-resolve
 IP-ASN,133720,no-resolve
 IP-ASN,133722,no-resolve
 IP-ASN,133723,no-resolve
-IP-ASN,133724,no-resolve
 IP-ASN,133725,no-resolve
 IP-ASN,133726,no-resolve
 IP-ASN,133727,no-resolve
@@ -2746,6 +2745,7 @@ IP-ASN,153279,no-resolve
 IP-ASN,153281,no-resolve
 IP-ASN,153283,no-resolve
 IP-ASN,153284,no-resolve
+IP-ASN,153286,no-resolve
 IP-ASN,153288,no-resolve
 IP-ASN,153289,no-resolve
 IP-ASN,153290,no-resolve

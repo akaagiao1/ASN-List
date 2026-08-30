@@ -1,6 +1,6 @@
 # IT 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:57:58
-# ASN: 1118
+# 最后更新： CST 2026-08-31 03:39:03
+# ASN: 1119
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,137,no-resolve
@@ -1119,5 +1119,6 @@ IP-ASN,219011,no-resolve
 IP-ASN,219067,no-resolve
 IP-ASN,219248,no-resolve
 IP-ASN,219281,no-resolve
+IP-ASN,219308,no-resolve
 IP-ASN,219336,no-resolve
 IP-ASN,219533,no-resolve

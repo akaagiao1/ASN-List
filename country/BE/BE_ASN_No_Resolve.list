@@ -1,6 +1,6 @@
 # BE 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:58:22
-# ASN: 295
+# 最后更新： CST 2026-08-31 03:39:28
+# ASN: 296
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2611,no-resolve
@@ -210,6 +210,7 @@ IP-ASN,206051,no-resolve
 IP-ASN,206235,no-resolve
 IP-ASN,206254,no-resolve
 IP-ASN,206255,no-resolve
+IP-ASN,206284,no-resolve
 IP-ASN,206458,no-resolve
 IP-ASN,206537,no-resolve
 IP-ASN,206665,no-resolve

@@ -1,6 +1,6 @@
 # BD 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:57:53
-# ASN: 1574
+# 最后更新： CST 2026-08-31 03:38:56
+# ASN: 1577
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,7565,no-resolve
@@ -386,7 +386,6 @@ IP-ASN,135587,no-resolve
 IP-ASN,135590,no-resolve
 IP-ASN,135597,no-resolve
 IP-ASN,135604,no-resolve
-IP-ASN,135613,no-resolve
 IP-ASN,135615,no-resolve
 IP-ASN,135628,no-resolve
 IP-ASN,135650,no-resolve
@@ -495,6 +494,7 @@ IP-ASN,137213,no-resolve
 IP-ASN,137218,no-resolve
 IP-ASN,137221,no-resolve
 IP-ASN,137252,no-resolve
+IP-ASN,137254,no-resolve
 IP-ASN,137255,no-resolve
 IP-ASN,137274,no-resolve
 IP-ASN,137278,no-resolve
@@ -715,6 +715,7 @@ IP-ASN,139041,no-resolve
 IP-ASN,139052,no-resolve
 IP-ASN,139053,no-resolve
 IP-ASN,139064,no-resolve
+IP-ASN,139194,no-resolve
 IP-ASN,139197,no-resolve
 IP-ASN,139202,no-resolve
 IP-ASN,139208,no-resolve
@@ -802,6 +803,7 @@ IP-ASN,139841,no-resolve
 IP-ASN,139850,no-resolve
 IP-ASN,139854,no-resolve
 IP-ASN,139856,no-resolve
+IP-ASN,139857,no-resolve
 IP-ASN,139858,no-resolve
 IP-ASN,139863,no-resolve
 IP-ASN,139865,no-resolve
@@ -878,6 +880,7 @@ IP-ASN,140668,no-resolve
 IP-ASN,140669,no-resolve
 IP-ASN,140674,no-resolve
 IP-ASN,140684,no-resolve
+IP-ASN,140705,no-resolve
 IP-ASN,140711,no-resolve
 IP-ASN,140712,no-resolve
 IP-ASN,140843,no-resolve

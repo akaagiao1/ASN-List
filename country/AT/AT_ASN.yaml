@@ -1,5 +1,5 @@
 # AT 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:58:16
+# 最后更新： CST 2026-08-31 03:39:21
 # ASN: 641
 # 由 Kwisma 制作，保留所有权利。
 
@@ -85,7 +85,6 @@ payload:
   - IP-ASN,16381
   - IP-ASN,20537
   - IP-ASN,20684
-  - IP-ASN,20704
   - IP-ASN,20751
   - IP-ASN,21013
   - IP-ASN,21039
@@ -635,6 +634,7 @@ payload:
   - IP-ASN,215689
   - IP-ASN,216037
   - IP-ASN,216038
+  - IP-ASN,216105
   - IP-ASN,216258
   - IP-ASN,216369
   - IP-ASN,216416

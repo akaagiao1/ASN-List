@@ -1,6 +1,6 @@
 # CY 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:58:28
-# ASN: 136
+# 最后更新： CST 2026-08-31 03:39:38
+# ASN: 138
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -50,6 +50,7 @@ payload:
   - IP-ASN,60590,no-resolve
   - IP-ASN,61170,no-resolve
   - IP-ASN,62187,no-resolve
+  - IP-ASN,153562,no-resolve
   - IP-ASN,196736,no-resolve
   - IP-ASN,196984,no-resolve
   - IP-ASN,196992,no-resolve
@@ -135,6 +136,7 @@ payload:
   - IP-ASN,215202,no-resolve
   - IP-ASN,215918,no-resolve
   - IP-ASN,216151,no-resolve
+  - IP-ASN,218830,no-resolve
   - IP-ASN,219020,no-resolve
   - IP-ASN,219055,no-resolve
   - IP-ASN,219153,no-resolve

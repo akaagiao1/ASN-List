@@ -1,6 +1,6 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-08-29 08:57:17
-# ASN: 2278
+# 最后更新： CST 2026-08-31 03:38:25
+# ASN: 2280
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -95,6 +95,7 @@ payload:
   - IP-ASN,9179
   - IP-ASN,9786
   - IP-ASN,11856
+  - IP-ASN,12290
   - IP-ASN,12390
   - IP-ASN,12488
   - IP-ASN,12496
@@ -906,6 +907,7 @@ payload:
   - IP-ASN,59395
   - IP-ASN,59402
   - IP-ASN,59410
+  - IP-ASN,59426
   - IP-ASN,59439
   - IP-ASN,59445
   - IP-ASN,59455
@@ -1411,7 +1413,6 @@ payload:
   - IP-ASN,203070
   - IP-ASN,203090
   - IP-ASN,203105
-  - IP-ASN,203106
   - IP-ASN,203107
   - IP-ASN,203108
   - IP-ASN,203128
@@ -2244,6 +2245,7 @@ payload:
   - IP-ASN,216364
   - IP-ASN,216376
   - IP-ASN,216405
+  - IP-ASN,218839
   - IP-ASN,218865
   - IP-ASN,218914
   - IP-ASN,218964
@@ -2271,7 +2273,6 @@ payload:
   - IP-ASN,219327
   - IP-ASN,219335
   - IP-ASN,219361
-  - IP-ASN,219369
   - IP-ASN,219370
   - IP-ASN,219380
   - IP-ASN,219412
@@ -2280,5 +2281,6 @@ payload:
   - IP-ASN,219463
   - IP-ASN,219464
   - IP-ASN,219469
+  - IP-ASN,219494
   - IP-ASN,219522
   - IP-ASN,401568

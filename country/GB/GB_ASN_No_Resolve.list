@@ -1,6 +1,6 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-08-31 03:38:25
-# ASN: 2280
+# 最后更新： CST 2026-09-02 03:43:56
+# ASN: 2283
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,7,no-resolve
@@ -564,6 +564,7 @@ IP-ASN,43599,no-resolve
 IP-ASN,43669,no-resolve
 IP-ASN,43851,no-resolve
 IP-ASN,43872,no-resolve
+IP-ASN,43878,no-resolve
 IP-ASN,43915,no-resolve
 IP-ASN,43924,no-resolve
 IP-ASN,43949,no-resolve
@@ -2244,9 +2245,10 @@ IP-ASN,216361,no-resolve
 IP-ASN,216364,no-resolve
 IP-ASN,216376,no-resolve
 IP-ASN,216405,no-resolve
-IP-ASN,218839,no-resolve
+IP-ASN,218807,no-resolve
 IP-ASN,218865,no-resolve
 IP-ASN,218914,no-resolve
+IP-ASN,218950,no-resolve
 IP-ASN,218964,no-resolve
 IP-ASN,218965,no-resolve
 IP-ASN,219036,no-resolve
@@ -2265,6 +2267,7 @@ IP-ASN,219227,no-resolve
 IP-ASN,219236,no-resolve
 IP-ASN,219245,no-resolve
 IP-ASN,219250,no-resolve
+IP-ASN,219280,no-resolve
 IP-ASN,219288,no-resolve
 IP-ASN,219302,no-resolve
 IP-ASN,219317,no-resolve

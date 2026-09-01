@@ -1,6 +1,6 @@
 # PH 的 ASN 信息
-# 最后更新： CST 2026-08-31 03:39:24
-# ASN: 471
+# 最后更新： CST 2026-09-02 03:44:48
+# ASN: 475
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3550,no-resolve
@@ -133,6 +133,7 @@ IP-ASN,132209,no-resolve
 IP-ASN,132212,no-resolve
 IP-ASN,132229,no-resolve
 IP-ASN,132233,no-resolve
+IP-ASN,132263,no-resolve
 IP-ASN,132313,no-resolve
 IP-ASN,132367,no-resolve
 IP-ASN,132400,no-resolve
@@ -203,6 +204,7 @@ IP-ASN,135325,no-resolve
 IP-ASN,135345,no-resolve
 IP-ASN,135366,no-resolve
 IP-ASN,135423,no-resolve
+IP-ASN,135491,no-resolve
 IP-ASN,135499,no-resolve
 IP-ASN,135549,no-resolve
 IP-ASN,135556,no-resolve
@@ -296,6 +298,7 @@ IP-ASN,140593,no-resolve
 IP-ASN,140599,no-resolve
 IP-ASN,140619,no-resolve
 IP-ASN,140686,no-resolve
+IP-ASN,140696,no-resolve
 IP-ASN,140708,no-resolve
 IP-ASN,140715,no-resolve
 IP-ASN,140722,no-resolve
@@ -416,6 +419,7 @@ IP-ASN,153691,no-resolve
 IP-ASN,153692,no-resolve
 IP-ASN,153695,no-resolve
 IP-ASN,153719,no-resolve
+IP-ASN,153736,no-resolve
 IP-ASN,153739,no-resolve
 IP-ASN,153789,no-resolve
 IP-ASN,153793,no-resolve

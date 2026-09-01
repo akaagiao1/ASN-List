@@ -1,6 +1,6 @@
 # AU 的 ASN 信息
-# 最后更新： CST 2026-08-31 03:38:42
-# ASN: 1700
+# 最后更新： CST 2026-09-02 03:44:13
+# ASN: 1702
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1221,no-resolve
@@ -55,6 +55,7 @@ IP-ASN,7703,no-resolve
 IP-ASN,7716,no-resolve
 IP-ASN,7718,no-resolve
 IP-ASN,7722,no-resolve
+IP-ASN,8100,no-resolve
 IP-ASN,8888,no-resolve
 IP-ASN,9224,no-resolve
 IP-ASN,9268,no-resolve
@@ -1681,6 +1682,7 @@ IP-ASN,154710,no-resolve
 IP-ASN,154726,no-resolve
 IP-ASN,154740,no-resolve
 IP-ASN,154753,no-resolve
+IP-ASN,154866,no-resolve
 IP-ASN,197245,no-resolve
 IP-ASN,198125,no-resolve
 IP-ASN,198209,no-resolve

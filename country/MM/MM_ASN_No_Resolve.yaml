@@ -1,6 +1,6 @@
 # MM 的 ASN 信息
-# 最后更新： CST 2026-08-31 03:39:39
-# ASN: 131
+# 最后更新： CST 2026-09-02 03:44:54
+# ASN: 132
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -135,3 +135,4 @@ payload:
   - IP-ASN,153998,no-resolve
   - IP-ASN,154020,no-resolve
   - IP-ASN,154481,no-resolve
+  - IP-ASN,154831,no-resolve

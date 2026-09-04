@@ -1,5 +1,5 @@
 # NL 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:27
+# 最后更新： CST 2026-09-05 03:27:17
 # ASN: 1119
 # 由 Kwisma 制作，保留所有权利。
 
@@ -966,7 +966,6 @@ IP-ASN,211750,no-resolve
 IP-ASN,211769,no-resolve
 IP-ASN,211786,no-resolve
 IP-ASN,211822,no-resolve
-IP-ASN,211840,no-resolve
 IP-ASN,211856,no-resolve
 IP-ASN,211895,no-resolve
 IP-ASN,211982,no-resolve
@@ -1082,6 +1081,7 @@ IP-ASN,215370,no-resolve
 IP-ASN,215386,no-resolve
 IP-ASN,215473,no-resolve
 IP-ASN,215481,no-resolve
+IP-ASN,215495,no-resolve
 IP-ASN,215512,no-resolve
 IP-ASN,215553,no-resolve
 IP-ASN,215558,no-resolve

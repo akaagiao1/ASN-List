@@ -1,6 +1,6 @@
 # IQ 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:53
-# ASN: 145
+# 最后更新： CST 2026-09-05 03:27:46
+# ASN: 146
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3194,no-resolve
@@ -76,6 +76,7 @@ IP-ASN,203904,no-resolve
 IP-ASN,203982,no-resolve
 IP-ASN,204152,no-resolve
 IP-ASN,204249,no-resolve
+IP-ASN,204473,no-resolve
 IP-ASN,204798,no-resolve
 IP-ASN,205049,no-resolve
 IP-ASN,205169,no-resolve

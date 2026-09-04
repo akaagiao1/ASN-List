@@ -1,6 +1,6 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:43:56
-# ASN: 2283
+# 最后更新： CST 2026-09-05 03:26:41
+# ASN: 2287
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1169,7 +1169,6 @@ payload:
   - IP-ASN,199131,no-resolve
   - IP-ASN,199165,no-resolve
   - IP-ASN,199185,no-resolve
-  - IP-ASN,199186,no-resolve
   - IP-ASN,199204,no-resolve
   - IP-ASN,199262,no-resolve
   - IP-ASN,199283,no-resolve
@@ -1190,7 +1189,6 @@ payload:
   - IP-ASN,199492,no-resolve
   - IP-ASN,199516,no-resolve
   - IP-ASN,199519,no-resolve
-  - IP-ASN,199535,no-resolve
   - IP-ASN,199542,no-resolve
   - IP-ASN,199548,no-resolve
   - IP-ASN,199550,no-resolve
@@ -1958,7 +1956,6 @@ payload:
   - IP-ASN,211675,no-resolve
   - IP-ASN,211678,no-resolve
   - IP-ASN,211687,no-resolve
-  - IP-ASN,211708,no-resolve
   - IP-ASN,211760,no-resolve
   - IP-ASN,211775,no-resolve
   - IP-ASN,211803,no-resolve
@@ -2153,6 +2150,7 @@ payload:
   - IP-ASN,214749,no-resolve
   - IP-ASN,214770,no-resolve
   - IP-ASN,214861,no-resolve
+  - IP-ASN,214894,no-resolve
   - IP-ASN,214927,no-resolve
   - IP-ASN,214931,no-resolve
   - IP-ASN,214947,no-resolve
@@ -2246,12 +2244,17 @@ payload:
   - IP-ASN,216364,no-resolve
   - IP-ASN,216376,no-resolve
   - IP-ASN,216405,no-resolve
+  - IP-ASN,218776,no-resolve
+  - IP-ASN,218805,no-resolve
   - IP-ASN,218807,no-resolve
+  - IP-ASN,218839,no-resolve
+  - IP-ASN,218843,no-resolve
   - IP-ASN,218865,no-resolve
   - IP-ASN,218914,no-resolve
   - IP-ASN,218950,no-resolve
   - IP-ASN,218964,no-resolve
   - IP-ASN,218965,no-resolve
+  - IP-ASN,219005,no-resolve
   - IP-ASN,219036,no-resolve
   - IP-ASN,219040,no-resolve
   - IP-ASN,219064,no-resolve
@@ -2286,4 +2289,5 @@ payload:
   - IP-ASN,219469,no-resolve
   - IP-ASN,219494,no-resolve
   - IP-ASN,219522,no-resolve
+  - IP-ASN,219526,no-resolve
   - IP-ASN,401568,no-resolve

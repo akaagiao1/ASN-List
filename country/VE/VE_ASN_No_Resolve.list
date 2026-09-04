@@ -1,6 +1,6 @@
 # VE 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:53
-# ASN: 209
+# 最后更新： CST 2026-09-05 03:27:46
+# ASN: 210
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,3496,no-resolve
@@ -211,4 +211,5 @@ IP-ASN,274960,no-resolve
 IP-ASN,274973,no-resolve
 IP-ASN,274974,no-resolve
 IP-ASN,274988,no-resolve
+IP-ASN,274999,no-resolve
 IP-ASN,275004,no-resolve

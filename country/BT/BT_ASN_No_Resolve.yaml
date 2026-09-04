@@ -1,6 +1,6 @@
 # BT 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:56
-# ASN: 26
+# 最后更新： CST 2026-09-05 03:27:51
+# ASN: 27
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -30,3 +30,4 @@ payload:
   - IP-ASN,152480,no-resolve
   - IP-ASN,153740,no-resolve
   - IP-ASN,153779,no-resolve
+  - IP-ASN,154825,no-resolve

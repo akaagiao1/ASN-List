@@ -1,6 +1,6 @@
 # ID 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:02
-# ASN: 2897
+# 最后更新： CST 2026-09-05 03:26:47
+# ASN: 2901
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -61,7 +61,6 @@ payload:
   - IP-ASN,18056,no-resolve
   - IP-ASN,18059,no-resolve
   - IP-ASN,18103,no-resolve
-  - IP-ASN,18112,no-resolve
   - IP-ASN,18153,no-resolve
   - IP-ASN,18156,no-resolve
   - IP-ASN,18355,no-resolve
@@ -254,6 +253,7 @@ payload:
   - IP-ASN,45725,no-resolve
   - IP-ASN,45726,no-resolve
   - IP-ASN,45727,no-resolve
+  - IP-ASN,45729,no-resolve
   - IP-ASN,45730,no-resolve
   - IP-ASN,45731,no-resolve
   - IP-ASN,45732,no-resolve
@@ -963,6 +963,7 @@ payload:
   - IP-ASN,137383,no-resolve
   - IP-ASN,137384,no-resolve
   - IP-ASN,137428,no-resolve
+  - IP-ASN,137496,no-resolve
   - IP-ASN,137518,no-resolve
   - IP-ASN,137909,no-resolve
   - IP-ASN,137939,no-resolve
@@ -1753,7 +1754,6 @@ payload:
   - IP-ASN,147170,no-resolve
   - IP-ASN,147171,no-resolve
   - IP-ASN,147173,no-resolve
-  - IP-ASN,149176,no-resolve
   - IP-ASN,149315,no-resolve
   - IP-ASN,149316,no-resolve
   - IP-ASN,149318,no-resolve
@@ -2422,6 +2422,7 @@ payload:
   - IP-ASN,152441,no-resolve
   - IP-ASN,152442,no-resolve
   - IP-ASN,152630,no-resolve
+  - IP-ASN,152717,no-resolve
   - IP-ASN,152722,no-resolve
   - IP-ASN,152744,no-resolve
   - IP-ASN,152745,no-resolve
@@ -2568,6 +2569,7 @@ payload:
   - IP-ASN,153144,no-resolve
   - IP-ASN,153145,no-resolve
   - IP-ASN,153146,no-resolve
+  - IP-ASN,153147,no-resolve
   - IP-ASN,153148,no-resolve
   - IP-ASN,153149,no-resolve
   - IP-ASN,153150,no-resolve
@@ -2802,6 +2804,7 @@ payload:
   - IP-ASN,154533,no-resolve
   - IP-ASN,154534,no-resolve
   - IP-ASN,154536,no-resolve
+  - IP-ASN,154537,no-resolve
   - IP-ASN,154538,no-resolve
   - IP-ASN,154547,no-resolve
   - IP-ASN,154548,no-resolve
@@ -2854,6 +2857,7 @@ payload:
   - IP-ASN,154772,no-resolve
   - IP-ASN,154774,no-resolve
   - IP-ASN,154775,no-resolve
+  - IP-ASN,154777,no-resolve
   - IP-ASN,154779,no-resolve
   - IP-ASN,154789,no-resolve
   - IP-ASN,154793,no-resolve

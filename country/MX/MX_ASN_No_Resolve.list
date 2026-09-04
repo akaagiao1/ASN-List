@@ -1,6 +1,6 @@
 # MX 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:46
-# ASN: 541
+# 最后更新： CST 2026-09-05 03:27:38
+# ASN: 544
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,278,no-resolve
@@ -543,4 +543,7 @@ IP-ASN,274422,no-resolve
 IP-ASN,274423,no-resolve
 IP-ASN,274424,no-resolve
 IP-ASN,274428,no-resolve
+IP-ASN,274434,no-resolve
+IP-ASN,274439,no-resolve
+IP-ASN,274446,no-resolve
 IP-ASN,274452,no-resolve

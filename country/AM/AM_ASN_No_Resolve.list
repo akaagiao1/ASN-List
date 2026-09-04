@@ -1,6 +1,6 @@
 # AM 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:55
-# ASN: 130
+# 最后更新： CST 2026-09-05 03:27:49
+# ASN: 131
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,6682,no-resolve
@@ -81,6 +81,7 @@ IP-ASN,204194,no-resolve
 IP-ASN,204241,no-resolve
 IP-ASN,204267,no-resolve
 IP-ASN,204620,no-resolve
+IP-ASN,204966,no-resolve
 IP-ASN,205261,no-resolve
 IP-ASN,205277,no-resolve
 IP-ASN,205293,no-resolve

@@ -1,6 +1,6 @@
 # PL 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:44:16
-# ASN: 2160
+# 最后更新： CST 2026-09-05 03:27:03
+# ASN: 2162
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -2155,6 +2155,8 @@ payload:
   - IP-ASN,216323,no-resolve
   - IP-ASN,216439,no-resolve
   - IP-ASN,216446,no-resolve
+  - IP-ASN,218792,no-resolve
+  - IP-ASN,218881,no-resolve
   - IP-ASN,219097,no-resolve
   - IP-ASN,219121,no-resolve
   - IP-ASN,219173,no-resolve

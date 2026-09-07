@@ -1,6 +1,6 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-09-05 02:44:03
-# ASN: 19136
+# 最后更新： CST 2026-09-08 03:30:41
+# ASN: 19142
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1,no-resolve
@@ -6105,6 +6105,7 @@ IP-ASN,22728,no-resolve
 IP-ASN,22729,no-resolve
 IP-ASN,22731,no-resolve
 IP-ASN,22732,no-resolve
+IP-ASN,22736,no-resolve
 IP-ASN,22739,no-resolve
 IP-ASN,22741,no-resolve
 IP-ASN,22742,no-resolve
@@ -13631,6 +13632,7 @@ IP-ASN,216357,no-resolve
 IP-ASN,216435,no-resolve
 IP-ASN,216475,no-resolve
 IP-ASN,218828,no-resolve
+IP-ASN,218869,no-resolve
 IP-ASN,218885,no-resolve
 IP-ASN,218890,no-resolve
 IP-ASN,218930,no-resolve
@@ -13650,6 +13652,7 @@ IP-ASN,219158,no-resolve
 IP-ASN,219160,no-resolve
 IP-ASN,219217,no-resolve
 IP-ASN,219233,no-resolve
+IP-ASN,219255,no-resolve
 IP-ASN,219328,no-resolve
 IP-ASN,219330,no-resolve
 IP-ASN,219383,no-resolve
@@ -18974,10 +18977,12 @@ IP-ASN,402385,no-resolve
 IP-ASN,402390,no-resolve
 IP-ASN,402391,no-resolve
 IP-ASN,402393,no-resolve
+IP-ASN,402394,no-resolve
 IP-ASN,402395,no-resolve
 IP-ASN,402397,no-resolve
 IP-ASN,402398,no-resolve
 IP-ASN,402399,no-resolve
+IP-ASN,402402,no-resolve
 IP-ASN,402406,no-resolve
 IP-ASN,402409,no-resolve
 IP-ASN,402410,no-resolve
@@ -19022,6 +19027,7 @@ IP-ASN,402494,no-resolve
 IP-ASN,402495,no-resolve
 IP-ASN,402500,no-resolve
 IP-ASN,402506,no-resolve
+IP-ASN,402509,no-resolve
 IP-ASN,402510,no-resolve
 IP-ASN,402511,no-resolve
 IP-ASN,402514,no-resolve

@@ -1,6 +1,6 @@
 # TM 的 ASN 信息
-# 最后更新： CST 2026-09-10 03:40:09
-# ASN: 7
+# 最后更新： CST 2026-09-11 03:32:15
+# ASN: 8
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -11,3 +11,4 @@ payload:
   - IP-ASN,204579,no-resolve
   - IP-ASN,205471,no-resolve
   - IP-ASN,215487,no-resolve
+  - IP-ASN,219194,no-resolve

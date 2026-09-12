@@ -1,5 +1,5 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-09-11 02:51:13
+# 最后更新： CST 2026-09-13 02:00:10
 # ASN: 19142
 # 由 Kwisma 制作，保留所有权利。
 
@@ -11055,7 +11055,6 @@ IP-ASN,46669,no-resolve
 IP-ASN,46670,no-resolve
 IP-ASN,46672,no-resolve
 IP-ASN,46674,no-resolve
-IP-ASN,46675,no-resolve
 IP-ASN,46676,no-resolve
 IP-ASN,46677,no-resolve
 IP-ASN,46679,no-resolve
@@ -18588,6 +18587,7 @@ IP-ASN,401611,no-resolve
 IP-ASN,401612,no-resolve
 IP-ASN,401613,no-resolve
 IP-ASN,401615,no-resolve
+IP-ASN,401617,no-resolve
 IP-ASN,401618,no-resolve
 IP-ASN,401620,no-resolve
 IP-ASN,401622,no-resolve

@@ -1,6 +1,6 @@
 # CA 的 ASN 信息
-# 最后更新： CST 2026-09-11 03:31:29
-# ASN: 1654
+# 最后更新： CST 2026-09-13 02:40:15
+# ASN: 1655
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,239,no-resolve
@@ -892,6 +892,7 @@ IP-ASN,46612,no-resolve
 IP-ASN,46626,no-resolve
 IP-ASN,46630,no-resolve
 IP-ASN,46641,no-resolve
+IP-ASN,46675,no-resolve
 IP-ASN,46686,no-resolve
 IP-ASN,46737,no-resolve
 IP-ASN,46757,no-resolve

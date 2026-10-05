@@ -1,6 +1,6 @@
 # IL 的 ASN 信息
-# 最后更新： CST 2026-10-05 03:35:51
-# ASN: 332
+# 最后更新： CST 2026-10-06 06:57:35
+# ASN: 333
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,378,no-resolve
@@ -329,6 +329,7 @@ IP-ASN,216156,no-resolve
 IP-ASN,216162,no-resolve
 IP-ASN,216306,no-resolve
 IP-ASN,216429,no-resolve
+IP-ASN,218870,no-resolve
 IP-ASN,218872,no-resolve
 IP-ASN,219168,no-resolve
 IP-ASN,219346,no-resolve

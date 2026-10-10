@@ -1,6 +1,6 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-10-09 04:56:35
-# ASN: 19151
+# 最后更新： CST 2026-10-11 03:39:33
+# ASN: 19150
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -8634,7 +8634,6 @@ payload:
   - IP-ASN,32334,no-resolve
   - IP-ASN,32336,no-resolve
   - IP-ASN,32337,no-resolve
-  - IP-ASN,32340,no-resolve
   - IP-ASN,32342,no-resolve
   - IP-ASN,32343,no-resolve
   - IP-ASN,32344,no-resolve
@@ -9668,7 +9667,6 @@ payload:
   - IP-ASN,36227,no-resolve
   - IP-ASN,36228,no-resolve
   - IP-ASN,36229,no-resolve
-  - IP-ASN,36231,no-resolve
   - IP-ASN,36232,no-resolve
   - IP-ASN,36234,no-resolve
   - IP-ASN,36236,no-resolve
@@ -10951,6 +10949,7 @@ payload:
   - IP-ASN,46479,no-resolve
   - IP-ASN,46480,no-resolve
   - IP-ASN,46481,no-resolve
+  - IP-ASN,46482,no-resolve
   - IP-ASN,46483,no-resolve
   - IP-ASN,46484,no-resolve
   - IP-ASN,46488,no-resolve

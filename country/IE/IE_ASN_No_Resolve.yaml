@@ -1,6 +1,6 @@
 # IE 的 ASN 信息
-# 最后更新： CST 2026-10-11 04:07:24
-# ASN: 206
+# 最后更新： CST 2026-10-14 05:36:09
+# ASN: 207
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -179,6 +179,7 @@ payload:
   - IP-ASN,210045,no-resolve
   - IP-ASN,210568,no-resolve
   - IP-ASN,210723,no-resolve
+  - IP-ASN,210812,no-resolve
   - IP-ASN,211024,no-resolve
   - IP-ASN,211054,no-resolve
   - IP-ASN,211439,no-resolve

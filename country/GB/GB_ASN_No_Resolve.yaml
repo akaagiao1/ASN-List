@@ -1,6 +1,6 @@
 # GB 的 ASN 信息
-# 最后更新： CST 2026-10-14 05:35:00
-# ASN: 2289
+# 最后更新： CST 2026-10-15 04:31:39
+# ASN: 2288
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -1592,7 +1592,6 @@ payload:
   - IP-ASN,205648,no-resolve
   - IP-ASN,205649,no-resolve
   - IP-ASN,205654,no-resolve
-  - IP-ASN,205676,no-resolve
   - IP-ASN,205693,no-resolve
   - IP-ASN,205705,no-resolve
   - IP-ASN,205719,no-resolve

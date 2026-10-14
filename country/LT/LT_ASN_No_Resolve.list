@@ -1,6 +1,6 @@
 # LT 的 ASN 信息
-# 最后更新： CST 2026-10-14 05:36:11
-# ASN: 190
+# 最后更新： CST 2026-10-15 04:32:49
+# ASN: 191
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2847,no-resolve
@@ -128,6 +128,7 @@ IP-ASN,204746,no-resolve
 IP-ASN,204770,no-resolve
 IP-ASN,204967,no-resolve
 IP-ASN,205659,no-resolve
+IP-ASN,205676,no-resolve
 IP-ASN,205686,no-resolve
 IP-ASN,205688,no-resolve
 IP-ASN,205964,no-resolve

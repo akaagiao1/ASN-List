@@ -1,6 +1,6 @@
 # UA 的 ASN 信息
-# 最后更新： CST 2026-10-18 02:44:55
-# ASN: 1595
+# 最后更新： CST 2026-10-19 03:03:29
+# ASN: 1598
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,2601,no-resolve
@@ -31,7 +31,6 @@ IP-ASN,8494,no-resolve
 IP-ASN,8601,no-resolve
 IP-ASN,8695,no-resolve
 IP-ASN,8719,no-resolve
-IP-ASN,8772,no-resolve
 IP-ASN,8779,no-resolve
 IP-ASN,8788,no-resolve
 IP-ASN,8811,no-resolve
@@ -488,6 +487,7 @@ IP-ASN,42159,no-resolve
 IP-ASN,42164,no-resolve
 IP-ASN,42174,no-resolve
 IP-ASN,42195,no-resolve
+IP-ASN,42237,no-resolve
 IP-ASN,42259,no-resolve
 IP-ASN,42292,no-resolve
 IP-ASN,42327,no-resolve
@@ -768,6 +768,7 @@ IP-ASN,49327,no-resolve
 IP-ASN,49332,no-resolve
 IP-ASN,49337,no-resolve
 IP-ASN,49359,no-resolve
+IP-ASN,49372,no-resolve
 IP-ASN,49389,no-resolve
 IP-ASN,49461,no-resolve
 IP-ASN,49465,no-resolve
@@ -847,6 +848,7 @@ IP-ASN,50861,no-resolve
 IP-ASN,50864,no-resolve
 IP-ASN,50879,no-resolve
 IP-ASN,50899,no-resolve
+IP-ASN,51031,no-resolve
 IP-ASN,51069,no-resolve
 IP-ASN,51121,no-resolve
 IP-ASN,51122,no-resolve
@@ -1026,6 +1028,7 @@ IP-ASN,57999,no-resolve
 IP-ASN,58021,no-resolve
 IP-ASN,58032,no-resolve
 IP-ASN,58055,no-resolve
+IP-ASN,58062,no-resolve
 IP-ASN,58066,no-resolve
 IP-ASN,58099,no-resolve
 IP-ASN,58119,no-resolve

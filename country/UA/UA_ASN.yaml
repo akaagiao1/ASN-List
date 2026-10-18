@@ -1,6 +1,6 @@
 # UA 的 ASN 信息
-# 最后更新： CST 2026-10-18 02:44:55
-# ASN: 1595
+# 最后更新： CST 2026-10-19 03:03:29
+# ASN: 1598
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -32,7 +32,6 @@ payload:
   - IP-ASN,8601
   - IP-ASN,8695
   - IP-ASN,8719
-  - IP-ASN,8772
   - IP-ASN,8779
   - IP-ASN,8788
   - IP-ASN,8811
@@ -489,6 +488,7 @@ payload:
   - IP-ASN,42164
   - IP-ASN,42174
   - IP-ASN,42195
+  - IP-ASN,42237
   - IP-ASN,42259
   - IP-ASN,42292
   - IP-ASN,42327
@@ -769,6 +769,7 @@ payload:
   - IP-ASN,49332
   - IP-ASN,49337
   - IP-ASN,49359
+  - IP-ASN,49372
   - IP-ASN,49389
   - IP-ASN,49461
   - IP-ASN,49465
@@ -848,6 +849,7 @@ payload:
   - IP-ASN,50864
   - IP-ASN,50879
   - IP-ASN,50899
+  - IP-ASN,51031
   - IP-ASN,51069
   - IP-ASN,51121
   - IP-ASN,51122
@@ -1027,6 +1029,7 @@ payload:
   - IP-ASN,58021
   - IP-ASN,58032
   - IP-ASN,58055
+  - IP-ASN,58062
   - IP-ASN,58066
   - IP-ASN,58099
   - IP-ASN,58119

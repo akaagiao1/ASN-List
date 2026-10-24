@@ -1,12 +1,13 @@
 # Amazon 的 ASN 信息
-# 最后更新： CST 2026-10-22 03:48:46
-# ASN: 28
+# 最后更新： CST 2026-10-25 02:28:07
+# ASN: 29
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
   - IP-ASN,699
   - IP-ASN,801
   - IP-ASN,7224
+  - IP-ASN,8987
   - IP-ASN,9059
   - IP-ASN,10124
   - IP-ASN,10291

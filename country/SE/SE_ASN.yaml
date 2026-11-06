@@ -1,6 +1,6 @@
 # SE 的 ASN 信息
-# 最后更新： CST 2026-11-04 05:57:58
-# ASN: 668
+# 最后更新： CST 2026-11-07 05:43:22
+# ASN: 669
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -171,6 +171,7 @@ payload:
   - IP-ASN,41001
   - IP-ASN,41174
   - IP-ASN,41216
+  - IP-ASN,41240
   - IP-ASN,41243
   - IP-ASN,41401
   - IP-ASN,41528

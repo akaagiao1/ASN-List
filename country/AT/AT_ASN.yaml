@@ -1,6 +1,6 @@
 # AT 的 ASN 信息
-# 最后更新： CST 2026-11-07 05:43:24
-# ASN: 645
+# 最后更新： CST 2026-11-11 06:16:50
+# ASN: 648
 # 由 Kwisma 制作，保留所有权利。
 
 payload:
@@ -338,6 +338,7 @@ payload:
   - IP-ASN,57878
   - IP-ASN,58131
   - IP-ASN,59456
+  - IP-ASN,59645
   - IP-ASN,59669
   - IP-ASN,59779
   - IP-ASN,59789
@@ -582,6 +583,7 @@ payload:
   - IP-ASN,211099
   - IP-ASN,211196
   - IP-ASN,211283
+  - IP-ASN,211286
   - IP-ASN,211351
   - IP-ASN,211410
   - IP-ASN,211461
@@ -630,6 +632,7 @@ payload:
   - IP-ASN,215120
   - IP-ASN,215136
   - IP-ASN,215219
+  - IP-ASN,215250
   - IP-ASN,215422
   - IP-ASN,215461
   - IP-ASN,215510

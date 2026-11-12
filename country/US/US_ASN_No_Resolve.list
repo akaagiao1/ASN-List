@@ -1,6 +1,6 @@
 # US 的 ASN 信息
-# 最后更新： CST 2026-11-12 06:23:42
-# ASN: 19149
+# 最后更新： CST 2026-11-13 05:59:02
+# ASN: 19151
 # 由 Kwisma 制作，保留所有权利。
 
 IP-ASN,1,no-resolve
@@ -13553,6 +13553,7 @@ IP-ASN,212071,no-resolve
 IP-ASN,212276,no-resolve
 IP-ASN,212336,no-resolve
 IP-ASN,212400,no-resolve
+IP-ASN,212743,no-resolve
 IP-ASN,212879,no-resolve
 IP-ASN,212935,no-resolve
 IP-ASN,212947,no-resolve
@@ -13664,6 +13665,7 @@ IP-ASN,219328,no-resolve
 IP-ASN,219330,no-resolve
 IP-ASN,219383,no-resolve
 IP-ASN,219384,no-resolve
+IP-ASN,219397,no-resolve
 IP-ASN,219401,no-resolve
 IP-ASN,219425,no-resolve
 IP-ASN,219474,no-resolve
